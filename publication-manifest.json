@@ -1,0 +1,51 @@
+{
+  "name": "Teens Education Bob",
+  "researchDate": "2026-09-15",
+  "reports": [
+    {
+      "file": "world-k12-pathways-zh.html",
+      "bytes": 1523141,
+      "sha256": "dab0f68f97e3dcf7fa09b49f35717c0af0fb85938a484aca2fde84b9f0ffca34"
+    },
+    {
+      "file": "world-k12-pathways-zh.pdf",
+      "bytes": 12585851,
+      "sha256": "f01b356090b140166891e35c4d541ddfc1846887a9faf057cce3f8f3b7bd6d3e"
+    },
+    {
+      "file": "family-needs-return-pathways-zh.html",
+      "bytes": 90889,
+      "sha256": "2f16a4eb192af8de812ffe307518aa87503c4e45622776c73a11f9077ec32ac3"
+    },
+    {
+      "file": "family-needs-return-pathways-zh.md",
+      "bytes": 68028,
+      "sha256": "a43fe64ea6459e4b1cb60193bbb024e1b1f77ad5ba66aa06895288071ae01032"
+    },
+    {
+      "file": "family-needs-return-pathways-zh.pdf",
+      "bytes": 3849063,
+      "sha256": "098c6727c673d7d8e1a14fcb50728260fbe7a81ff61e0918a0e25124a66c81b2"
+    },
+    {
+      "file": "guardian-accommodation-review-zh.html",
+      "bytes": 71654,
+      "sha256": "0eac2a37cc1a6126c9875fe9bec80b9df87d3da87a70025aa5cc538ee8c4ca63"
+    },
+    {
+      "file": "guardian-accommodation-review-zh.md",
+      "bytes": 50385,
+      "sha256": "6d5d34a32cd3f2c3d25845f2798b6292a554617f3fa2dfb5608dd2c378e023a3"
+    },
+    {
+      "file": "guardian-accommodation-review-zh.pdf",
+      "bytes": 3044094,
+      "sha256": "365cf2d1f4475e5295b71e91f98ab8f6aaa6789acbe6417b0052d9ce4045450d"
+    },
+    {
+      "file": "australia-k12-research-zh.html",
+      "bytes": 55236,
+      "sha256": "b7654bb79da24cef00d918ad2dc4c912217a7fd91348cfd6fe34636261f25541"
+    }
+  ]
+}
