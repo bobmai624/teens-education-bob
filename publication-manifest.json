@@ -4,8 +4,8 @@
   "reports": [
     {
       "file": "world-k12-pathways-zh.html",
-      "bytes": 1523141,
-      "sha256": "dab0f68f97e3dcf7fa09b49f35717c0af0fb85938a484aca2fde84b9f0ffca34"
+      "bytes": 1523076,
+      "sha256": "28a3ccf4b1040781d888d7b2a871603bd0aff6dcbd6a380bb9893280a5fd44ba"
     },
     {
       "file": "world-k12-pathways-zh.pdf",
@@ -14,8 +14,8 @@
     },
     {
       "file": "family-needs-return-pathways-zh.html",
-      "bytes": 90889,
-      "sha256": "2f16a4eb192af8de812ffe307518aa87503c4e45622776c73a11f9077ec32ac3"
+      "bytes": 90824,
+      "sha256": "616007e2b56d85c30ad32d7107ef567db6e963a1ba59cc09475657d3c9ef8b7d"
     },
     {
       "file": "family-needs-return-pathways-zh.md",
@@ -29,8 +29,8 @@
     },
     {
       "file": "guardian-accommodation-review-zh.html",
-      "bytes": 71654,
-      "sha256": "0eac2a37cc1a6126c9875fe9bec80b9df87d3da87a70025aa5cc538ee8c4ca63"
+      "bytes": 71589,
+      "sha256": "26ab1837256e21265b98b56bb0f7846a8f12a24fb16505b7f7cb8235df25a15d"
     },
     {
       "file": "guardian-accommodation-review-zh.md",
@@ -44,8 +44,11 @@
     },
     {
       "file": "australia-k12-research-zh.html",
-      "bytes": 55236,
-      "sha256": "b7654bb79da24cef00d918ad2dc4c912217a7fd91348cfd6fe34636261f25541"
+      "bytes": 55171,
+      "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
     }
-  ]
+  ],
+  "siteVersion": "2.0",
+  "readingPages": 103,
+  "referenceRecords": 551
 }

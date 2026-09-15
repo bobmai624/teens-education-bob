@@ -25,3 +25,13 @@
 ## Publication
 
 Static HTML hosted through GitHub Pages. No account, analytics, or server-side personal-data collection is added by this publication. Only finished reports are included; local work files, prior drafts, and browser history are excluded.
+
+<!-- HUB NAVIGATION -->
+## Classified reading / 分类导览
+
+- [Index / 总入口](https://bobmai624.github.io/teens-education-bob/) — 8 个专题、章节检索及完整报告下载。
+- [国家与地区](https://bobmai624.github.io/teens-education-bob/countries.html) — 37 个独立案例页面。
+- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 551 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
+- 103 个分章阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
+- 本次更新为阅读结构与导引调整，不代表重新核验所有政策。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
+<!-- END HUB NAVIGATION -->
