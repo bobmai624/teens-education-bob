@@ -1,5 +1,14 @@
 {
-  "version": "2.0",
+  "version": "2.1",
+  "guides": [
+    {
+      "file": "family-report.html",
+      "title": "核心报告：教育目标、总成本与回国衔接",
+      "categoryLabel": "完整报告导读",
+      "keywords": "My main conclusion desired outcomes affordable total costs verified fallback routes 普通家庭 中产 富裕 小学 初中 高中 大学 预算 家庭需求 商业机会",
+      "refs": []
+    }
+  ],
   "pages": [
     {
       "file": "world-pathway-atlas.html",
