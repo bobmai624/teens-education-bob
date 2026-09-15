@@ -48,8 +48,10 @@
       "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
     }
   ],
-  "siteVersion": "2.1",
-  "readingPages": 103,
-  "referenceRecords": 551,
-  "coreReport": "family-report.html"
+  "siteVersion": "3.0",
+  "readingPages": 111,
+  "referenceRecords": 664,
+  "coreReport": "family-report.html",
+  "focusReport": "five-country-focus.html",
+  "focusResearchDate": "2026-09-15"
 }

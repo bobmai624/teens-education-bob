@@ -11840,5 +11840,2254 @@
     "reportLabel": "澳洲专题",
     "topic": "学校与研究资料",
     "usedBy": []
+  },
+  {
+    "code": "AU01",
+    "title": "NT政府：国际学生学费及签证分类",
+    "url": "https://nt.gov.au/learning/international-education/study-at-an-nt-government-school/school-fees-for-international-students",
+    "note": "核查：2026-09-15。2026本人付费签证年度表、482分类与非学费；具体学校和签证仍须确认。",
+    "topic": "签证与监护",
+    "id": "AU01",
+    "key": "focus-AU01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "five-country-focus.html",
+        "title": "五国专题｜怎样把年度学费压到8万元",
+        "category": "focus",
+        "anchor": "cite-focus-AU01-1"
+      },
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU01-6"
+      }
+    ]
+  },
+  {
+    "code": "AU02",
+    "title": "塔州政府：国际项目费用",
+    "url": "https://study.tas.gov.au/study/fees/",
+    "note": "核查：2026-09-15。2026/2027年度费用、服务收费和Years9–12寄宿；生活费不在tuition内。",
+    "topic": "费用与汇率",
+    "id": "AU02",
+    "key": "focus-AU02",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU02-7"
+      }
+    ]
+  },
+  {
+    "code": "AU03",
+    "title": "南澳政府学校：2026国际费用表",
+    "url": "https://www.internationalstudents.sa.edu.au/app/uploads/PDFS/SA-Govt-Schools_Fee-Schedule_Eng_2026.pdf",
+    "note": "核查：2026-09-15。明确2026各学段纯学费；行政、保险、住宿与考试等另列。",
+    "topic": "费用与汇率",
+    "id": "AU03",
+    "key": "focus-AU03",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU03-8"
+      }
+    ]
+  },
+  {
+    "code": "AU04",
+    "title": "Education Queensland International：费用",
+    "url": "https://eqi.com.au/apply-now/fees",
+    "note": "核查：2026-09-15。2026/2027费率；区域Study Abroad最长4terms，不是永久区域折扣。",
+    "topic": "费用与汇率",
+    "id": "AU04",
+    "key": "focus-AU04",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU04-9"
+      }
+    ]
+  },
+  {
+    "code": "AU05",
+    "title": "WA教育局：国际学生学费",
+    "url": "https://www.education.wa.edu.au/vi/web/international-education/tuition-fees",
+    "note": "核查：2026-09-15。2026学校500费用及英语支持附加价格；不应只套普通最低价。",
+    "topic": "费用与汇率",
+    "id": "AU05",
+    "key": "focus-AU05",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU05-10"
+      }
+    ]
+  },
+  {
+    "code": "AU06",
+    "title": "NSW DE International：学费与优惠",
+    "url": "https://deinternational.nsw.edu.au/study-options/fees",
+    "note": "核查：2026-09-15。2026/2027年度费率、地区/兄弟姐妹及新生寄宿优惠；优惠叠加不得推定。",
+    "topic": "费用与汇率",
+    "id": "AU06",
+    "key": "focus-AU06",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU06-11"
+      }
+    ]
+  },
+  {
+    "code": "AU07",
+    "title": "ACT Government：国际学生",
+    "url": "https://www.act.gov.au/education-and-training/international-students-and-temporary-visa-holders/international-students",
+    "note": "核查：2026-09-15。当前公开价格未明确费用适用年度；须书面确认2026/27，另有年龄和福利规则。",
+    "topic": "费用与汇率",
+    "id": "AU07",
+    "key": "focus-AU07",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU07-12"
+      }
+    ]
+  },
+  {
+    "code": "AU08",
+    "title": "ACT：当前链接的长期国际生正式申请表",
+    "url": "https://www.act.gov.au/__data/assets/pdf_file/0006/2824062/Long-Term-Studies-Application-Form.pdf",
+    "note": "核查：2026-09-15。费用与网页一致，但旧版本日期与2026–2028校历并存；学校500、申请与福利证据。",
+    "topic": "费用与汇率",
+    "id": "AU08",
+    "key": "focus-AU08",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU08-1"
+      }
+    ]
+  },
+  {
+    "code": "AU09",
+    "title": "NSW：International Student Program",
+    "url": "https://deinternational.nsw.edu.au/study-options/study-programs/international-student-program",
+    "note": "核查：2026-09-15。本人500年级、英语、照顾安排与小学期限；2027Year6要求须单核。",
+    "topic": "学校与研究资料",
+    "id": "AU09",
+    "key": "focus-AU09",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU09-40"
+      }
+    ]
+  },
+  {
+    "code": "AU10",
+    "title": "Suncoast Christian College：2026国际费用",
+    "url": "https://suncoastcc.qld.edu.au/wp-content/uploads/Suncoast-International-Fees-2026.pdf",
+    "note": "核查：2026-09-15。CRICOS00539J；年度与半年度分列，普通国际学费超预算。",
+    "topic": "费用与汇率",
+    "id": "AU10",
+    "key": "focus-AU10",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU10-24"
+      }
+    ]
+  },
+  {
+    "code": "AU11",
+    "title": "St Aloysius College：国际学生及费用",
+    "url": "https://www.sac.sa.edu.au/enrolments/international-students/",
+    "note": "核查：2026-09-15。Adelaide天主教女校、CRICOS00371F；2026/2027国际费用，不是本地价格。",
+    "topic": "费用与汇率",
+    "id": "AU11",
+    "key": "focus-AU11",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU11-25"
+      }
+    ]
+  },
+  {
+    "code": "AU12",
+    "title": "NESA：获准接收海外学生的NSW学校",
+    "url": "https://www.nsw.gov.au/education-and-training/nesa/school-regulation/overseas-students/approved-nsw-school-providers",
+    "note": "核查：2026-09-15。Pal Buddhist03398D批准至2028-12-31；注册不证明低价。",
+    "topic": "学校与研究资料",
+    "id": "AU12",
+    "key": "focus-AU12",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU12-26"
+      }
+    ]
+  },
+  {
+    "code": "AU13",
+    "title": "Pal Buddhist School：学生奖学金",
+    "url": "https://www.pal.nsw.edu.au/student-scholarships-buddhist-school",
+    "note": "核查：2026-09-15。已公布2026奖项限公民/PR；国际年费未在本研究核实。",
+    "topic": "学校与研究资料",
+    "id": "AU13",
+    "key": "focus-AU13",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU13-27"
+      }
+    ]
+  },
+  {
+    "code": "AU14",
+    "title": "Catholic Schools Parramatta：现行费用与资格",
+    "url": "https://www.parra.catholic.edu.au/our-schools/affordable-education",
+    "note": "核查：2026-09-15。明确不再CRICOS、不发CoE；FFPOS仅相应父母500附属子女，勿沿用旧招生页。",
+    "topic": "费用与汇率",
+    "id": "AU14",
+    "key": "focus-AU14",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU14-28"
+      }
+    ]
+  },
+  {
+    "code": "AU15",
+    "title": "Parramatta Catholic：2026 FFPOS收费表",
+    "url": "https://www.parra.catholic.edu.au/-/media/project/cedp/cathedparra/files/school-fees/2026-schedule-ffpos.pdf",
+    "note": "核查：2026-09-15。纯学费、年度服务/行政费及新生费分列；总教育费用可能超过纯学费上限。",
+    "topic": "费用与汇率",
+    "id": "AU15",
+    "key": "focus-AU15",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU15-29"
+      }
+    ]
+  },
+  {
+    "code": "AU16",
+    "title": "Calvin Christian School：费用",
+    "url": "https://www.calvin.tas.edu.au/fees",
+    "note": "核查：2026-09-15。引用2027附属子女费用；2026及孩子本人500适用性未确认。",
+    "topic": "费用与汇率",
+    "id": "AU16",
+    "key": "focus-AU16",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU16-30"
+      }
+    ]
+  },
+  {
+    "code": "AU17",
+    "title": "Nan Tien Institute：国际招生",
+    "url": "https://www.nantien.edu.au/admissions/international-students/",
+    "note": "核查：2026-09-15。研究生高等教育，不是K–12学校候选。",
+    "topic": "入学与学籍",
+    "id": "AU17",
+    "key": "focus-AU17",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU17-31"
+      }
+    ]
+  },
+  {
+    "code": "AU18",
+    "title": "Adelaide International School：费用表",
+    "url": "https://ais.edu.au/enrol/fee-schedule/",
+    "note": "核查：2026-09-15。2026国际Year10/SACE年度学费及非学费；未以本地价或未公布促销价代替。",
+    "topic": "费用与汇率",
+    "id": "AU18",
+    "key": "focus-AU18",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU18-32"
+      }
+    ]
+  },
+  {
+    "code": "AU19",
+    "title": "AIS：School Scholarships",
+    "url": "https://ais.edu.au/enrol/school-scholarships/",
+    "note": "核查：2026-09-15。有限名额、通常≤50%纯学费；中国大陆奖项资格和实际授奖未确认。",
+    "topic": "费用与汇率",
+    "id": "AU19",
+    "key": "focus-AU19",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU19-4"
+      }
+    ]
+  },
+  {
+    "code": "AU20",
+    "title": "AIS：官方奖学金申请表",
+    "url": "https://ais.edu.au/wp-content/uploads/2026/04/FM-002c-AIS-Scholarship-Application-Form-V3.1-29-Jan-25.doc-2.pdf",
+    "note": "核查：2026-09-15。当前链接V3.1/2025表；有国际场景、面试及年度复审，但无大陆国籍肯定资格结论。",
+    "topic": "学校与研究资料",
+    "id": "AU20",
+    "key": "focus-AU20",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU20-34"
+      }
+    ]
+  },
+  {
+    "code": "AU21",
+    "title": "St Aloysius：奖学金",
+    "url": "https://www.sac.sa.edu.au/enrolments/scholarships/",
+    "note": "核查：2026-09-15。Justice奖项可全额减学费但国际资格未核；2027申请已关闭。",
+    "topic": "费用与汇率",
+    "id": "AU21",
+    "key": "focus-AU21",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU21-35"
+      }
+    ]
+  },
+  {
+    "code": "AU22",
+    "title": "DFAT：Australia Awards参与国家",
+    "url": "https://www.dfat.gov.au/people-to-people/australia-awards/participating-countries",
+    "note": "核查：2026-09-15。现行名单没有中国大陆；不应宣传为大陆K–12普遍免费项目。",
+    "topic": "学校与研究资料",
+    "id": "AU22",
+    "key": "focus-AU22",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU22-37"
+      }
+    ]
+  },
+  {
+    "code": "AU23",
+    "title": "NSW：国际中学生及互惠交换政策",
+    "url": "https://education.nsw.gov.au/policy-library/policies/pd-2024-0482-05",
+    "note": "核查：2026-09-15。注册组织、AASES、互惠免课费和期限；大陆当前具体招生未核。",
+    "topic": "入学与学籍",
+    "id": "AU23",
+    "key": "focus-AU23",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU23-5"
+      }
+    ]
+  },
+  {
+    "code": "AU24",
+    "title": "Home Affairs：Student Guardian visa 590",
+    "url": "https://immi.homeaffairs.gov.au/Visa-subsite/Pages/student/590-student-guardian.aspx",
+    "note": "核查：2026-09-15。590不得工作；网页可能动态加载，个案以当前签证条件与VEVO为准。",
+    "topic": "签证与监护",
+    "id": "AU24",
+    "key": "focus-AU24",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU24-53"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-AU24-1"
+      }
+    ]
+  },
+  {
+    "code": "AU25",
+    "title": "Study Australia：Student visa 500",
+    "url": "https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas/student-visa-subclass-500",
+    "note": "核查：2026-09-15。学习、家庭成员及工时规则；research与coursework不可混淆。",
+    "topic": "签证与监护",
+    "id": "AU25",
+    "key": "focus-AU25",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU25-2"
+      }
+    ]
+  },
+  {
+    "code": "AU26",
+    "title": "Home Affairs：482 Core Skills stream",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/core-skills-stream",
+    "note": "核查：2026-09-15。雇主、职业、经验、英语等门槛及条件性后续永久类别；未判断个人资格或2026薪酬数值。",
+    "topic": "学校与研究资料",
+    "id": "AU26",
+    "key": "focus-AU26",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU26-3"
+      }
+    ]
+  },
+  {
+    "code": "AU27",
+    "title": "NSW：Temporary Residents教育费用表",
+    "url": "https://deinternational.nsw.edu.au/__data/assets/pdf_file/0013/16402/16402-Education-Fees.pdf",
+    "note": "核查：2026-09-15。文档标记20260910；2026/2027收费及特定PhD豁免。曾完整核读，后续自动打开出现间歇错误。",
+    "topic": "费用与汇率",
+    "id": "AU27",
+    "key": "focus-AU27",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU27-56"
+      }
+    ]
+  },
+  {
+    "code": "AU28",
+    "title": "NSW：482地区学费豁免",
+    "url": "https://deinternational.nsw.edu.au/__data/assets/pdf_file/0020/27641/Tuition-fee-exemption-if-student-holds-482-visa.pdf",
+    "note": "核查：2026-09-15。2025-01-01起专项政策；签证、同住、学校及住址邮编条件，非所有区域定义相同。",
+    "topic": "签证与监护",
+    "id": "AU28",
+    "key": "focus-AU28",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU28-57"
+      }
+    ]
+  },
+  {
+    "code": "AU29",
+    "title": "Tasmania：TRP签证收费分类",
+    "url": "https://study.tas.gov.au/wp-content/uploads/2025/12/TRP-Visas-at-a-Glance-V19.pdf",
+    "note": "核查：2026-09-15。官网当前链接；文件名V19但正文Version18/2025-08-22，482/research分类须以实际申请重核。",
+    "topic": "签证与监护",
+    "id": "AU29",
+    "key": "focus-AU29",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU29-58"
+      }
+    ]
+  },
+  {
+    "code": "AU30",
+    "title": "Queensland：Fee exemptions policy",
+    "url": "https://ppr.qed.qld.gov.au/pp/fee-exemptions-policy",
+    "note": "核查：2026-09-15。PhD、特定区域研究硕士等附属优惠及资助例外，非全体500免费。",
+    "topic": "费用与汇率",
+    "id": "AU30",
+    "key": "focus-AU30",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU30-68"
+      }
+    ]
+  },
+  {
+    "code": "AU31",
+    "title": "Queensland：签证类别与入学条件表",
+    "url": "https://ppr.qed.qld.gov.au/attachment/de-international-schedule-of-visa-subclasses-and-enrolment-conditions.pdf",
+    "note": "核查：2026-09-15。当前政策链接表列482免课费；表有旧版本日期，入学前核实最新签证识别。",
+    "topic": "签证与监护",
+    "id": "AU31",
+    "key": "focus-AU31",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU31-59"
+      }
+    ]
+  },
+  {
+    "code": "AU32",
+    "title": "WA：持签证学生公校入学框架",
+    "url": "https://www.education.wa.edu.au/zh/web/policies/-/enrolment-framework-for-students-with-a-visa-in-public-schools",
+    "note": "核查：2026-09-15。现行457/482家庭4,000年费及Kindergarten例外，不是逐孩4,000。",
+    "topic": "签证与监护",
+    "id": "AU32",
+    "key": "focus-AU32",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU32-60"
+      }
+    ]
+  },
+  {
+    "code": "AU33",
+    "title": "SA：482家庭学生费用及入学",
+    "url": "https://www.education.sa.gov.au/parents-and-families/enrol-school-or-preschool/families-482-visas/student-fees-enrolment",
+    "note": "核查：2026-09-15。2026-05-14更新；2026最高额、家庭收入评估、country学校豁免和困难复审。",
+    "topic": "费用与汇率",
+    "id": "AU33",
+    "key": "focus-AU33",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU33-61"
+      }
+    ]
+  },
+  {
+    "code": "AU34",
+    "title": "NSW：低收入学费豁免申请",
+    "url": "https://deinternational.nsw.edu.au/__data/assets/pdf_file/0011/17759/17759-Application-for-Fee-Exemption-Based-on-Low-Income.pdf",
+    "note": "核查：2026-09-15。当前链接表列500、590等不可申请；符合其他身份仍需收入证据与审核。",
+    "topic": "费用与汇率",
+    "id": "AU34",
+    "key": "focus-AU34",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU34-36"
+      }
+    ]
+  },
+  {
+    "code": "AU35",
+    "title": "Study Australia：选择教育中介的风险提示",
+    "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/tips-and-advice-for-students/how-to-choose-the-right-education-agent-for-you",
+    "note": "核查：2026-09-15。学校/中介不可保证永久居留或其他移民结果。",
+    "topic": "签证与监护",
+    "id": "AU35",
+    "key": "focus-AU35",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-australia.html",
+        "title": "澳大利亚｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-AU35-70"
+      }
+    ]
+  },
+  {
+    "code": "NZ01",
+    "title": "新西兰教育部：海外学生与获批交换",
+    "url": "https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas",
+    "note": "核验 2026-09-15；国内生、国际生、批准交换及 Code 责任。未核实大陆具体交换名额。",
+    "topic": "学校与研究资料",
+    "id": "NZ01",
+    "key": "focus-NZ01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ01-1"
+      }
+    ]
+  },
+  {
+    "code": "NZ02",
+    "title": "INZ：Fee Paying Student Visa",
+    "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+    "note": "核验 2026-09-15；未满十岁照护、课程能力评估、资金、保险与付款规则。",
+    "topic": "签证与监护",
+    "id": "NZ02",
+    "key": "focus-NZ02",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ02-20"
+      }
+    ]
+  },
+  {
+    "code": "NZ03",
+    "title": "INZ 操作规则：Guardian V3.100",
+    "url": "https://www.immigration.govt.nz/opsmanual/82370.htm",
+    "note": "核验 2026-09-15；规则页生效日期 2023-04-01，明确同住、资金、9:30–14:30 工作变更及转签限制。",
+    "topic": "签证与监护",
+    "id": "NZ03",
+    "key": "focus-NZ03",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ03-29"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-NZ03-2"
+      }
+    ]
+  },
+  {
+    "code": "NZ04",
+    "title": "INZ：Dependent Child Student Visa",
+    "url": "https://www.immigration.govt.nz/visas/dependent-child-student-visa/",
+    "note": "核验 2026-09-15；19 岁及以下经济依赖子女、合格父母签证及高教另申请要求。",
+    "topic": "签证与监护",
+    "id": "NZ04",
+    "key": "focus-NZ04",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ04-32"
+      }
+    ]
+  },
+  {
+    "code": "NZ05",
+    "title": "INZ：学生携带家属与配偶担保孩子",
+    "url": "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+    "note": "核验 2026-09-15；PhD 直接支持与硕士—配偶工签—子女学签链条。",
+    "topic": "学校与研究资料",
+    "id": "NZ05",
+    "key": "focus-NZ05",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ05-38"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-NZ05-7"
+      }
+    ]
+  },
+  {
+    "code": "NZ06",
+    "title": "INZ 2026-01 修订：U8.20 工作签证子女",
+    "url": "https://www.immigration.govt.nz/assets/inz/documents/amendment-circulars/Amendment-Circular-2026-01.pdf",
+    "note": "核验 2026-09-15；2026-03-09 生效，正文编号页 45–46：NZ$58,240、职业条件与过渡条款。",
+    "topic": "签证与监护",
+    "id": "NZ06",
+    "key": "focus-NZ06",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ06-34"
+      }
+    ]
+  },
+  {
+    "code": "NZ07",
+    "title": "Owairoa Primary：2026 国际费表",
+    "url": "https://www.owairoa.school.nz/wp-content/uploads/2026/02/Owairoa-2026-Fees.pdf",
+    "note": "核验 2026-09-15；40 周学费 NZ$14,000，行政 500，文具耗材 75，校服另计；非 2027 锁价。",
+    "topic": "费用与汇率",
+    "id": "NZ07",
+    "key": "focus-NZ07",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "five-country-focus.html",
+        "title": "五国专题｜怎样把年度学费压到8万元",
+        "category": "focus",
+        "anchor": "cite-focus-NZ07-2"
+      },
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ07-2"
+      }
+    ]
+  },
+  {
+    "code": "NZ08",
+    "title": "Owairoa：年龄、父母同住与 Code",
+    "url": "https://www.owairoa.school.nz/international/international-students/",
+    "note": "核验 2026-09-15；国际生 5–11 岁，全程父母同住，2027 可咨询，尚需个别报价。",
+    "topic": "学校与研究资料",
+    "id": "NZ08",
+    "key": "focus-NZ08",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ08-21"
+      }
+    ]
+  },
+  {
+    "code": "NZ09",
+    "title": "Ashburton College：2026/2027 入学与费用",
+    "url": "https://www.ashburtoncollege.school.nz/enrolment-procedure-fees/",
+    "note": "核验 2026-09-15；全年 2026 NZ$16,000、2027 NZ$18,000；含费用与排除项，350 入学费续年需确认。",
+    "topic": "费用与汇率",
+    "id": "NZ09",
+    "key": "focus-NZ09",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ09-3"
+      }
+    ]
+  },
+  {
+    "code": "NZ10",
+    "title": "Pompallier：2026 国际费表",
+    "url": "https://www.pompallier.school.nz/wp-content/uploads/2025/10/Tuition-Fees-2026.pdf",
+    "note": "核验 2026-09-15；全年 NZ$17,000、行政 600；制服包含与租赁列项有待校方解释，未锁定 2027。",
+    "topic": "学校与研究资料",
+    "id": "NZ10",
+    "key": "focus-NZ10",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ10-5"
+      }
+    ]
+  },
+  {
+    "code": "NZ11",
+    "title": "Pompallier：国际入学与 Code",
+    "url": "https://www.pompallier.school.nz/how-to-enrol/",
+    "note": "核验 2026-09-15；学校审核、开学前十周提交、Code 签署及年级设备要求。",
+    "topic": "学校与研究资料",
+    "id": "NZ11",
+    "key": "focus-NZ11",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ11-23"
+      }
+    ]
+  },
+  {
+    "code": "NZ12",
+    "title": "St Peter’s College Gore：2026 国际费表",
+    "url": "https://www.stpetersgore.school.nz/assets/International/2026-International-Student-Fees.pdf",
+    "note": "核验 2026-09-15；学费 16,000 外加行政 1,600、征费 440、dues 1,015；homestay 按 46 周。",
+    "topic": "费用与汇率",
+    "id": "NZ12",
+    "key": "focus-NZ12",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ12-6"
+      }
+    ]
+  },
+  {
+    "code": "NZ13",
+    "title": "Education Counts：St Peter’s College Gore 登记",
+    "url": "https://www.educationcounts.govt.nz/find-school/school/profile?district=&region=&school=397",
+    "note": "核验 2026-09-15；State: Integrated、男女合校、有宿舍；不代表已确认国际生宿舍报价。",
+    "topic": "学校与研究资料",
+    "id": "NZ13",
+    "key": "focus-NZ13",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ13-9"
+      }
+    ]
+  },
+  {
+    "code": "NZ14",
+    "title": "Burnside High School：国际学生奖学金",
+    "url": "https://www.burnside.school.nz/international-scholarships/",
+    "note": "核验 2026-09-15；六名/年、第一年减学费 20%；外国人及父母工作签证限制，7 月 31 日/2 月 28 日截止。",
+    "topic": "签证与监护",
+    "id": "NZ14",
+    "key": "focus-NZ14",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ14-14"
+      }
+    ]
+  },
+  {
+    "code": "NZ15",
+    "title": "Burnside：2026 学费与其他费用",
+    "url": "https://burnside.enrol.school.nz/documents/agent/Tuition_Fee_2026.pdf",
+    "note": "核验 2026-09-15；全年学费 NZ$19,000，行政 1,000，政府征费 100/学期；获奖净价仅计算情景。",
+    "topic": "费用与汇率",
+    "id": "NZ15",
+    "key": "focus-NZ15",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ15-15"
+      }
+    ]
+  },
+  {
+    "code": "NZ16",
+    "title": "KingsWay：2027 国际费用与兄弟姐妹折扣",
+    "url": "https://kingsway.school.nz/wp-content/uploads/2026/04/International-Promotion-Flyer-2026-English.pdf",
+    "note": "核验 2026-09-15；文件名含 2026，内文收费为 2027；tuition 20,250、行政 2,750，5% 折扣条件需确认。",
+    "topic": "费用与汇率",
+    "id": "NZ16",
+    "key": "focus-NZ16",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ16-17"
+      }
+    ]
+  },
+  {
+    "code": "NZ17",
+    "title": "Dilworth：全奖与国籍居留限制",
+    "url": "https://www.dilworth.school.nz/enrolment-scholarship/frequently-asked-questions/",
+    "note": "核验 2026-09-15；全奖要求新西兰公民或永久居民且当地居住，不适合新到国际生。",
+    "topic": "签证与监护",
+    "id": "NZ17",
+    "key": "focus-NZ17",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ17-18"
+      }
+    ]
+  },
+  {
+    "code": "NZ18",
+    "title": "Manaaki：合格国家与资助学历",
+    "url": "https://www.nzscholarships.govt.nz/check-eligible-countries/",
+    "note": "核验 2026-09-15；相关奖学金为高教，当前亚洲名单不含中国，不能当大陆 K–12 全奖。",
+    "topic": "学校与研究资料",
+    "id": "NZ18",
+    "key": "focus-NZ18",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ18-19"
+      }
+    ]
+  },
+  {
+    "code": "NZ19",
+    "title": "INZ：Parent Resident Visa",
+    "url": "https://www.immigration.govt.nz/visas/parent-resident-visa/",
+    "note": "核验 2026-09-15；担保孩子身份、年龄、三年居住和收入要求；10 月 5 日变化为未来生效。",
+    "topic": "签证与监护",
+    "id": "NZ19",
+    "key": "focus-NZ19",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ19-49"
+      }
+    ]
+  },
+  {
+    "code": "NZ20",
+    "title": "INZ：毕业工作签证学历要求",
+    "url": "https://www.immigration.govt.nz/study/after-you-finish-your-study/qualifications-needed-for-a-post-study-work-visa/",
+    "note": "核验 2026-09-15；合格高教及特定职业学历，中小学毕业不自动获得毕业工签。",
+    "topic": "签证与监护",
+    "id": "NZ20",
+    "key": "focus-NZ20",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ20-48"
+      }
+    ]
+  },
+  {
+    "code": "NZ21",
+    "title": "Roncalli：2026 attendance dues",
+    "url": "https://roncalli.school.nz/being-a-student/financial-costs.php",
+    "note": "核验 2026-09-15；NZ$1,000+GST 是 dues，非国际生全年学费；完整国际报价未核实。",
+    "topic": "费用与汇率",
+    "id": "NZ21",
+    "key": "focus-NZ21",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ21-11"
+      }
+    ]
+  },
+  {
+    "code": "NZ22",
+    "title": "St Peter’s School Cambridge：2026 私校费用",
+    "url": "https://www.stpeters.school.nz/fees",
+    "note": "核验 2026-09-15；国际 Years 8–13 tuition NZ$58,920、boarding 20,525，不能与 Gore 混淆。",
+    "topic": "费用与汇率",
+    "id": "NZ22",
+    "key": "focus-NZ22",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ22-12"
+      }
+    ]
+  },
+  {
+    "code": "NZ23",
+    "title": "佛光中华学校：2026 周末课程报名表",
+    "url": "https://fgs.org.nz/wp-content/uploads/2026/01/2026-%E5%B9%B4-%E4%B8%AD%E8%8F%AF%E5%AD%B8%E6%A0%A1%E5%A0%B1%E5%90%8D-Registration-Form.pdf",
+    "note": "核验 2026-09-15；华语等每周一至两小时课程，不证明全日制 K–12 国际生学校或全奖资格。",
+    "topic": "学校与研究资料",
+    "id": "NZ23",
+    "key": "focus-NZ23",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-new-zealand.html",
+        "title": "新西兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-NZ23-13"
+      }
+    ]
+  },
+  {
+    "code": "US01",
+    "title": "U.S. Department of State｜Foreign Students in Public Schools",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html",
+    "note": "核查：2026-09-15。F-1公校K–8限制、中学累计12个月、完整成本；其他身份须区别。",
+    "topic": "学校与研究资料",
+    "id": "US01",
+    "key": "focus-US01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US01-1"
+      }
+    ]
+  },
+  {
+    "code": "US02",
+    "title": "Tufts International Center｜F-2 Dependents",
+    "url": "https://icenter.tufts.edu/immigration/f1-students/f2-dependents/",
+    "note": "核查：2026-09-15。大学国际办公室一手指导；F-2关系范围、K–12与工作限制。不是个案签证批准。",
+    "topic": "签证与监护",
+    "id": "US02",
+    "key": "focus-US02",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US02-3"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-US02-3"
+      }
+    ]
+  },
+  {
+    "code": "US03",
+    "title": "BridgeUSA｜Secondary School Student",
+    "url": "https://j1visa.state.gov/programs/secondary-school-student",
+    "note": "核查：2026-09-15。官方J-1中学生项目资格与期限；未验证中国2027具体名额。",
+    "topic": "学校与研究资料",
+    "id": "US03",
+    "key": "focus-US03",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US03-4"
+      }
+    ]
+  },
+  {
+    "code": "US04",
+    "title": "U.S. Department of State｜Visitor Visa",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html",
+    "note": "核查：2026-09-15。访问签证禁行活动；不能作为长期读书／受雇方案。",
+    "topic": "签证与监护",
+    "id": "US04",
+    "key": "focus-US04",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US04-5"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-US04-4"
+      }
+    ]
+  },
+  {
+    "code": "US05",
+    "title": "IGDVS｜2026–2027 Fees",
+    "url": "https://igdvs.org/fees/",
+    "note": "核查：2026-09-15。金额按每学期；本报告换算两学期。ELD、寄宿管理另算，保险金额尚未完整列明。",
+    "topic": "费用与汇率",
+    "id": "US05",
+    "key": "focus-US05",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "five-country-focus.html",
+        "title": "五国专题｜怎样把年度学费压到8万元",
+        "category": "focus",
+        "anchor": "cite-focus-US05-3"
+      },
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US05-6"
+      }
+    ]
+  },
+  {
+    "code": "US06",
+    "title": "IGDVS｜Apply",
+    "url": "https://igdvs.org/apply/",
+    "note": "核查：2026-09-15。作文、面试、英语与家庭申请流程；具体国际签证校区/年级仍须确认。",
+    "topic": "签证与监护",
+    "id": "US06",
+    "key": "focus-US06",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US06-7"
+      }
+    ]
+  },
+  {
+    "code": "US07",
+    "title": "Spring Mountain Christian Academy｜Tuition",
+    "url": "https://smcak12.com/tuition.html",
+    "note": "核查：2026-09-15。当前一般收费与奖助信息；国际适用性未闭环。旧国际PDF直连404，未采用缓存价格。",
+    "topic": "学校与研究资料",
+    "id": "US07",
+    "key": "focus-US07",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US07-8"
+      }
+    ]
+  },
+  {
+    "code": "US08",
+    "title": "Spring Mountain Christian Academy｜International",
+    "url": "https://smcak12.com/international",
+    "note": "核查：2026-09-15。官网I-20、英语门槛、材料及申请节点；国际全年报价待书面确认。",
+    "topic": "学校与研究资料",
+    "id": "US08",
+    "key": "focus-US08",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US08-9"
+      }
+    ]
+  },
+  {
+    "code": "US09",
+    "title": "Helias Catholic High School｜Tuition",
+    "url": "https://heliashs.com/18356_2",
+    "note": "核查：2026-09-15。2026/27国际12,000美元与本地教区补贴价分开；动态页面可读性可能变化。",
+    "topic": "学校与研究资料",
+    "id": "US09",
+    "key": "focus-US09",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US09-10"
+      }
+    ]
+  },
+  {
+    "code": "US10",
+    "title": "Phillips Academy Andover｜Tuition and Financial Aid",
+    "url": "https://www.andover.edu/admission/tuition-and-financial-aid",
+    "note": "核查：2026-09-15。国际申请人可获需求型资助；录取和学校认定的经济需要均不保证。",
+    "topic": "入学与学籍",
+    "id": "US10",
+    "key": "focus-US10",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US10-11"
+      }
+    ]
+  },
+  {
+    "code": "US11",
+    "title": "Andover｜Financial Aid Requirements",
+    "url": "https://www.andover.edu/admission/tuition-and-financial-aid/financial-aid-requirements",
+    "note": "核查：2026-09-15。首次申请时同步递交资助资料；以当年要求和最终资助信为准。",
+    "topic": "学校与研究资料",
+    "id": "US11",
+    "key": "focus-US11",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US11-12"
+      }
+    ]
+  },
+  {
+    "code": "US12",
+    "title": "BridgeUSA｜Secondary School Resource Page",
+    "url": "https://j1visa.state.gov/secondary-school-resource-page/",
+    "note": "核查：2026-09-15。指定赞助机构、寄宿安全与项目监管资源。",
+    "topic": "住宿与保护",
+    "id": "US12",
+    "key": "focus-US12",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US12-17"
+      }
+    ]
+  },
+  {
+    "code": "US13",
+    "title": "ICE SEVP｜Employment",
+    "url": "https://www.ice.gov/sevis/employment",
+    "note": "核查：2026-09-15。F-1受限工作授权；不是对任何个案工作的许可。",
+    "topic": "学校与研究资料",
+    "id": "US13",
+    "key": "focus-US13",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US13-20"
+      }
+    ]
+  },
+  {
+    "code": "US14",
+    "title": "USCIS｜L Nonimmigrant Status / I-9 Employer Handbook",
+    "url": "https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/79-other-temporary-workers/792-l-nonimmigrant-status",
+    "note": "核查：2026-09-15。L类与配偶就业证明规则，需实际身份与文件匹配。",
+    "topic": "签证与监护",
+    "id": "US14",
+    "key": "focus-US14",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US14-21"
+      }
+    ]
+  },
+  {
+    "code": "US15",
+    "title": "University of Minnesota ISSS｜H-4 Dependents",
+    "url": "https://isss.umn.edu/scholars/h1b/dependents",
+    "note": "核查：2026-09-15。大学国际办公室一手指导；某些H-4配偶可申请EAD，不是普遍自动工作权。",
+    "topic": "学校与研究资料",
+    "id": "US15",
+    "key": "focus-US15",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US15-22"
+      }
+    ]
+  },
+  {
+    "code": "US16",
+    "title": "USA.gov｜How to Get a Green Card",
+    "url": "https://www.usa.gov/how-to-get-green-card",
+    "note": "核查：2026-09-15。按就业、家庭等资格评估，不以K–12就读本身取得。",
+    "topic": "学校与研究资料",
+    "id": "US16",
+    "key": "focus-US16",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-US16-25"
+      }
+    ]
+  },
+  {
+    "code": "UK01",
+    "title": "GOV.UK｜Child Student visa",
+    "url": "https://www.gov.uk/child-study-visa",
+    "note": "核查：2026-09-15。4–17岁、独立学校、担保与条件。",
+    "topic": "签证与监护",
+    "id": "UK01",
+    "key": "focus-UK01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "five-country-focus.html",
+        "title": "五国专题｜怎样把年度学费压到8万元",
+        "category": "focus",
+        "anchor": "cite-focus-UK01-4"
+      },
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK01-1"
+      }
+    ]
+  },
+  {
+    "code": "UK02",
+    "title": "DfE｜School applications for foreign national children",
+    "url": "https://www.gov.uk/guidance/schools-admissions-applications-from-overseas-children",
+    "note": "核查：2026-09-15。适用英格兰；入学与入境资格分离。",
+    "topic": "学校与研究资料",
+    "id": "UK02",
+    "key": "focus-UK02",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK02-2"
+      }
+    ]
+  },
+  {
+    "code": "UK03",
+    "title": "GOV.UK｜School admission criteria",
+    "url": "https://www.gov.uk/schools-admissions/admissions-criteria",
+    "note": "核查：2026-09-15。宗教、住址等招生优先标准须逐校确认。",
+    "topic": "入学与学籍",
+    "id": "UK03",
+    "key": "focus-UK03",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK03-3"
+      }
+    ]
+  },
+  {
+    "code": "UK04",
+    "title": "HMRC｜VAT on education and vocational training",
+    "url": "https://www.gov.uk/guidance/vat-on-education-and-vocational-training-notice-70130",
+    "note": "核查：2026-09-15。2025-01-01起私校收费教育／相关寄宿VAT规则；最终取含税报价。",
+    "topic": "住宿与保护",
+    "id": "UK04",
+    "key": "focus-UK04",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK04-4"
+      }
+    ]
+  },
+  {
+    "code": "UK05",
+    "title": "City of London School for Girls｜Bursaries",
+    "url": "https://clsg.org.uk/admissions/bursaries/",
+    "note": "核查：2026-09-15。官网明确海外申请者不具备助学金资格。",
+    "topic": "学校与研究资料",
+    "id": "UK05",
+    "key": "focus-UK05",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK05-8"
+      }
+    ]
+  },
+  {
+    "code": "UK06",
+    "title": "GOV.UK｜Music and Dance Scheme",
+    "url": "https://www.gov.uk/music-dance-scheme",
+    "note": "核查：2026-09-15。政府专业特长资助，不是普通国际K–12通用基金。",
+    "topic": "学校与研究资料",
+    "id": "UK06",
+    "key": "focus-UK06",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK06-9"
+      }
+    ]
+  },
+  {
+    "code": "UK07",
+    "title": "The Yehudi Menuhin School｜Music and Dance Scheme",
+    "url": "https://www.menuhinschool.co.uk/how-to-apply-2/fees-processes/music-dance-scheme",
+    "note": "核查：2026-09-15。学校列居英两年等条件；个案例外与入学年度另核。",
+    "topic": "学校与研究资料",
+    "id": "UK07",
+    "key": "focus-UK07",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK07-10"
+      }
+    ]
+  },
+  {
+    "code": "UK08",
+    "title": "DfE｜Turing Scheme overview 2026–2027",
+    "url": "https://www.gov.uk/government/publications/turing-scheme-international-placements-2026-to-2027/overview-of-the-turing-scheme-2026-to-2027",
+    "note": "核查：2026-09-15。2026/27英国机构在读学生外出交流资助，不是中国来英奖学金。",
+    "topic": "学校与研究资料",
+    "id": "UK08",
+    "key": "focus-UK08",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK08-11"
+      }
+    ]
+  },
+  {
+    "code": "UK09",
+    "title": "Home Office｜Visit caseworker guidance",
+    "url": "https://www.gov.uk/government/publications/visit-guidance/visit-caseworker-guidance-accessible--2",
+    "note": "核查：2026-09-15。2026-02-25版本；State education: children of visiting academics in UK for 12 months，属于可豁免而非保证。",
+    "topic": "学校与研究资料",
+    "id": "UK09",
+    "key": "focus-UK09",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK09-12"
+      }
+    ]
+  },
+  {
+    "code": "UK10",
+    "title": "GOV.UK｜Visit as an academic",
+    "url": "https://www.gov.uk/standard-visitor/visit-as-an-academic",
+    "note": "核查：2026-09-15。超过6个月、最长12个月学术访问的资格、随行与证明。",
+    "topic": "学校与研究资料",
+    "id": "UK10",
+    "key": "focus-UK10",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK10-13"
+      }
+    ]
+  },
+  {
+    "code": "UK11",
+    "title": "GOV.UK｜Long residence eligibility",
+    "url": "https://www.gov.uk/long-residence/eligibility",
+    "note": "核查：2026-09-15。十年合资格合法连续居留及排除类别；非未来获批承诺。",
+    "topic": "签证与监护",
+    "id": "UK11",
+    "key": "focus-UK11",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK11-14"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-UK11-9"
+      }
+    ]
+  },
+  {
+    "code": "UK12",
+    "title": "GOV.UK｜Parent of a Child Student visa",
+    "url": "https://www.gov.uk/parent-of-a-child-at-school-visa",
+    "note": "核查：2026-09-15。孩子4–11岁、单一家长、主要境外住所、工作与境内转换限制。",
+    "topic": "签证与监护",
+    "id": "UK12",
+    "key": "focus-UK12",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK12-15"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-UK12-5"
+      }
+    ]
+  },
+  {
+    "code": "UK13",
+    "title": "GOV.UK｜Child Student: where you will live",
+    "url": "https://www.gov.uk/child-study-visa/where-youll-live",
+    "note": "核查：2026-09-15。照护形式、nominated guardian最多连续27天、16–17岁安排。",
+    "topic": "签证与监护",
+    "id": "UK13",
+    "key": "focus-UK13",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK13-16"
+      }
+    ]
+  },
+  {
+    "code": "UK14",
+    "title": "GOV.UK｜Skilled Worker visa",
+    "url": "https://www.gov.uk/skilled-worker-visa",
+    "note": "核查：2026-09-15。真实雇主与职业等基本规则；未做家长个案职业审核。",
+    "topic": "签证与监护",
+    "id": "UK14",
+    "key": "focus-UK14",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK14-18"
+      }
+    ]
+  },
+  {
+    "code": "UK15",
+    "title": "GOV.UK｜Skilled Worker: partner and children",
+    "url": "https://www.gov.uk/skilled-worker-visa/your-partner-and-children",
+    "note": "核查：2026-09-15。护理、中等技能等家属限制及历史过渡条件，需逐案确认。",
+    "topic": "学校与研究资料",
+    "id": "UK15",
+    "key": "focus-UK15",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK15-19"
+      }
+    ]
+  },
+  {
+    "code": "UK16",
+    "title": "GOV.UK｜Student visa: family members",
+    "url": "https://www.gov.uk/student-visa/family-members",
+    "note": "核查：2026-09-15。研究学位／政府资助等可带家属条件，不等于普通授课硕士普遍可行。",
+    "topic": "签证与监护",
+    "id": "UK16",
+    "key": "focus-UK16",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-UK16-20"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-UK16-8"
+      }
+    ]
+  },
+  {
+    "code": "IE01",
+    "title": "ISD｜私立收费小学或中学留学",
+    "url": "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-fee-paying-private-primary-or-secondary-school/",
+    "note": "核验：2026-09-15。页面更新2025-10-14；独立学校留学、家属无自动同行权、住宿监护与签证材料。",
+    "topic": "签证与监护",
+    "id": "IE01",
+    "key": "focus-IE01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE01-1"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-IE01-6"
+      }
+    ]
+  },
+  {
+    "code": "IE03",
+    "title": "Dublin地方政府｜爱尔兰学校体系",
+    "url": "https://dublin.ie/live/getting-settled/schools-education/",
+    "note": "核验：2026-09-15。用于国家资助教育及voluntary secondary收费分类；不采用未注明学年的泛化费用区间。",
+    "topic": "费用与汇率",
+    "id": "IE03",
+    "key": "focus-IE03",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE03-2"
+      }
+    ]
+  },
+  {
+    "code": "IE04",
+    "title": "Villiers｜2026/27非欧盟官方费表",
+    "url": "https://www.villiers-school.com/wp-content/uploads/2025/09/Villiers-School-2026-2027-NON-EU-Fee-Summary.pdf",
+    "note": "核验：2026-09-15。原PDF全文读取并视觉核验费用页；走读、寄宿、强制附加费及监护；非即时汇率。",
+    "topic": "费用与汇率",
+    "id": "IE04",
+    "key": "focus-IE04",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "five-country-focus.html",
+        "title": "五国专题｜怎样把年度学费压到8万元",
+        "category": "focus",
+        "anchor": "cite-focus-IE04-5"
+      },
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE04-4"
+      }
+    ]
+  },
+  {
+    "code": "IE05",
+    "title": "Villiers｜2026/27国内类别费表",
+    "url": "https://www.villiers-school.com/wp-content/uploads/2025/09/Villiers-School-2026-2027-IRL-Fee-Summary.pdf",
+    "note": "核验：2026-09-15。2026/27居民类别比较；不能直接当作海外中国家庭国际报价。",
+    "topic": "学校与研究资料",
+    "id": "IE05",
+    "key": "focus-IE05",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE05-5"
+      }
+    ]
+  },
+  {
+    "code": "IE06",
+    "title": "Bandon Grammar｜2026/27费用政策",
+    "url": "https://www.bandongrammar.ie/docs/Policies/School_Fee_Policy_2026_2027.pdf",
+    "note": "核验：2026-09-15。明确非欧盟寄宿总价；一般走读€5,090是否适用海外中国学生仍需书面确认。",
+    "topic": "费用与汇率",
+    "id": "IE06",
+    "key": "focus-IE06",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE06-8"
+      }
+    ]
+  },
+  {
+    "code": "IE07",
+    "title": "Drogheda Grammar｜学费FAQ",
+    "url": "https://www.droghedagrammarschool.ie/Admissions/FEES-FAQs/",
+    "note": "核验：2026-09-15。明确2026/27一般年费€4,625；国际接收条件及是否另收费用未证实。",
+    "topic": "费用与汇率",
+    "id": "IE07",
+    "key": "focus-IE07",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE07-9"
+      }
+    ]
+  },
+  {
+    "code": "IE08",
+    "title": "LFI Samuel Beckett｜2026/27收费条款",
+    "url": "https://www.lfi.ie/conditions-financieres.html",
+    "note": "核验：2026-09-15。法国课程；居民按父母/法定监护人住所判定；非居民高中€10,659。",
+    "topic": "学校与研究资料",
+    "id": "IE08",
+    "key": "focus-IE08",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE08-7"
+      }
+    ]
+  },
+  {
+    "code": "IE09",
+    "title": "Secondary Education Committee｜助学金资格",
+    "url": "https://secgrant.ie/",
+    "note": "核验：2026-09-15。2026/27以2024收入及相应爱尔兰居民条件审查；须符合宗教、学校与其他门槛。",
+    "topic": "学校与研究资料",
+    "id": "IE09",
+    "key": "focus-IE09",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE09-15"
+      }
+    ]
+  },
+  {
+    "code": "IE10",
+    "title": "ISD｜加入非EEA／非瑞士家属",
+    "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-a-non-eea-non-swiss-national/",
+    "note": "核验：2026-09-15。更新2026-06-12；Category B/C、团聚等待期、普通学生与博士等例外。",
+    "topic": "学校与研究资料",
+    "id": "IE10",
+    "key": "focus-IE10",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE10-3"
+      }
+    ]
+  },
+  {
+    "code": "IE11",
+    "title": "ISD｜2026家庭团聚财务门槛",
+    "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/financial-thresholds/",
+    "note": "核验：2026-09-15。2026净收入表与指导性毛收入；只计算一名担保人收入；Category C携子适用。",
+    "topic": "学校与研究资料",
+    "id": "IE11",
+    "key": "focus-IE11",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE11-19"
+      }
+    ]
+  },
+  {
+    "code": "IE12",
+    "title": "ISD｜Family dependents配偶工作安排",
+    "url": "https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/family-dependents/",
+    "note": "核验：2026-09-15。页面更新2026-03-26；获适用家庭团聚的GEP/ICT配偶及伴侣Stamp1G安排。",
+    "topic": "学校与研究资料",
+    "id": "IE12",
+    "key": "focus-IE12",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE12-21"
+      }
+    ]
+  },
+  {
+    "code": "IE13",
+    "title": "ISD｜居留许可与Stamp条件",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+    "note": "核验：2026-09-15。私立中学Stamp2A、Stamp1G受雇限制及入籍可计算居住期；按个人许可判断。",
+    "topic": "签证与监护",
+    "id": "IE13",
+    "key": "focus-IE13",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE13-22"
+      }
+    ]
+  },
+  {
+    "code": "IE14",
+    "title": "ISD｜爱尔兰自然化入籍指南",
+    "url": "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/",
+    "note": "核验：2026-09-15。成人、未成年人与18–23岁受抚养青年规则；学生时间一般排除，特定个案可酌情考虑。",
+    "topic": "学校与研究资料",
+    "id": "IE14",
+    "key": "focus-IE14",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE14-28"
+      }
+    ]
+  },
+  {
+    "code": "IE15",
+    "title": "ISD｜Long Term Residency",
+    "url": "https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/long-term-residency/",
+    "note": "核验：2026-09-15。就业基础60个月条件及学生类排除清单；不是自然化入籍的同一套计时。",
+    "topic": "学校与研究资料",
+    "id": "IE15",
+    "key": "focus-IE15",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE15-26"
+      },
+      {
+        "file": "focus-parent-pathways.html",
+        "title": "家长工作与移民｜先算全家现金流",
+        "category": "focus",
+        "anchor": "cite-focus-IE15-10"
+      }
+    ]
+  },
+  {
+    "code": "IE16",
+    "title": "ISD｜就业许可持有人Stamp4升级",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/information-on-stamp-4-upgrades/",
+    "note": "核验：2026-09-15。当前CSEP21个月、一般GEP57个月可视条件申请；从合资格就业计算。",
+    "topic": "学校与研究资料",
+    "id": "IE16",
+    "key": "focus-IE16",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE16-27"
+      }
+    ]
+  },
+  {
+    "code": "IE17",
+    "title": "HEA｜2026政府国际教育奖学金",
+    "url": "https://hea.ie/policy/internationalisation/goi-ies/",
+    "note": "核验：2026-09-15。2026轮已关闭；NFQ9/10研究生阶段，不适用于K–12；不代表所有学校均无资助。",
+    "topic": "学校与研究资料",
+    "id": "IE17",
+    "key": "focus-IE17",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE17-16"
+      }
+    ]
+  },
+  {
+    "code": "IE18",
+    "title": "ISD｜学习签证期限分类",
+    "url": "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-visa-options/",
+    "note": "核验：2026-09-15。少于90天C、超过90天D；项目名称不能替代适用签证与居留判断。",
+    "topic": "签证与监护",
+    "id": "IE18",
+    "key": "focus-IE18",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE18-35"
+      }
+    ]
+  },
+  {
+    "code": "IE19",
+    "title": "Villiers｜费用类别与监护说明",
+    "url": "https://www.villiers-school.com/school-fees/",
+    "note": "核验：2026-09-15。2026/27；全时居民家庭适用国内类别，不论国籍；海外家庭监护另估€3,000–4,000。",
+    "topic": "费用与汇率",
+    "id": "IE19",
+    "key": "focus-IE19",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE19-6"
+      }
+    ]
+  },
+  {
+    "code": "IE20",
+    "title": "ISD｜家庭团聚FAQ与住房标准",
+    "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/frequently-asked-questions-for-joining-family/",
+    "note": "核验：2026-09-15。CSEP可同期申请；Category C适合住房、卧室与不得和无关成年人共住等规则。",
+    "topic": "学校与研究资料",
+    "id": "IE20",
+    "key": "focus-IE20",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE20-18"
+      }
+    ]
+  },
+  {
+    "code": "IE21",
+    "title": "ISD｜工签持有人未成年家属工作权",
+    "url": "https://www.irishimmigration.ie/right-to-work-for-minor-children-of-employment-permit-holders/",
+    "note": "核验：2026-09-15。2025-11-26生效；合资格家庭团聚孩子16岁注册Stamp1G，与独立留学生不同。",
+    "topic": "学校与研究资料",
+    "id": "IE21",
+    "key": "focus-IE21",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE21-23"
+      }
+    ]
+  },
+  {
+    "code": "IE22",
+    "title": "ISD｜首次注册及续期所需文件",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/required-documents/",
+    "note": "核验：2026-09-15。更新2026-09-04；私立中学Stamp2A资料与16–18岁注册费豁免；不是家长新申请资格。",
+    "topic": "学校与研究资料",
+    "id": "IE22",
+    "key": "focus-IE22",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-ireland.html",
+        "title": "爱尔兰｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-IE22-32"
+      }
+    ]
+  },
+  {
+    "code": "X01",
+    "title": "UWC｜Fees and financial support",
+    "url": "https://uwc.org/apply-ibdp/fees-and-financial-support/",
+    "note": "核查：2026-09-15。需求型资助、全费GSP与各资助覆盖范围；属于高中IB两年项目，不是K–12通用交换。",
+    "topic": "费用与汇率",
+    "id": "X01",
+    "key": "focus-X01",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-X01-13"
+      },
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-X01-5"
+      }
+    ]
+  },
+  {
+    "code": "X02",
+    "title": "UWC China｜2027/28 admissions financial aid",
+    "url": "https://www.uwcchina.org/en/Admissions/single/40",
+    "note": "核查：2026-09-15。中国渠道Regular Admission可申请经济需要资助，Early Admission不适用；国家分配及金额未保证。",
+    "topic": "入学与学籍",
+    "id": "X02",
+    "key": "focus-X02",
+    "report": "focus",
+    "reportLabel": "五国8万专题",
+    "usedBy": [
+      {
+        "file": "focus-united-states.html",
+        "title": "美国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-X02-14"
+      },
+      {
+        "file": "focus-united-kingdom.html",
+        "title": "英国｜8万元学费、陪读与长期路径",
+        "category": "focus",
+        "anchor": "cite-focus-X02-6"
+      }
+    ]
   }
 ]
