@@ -31,14 +31,16 @@ Static HTML hosted through GitHub Pages. No account, analytics, or server-side p
 
 
 
+
+
 <!-- HUB NAVIGATION -->
 ## Classified reading / 分类导览
 
 - [Index / 总入口](https://bobmai624.github.io/teens-education-bob/) — 8 个专题、章节检索及完整报告下载。
 - [国家与地区](https://bobmai624.github.io/teens-education-bob/countries.html) — 37 个独立案例页面。
-- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 664 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
-- 111 个分章阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
-- 本次新增五国专题，核验日期2026-09-15；原37地资料未全部重新核验，原研究日期保留。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
+- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 717 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
+- 113 个分章阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
+- 五国基准研究2026-09-15；降费与学生工作增补2026-09-16。原37地资料未全部重新核验，原研究日期保留。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
 - [Core report / 核心报告](https://bobmai624.github.io/teens-education-bob/family-report.html) — 前文主要结论、教育目标 → 总成本 → 回国衔接，以及23章完整阅读导引。
-- [Five-country affordability / 五国8万专题](https://bobmai624.github.io/teens-education-bob/five-country-focus.html) — 8个新页面、113条新来源；学费、奖助、宗教学校、交换、家长工作与身份、准备清单。
+- [Five-country affordability / 五国8万专题](https://bobmai624.github.io/teens-education-bob/five-country-focus.html) — 10个专题页面、166条专题来源记录；16种降费路径、五国学生打工、学费奖助、家长工作与身份。
 <!-- END HUB NAVIGATION -->
