@@ -15282,5 +15282,1333 @@
         "anchor": "cite-focus-X02-6"
       }
     ]
+  },
+  {
+    "code": "CA1",
+    "title": "ESDC｜High/low wage thresholds",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage.html",
+    "note": "核查：2026-09-17。2026-07-17起Manitoba高低薪分界CAD31.33/小时。不是省最低工资，也不是普通岗位自动应付金额。",
+    "topic": "学校与研究资料",
+    "id": "CA1",
+    "key": "family20-CA1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA1-7"
+      }
+    ]
+  },
+  {
+    "code": "CA2",
+    "title": "ESDC｜Low-wage program requirements",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/low/requirements.html",
+    "note": "核查：2026-09-17。雇主招聘、工资、至少30小时全职、LMIA费用及不得向工人转嫁、交通和工人保险责任；正文仅摘关键要求，申请时需完整核对。",
+    "topic": "费用与汇率",
+    "id": "CA2",
+    "key": "family20-CA2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-CA2-2"
+      },
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA2-4"
+      }
+    ]
+  },
+  {
+    "code": "CA3",
+    "title": "ESDC｜Refusal to process LMIA",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/refusal.html",
+    "note": "核查：2026-09-17。2026-07-10至10-08季度表Winnipeg5.6%；6%拒受理门槛、10%／20%雇主比例及行业例外。下一更新10-09。",
+    "topic": "学校与研究资料",
+    "id": "CA3",
+    "key": "family20-CA3",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA3-8"
+      }
+    ]
+  },
+  {
+    "code": "CA4",
+    "title": "IRCC｜Minor children studying in Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+    "note": "核查：2026-09-17。境外随工签申请人／持有人前往、计划读超过6个月通常先申请学签；与父母工签一同申请可适用免学校LOA条件。境内豁免不能照搬为境外文件豁免。",
+    "topic": "学校与研究资料",
+    "id": "CA4",
+    "key": "family20-CA4",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA4-5"
+      }
+    ]
+  },
+  {
+    "code": "CA5",
+    "title": "Manitoba Education｜Temporary resident funding",
+    "url": "https://www.edu.gov.mb.ca/k12/finance/temprespolicy.html",
+    "note": "核查：2026-09-17。以Manitoba为主要住所及符合父母工签等条件的未成年子女可获公校资助；不能全国外推。",
+    "topic": "学校与研究资料",
+    "id": "CA5",
+    "key": "family20-CA5",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA5-1"
+      }
+    ]
+  },
+  {
+    "code": "CA6",
+    "title": "Winnipeg School Division｜Registration FAQ",
+    "url": "https://www.winnipegsd.ca/frequently-asked-questions",
+    "note": "核查：2026-09-17。2026-05-26：父母允许在Manitoba工作的工签、孩子学习／访问文件、学区内住址等；visitor或仅PR申请情形不能当然免费。",
+    "topic": "学校与研究资料",
+    "id": "CA6",
+    "key": "family20-CA6",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA6-2"
+      }
+    ]
+  },
+  {
+    "code": "CA7",
+    "title": "ESDC｜Low-wage route overview",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/low.html",
+    "note": "核查：2026-09-17。此通道最长雇用期1年；不据此承诺一张许可覆盖5年。",
+    "topic": "学校与研究资料",
+    "id": "CA7",
+    "key": "family20-CA7",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA7-3"
+      }
+    ]
+  },
+  {
+    "code": "CA8",
+    "title": "Job Bank｜Winnipeg cook wages",
+    "url": "https://www.jobbank.gc.ca/marketreport/wages-occupation/6225/39073",
+    "note": "核查：2026-09-17。厨师工资中位CAD16/小时；统计基准不是有担保的招聘广告或本人报价。",
+    "topic": "学校与研究资料",
+    "id": "CA8",
+    "key": "family20-CA8",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA8-15"
+      }
+    ]
+  },
+  {
+    "code": "CA9",
+    "title": "Job Bank｜Winnipeg cleaner wages",
+    "url": "https://www.jobbank.gc.ca/marketreport/wages-occupation/14309/39073",
+    "note": "核查：2026-09-17。轻型清洁工资中位CAD17/小时；收入随工时、经验、职位与税费变化。",
+    "topic": "学校与研究资料",
+    "id": "CA9",
+    "key": "family20-CA9",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA9-16"
+      }
+    ]
+  },
+  {
+    "code": "CA10",
+    "title": "CRA｜Payroll Deductions Online Calculator",
+    "url": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html",
+    "note": "核查：2026-09-17。真实工资单按省份、支付周期、个人税务与扣款重新计算；本报告CAD23,000净工资只是预算假设。",
+    "topic": "学校与研究资料",
+    "id": "CA10",
+    "key": "family20-CA10",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA10-17"
+      }
+    ]
+  },
+  {
+    "code": "CA11",
+    "title": "CMHC｜2025 Rental Market Report",
+    "url": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres",
+    "note": "核查：2026-09-17。Winnipeg2025双卧公寓平均CAD1,571/月；历史存量均值，不是2026新移民新租约保证价。",
+    "topic": "签证与监护",
+    "id": "CA11",
+    "key": "family20-CA11",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-CA11-1"
+      },
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA11-19"
+      }
+    ]
+  },
+  {
+    "code": "CA12",
+    "title": "Manitoba｜Child care fees",
+    "url": "https://www.gov.mb.ca/education/childcare/families/childcare_fees.html",
+    "note": "核查：2026-09-17。资助机构与非资助机构收费不同；学龄照护收费受时段等影响且必须有名额，不预设免费照护。",
+    "topic": "费用与汇率",
+    "id": "CA12",
+    "key": "family20-CA12",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA12-20"
+      }
+    ]
+  },
+  {
+    "code": "CA13",
+    "title": "Manitoba Health｜Eligibility",
+    "url": "https://www.gov.mb.ca/health/mhsip/eligibility.html",
+    "note": "核查：2026-09-17。工签连续有效至少12个月等条件、实际省内居住要求；儿童与父母保险资格须逐人核验。",
+    "topic": "学校与研究资料",
+    "id": "CA13",
+    "key": "family20-CA13",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA13-21"
+      }
+    ]
+  },
+  {
+    "code": "CA14",
+    "title": "IRCC｜Francophone Mobility eligibility",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/francophone-mobility/eligibility.html",
+    "note": "核查：2026-09-17。魁省外真实雇佣及至少NCLC5法语听说等条件；英语弱不等于自动适用，职业排除和证明方式见原文。",
+    "topic": "学校与研究资料",
+    "id": "CA14",
+    "key": "family20-CA14",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA14-18"
+      }
+    ]
+  },
+  {
+    "code": "CA15",
+    "title": "IRCC｜Extend or change work permit",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend.html",
+    "note": "核查：2026-09-17。到期前申请、维持身份和工作条件须按原许可及申请类型核验；换雇主不自动自由工作。",
+    "topic": "学校与研究资料",
+    "id": "CA15",
+    "key": "family20-CA15",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA15-22"
+      }
+    ]
+  },
+  {
+    "code": "CA16",
+    "title": "Winnipeg School Division｜2027–28 international fees",
+    "url": "https://media.winnipegsd.ca/media/Default/fgg/wsd-iep-fees-27-28.7b0f8536991.pdf",
+    "note": "核查：2026-09-17。学费CAD13,250/年是2027–28公布价，非2026费用；另有保险与其他收费，免学费身份失效后的价格压力样本。",
+    "topic": "费用与汇率",
+    "id": "CA16",
+    "key": "family20-CA16",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-canada.html",
+        "title": "加拿大｜家长先有真工作，孩子公校才可能免国际费",
+        "category": "family20",
+        "anchor": "cite-family20-CA16-14"
+      }
+    ]
+  },
+  {
+    "code": "ES1",
+    "title": "西班牙移民部｜初次受雇工作许可",
+    "url": "https://www.inclusion.gob.es/es/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-y-trabajo-por-cuenta-ajena-hi-16-)",
+    "note": "核查：2026-09-17。雇主申请、合同、雇主与岗位资质、SNE劳动力市场条件；不能把普通招聘广告当入境许可。",
+    "topic": "签证与监护",
+    "id": "ES1",
+    "key": "family20-ES1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES1-1"
+      }
+    ]
+  },
+  {
+    "code": "ES2",
+    "title": "BOE｜2026第三季度短缺职业清单",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18504",
+    "note": "核查：2026-09-17。2026-09-02公布；金属／PVC、部分电工／起重机等及体育航海类。船上厨师／服务员不等于陆地普通餐饮。",
+    "topic": "学校与研究资料",
+    "id": "ES2",
+    "key": "family20-ES2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES2-2"
+      }
+    ]
+  },
+  {
+    "code": "ES3",
+    "title": "移民部｜SNE例外",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/59.-supuestos-en-los-que-la-sne-permite-la-contratacion-de-ciudadanos-extranjeros-no-residentes-en-espana",
+    "note": "核查：2026-09-17。特定身份、家属等例外与智利／秘鲁条约路径；不存在大陆中国籍普遍豁免。",
+    "topic": "签证与监护",
+    "id": "ES3",
+    "key": "family20-ES3",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES3-5"
+      }
+    ]
+  },
+  {
+    "code": "ES4",
+    "title": "移民部｜普通家庭团聚",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/autorizacion-de-residencia-temporal-por-reagrupacion-familiar",
+    "note": "核查：2026-09-17。通常先居留1年并申请至少再居留1年；孩子批准待家长续期生效。住房、资源、保险和监护授权另核。",
+    "topic": "签证与监护",
+    "id": "ES4",
+    "key": "family20-ES4",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-ES4-4"
+      },
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES4-3"
+      }
+    ]
+  },
+  {
+    "code": "ES5",
+    "title": "BOE｜Royal Decree1155/2024合并文本",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099",
+    "note": "核查：2026-09-17。2025-05-20生效的新条例；普通受雇初次及续期、家庭、长期居留、例外正规化等，不把相异类别混用。",
+    "topic": "签证与监护",
+    "id": "ES5",
+    "key": "family20-ES5",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES5-8"
+      }
+    ]
+  },
+  {
+    "code": "ES6",
+    "title": "BOE｜2026 SMI最低工资",
+    "url": "https://boe.es/buscar/act.php?id=BOE-A-2026-3815",
+    "note": "核查：2026-09-17。2026 €1,221×14＝€17,094年税前；实际工资须满足适用集体协议和岗位要求。",
+    "topic": "学校与研究资料",
+    "id": "ES6",
+    "key": "family20-ES6",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES6-16"
+      }
+    ]
+  },
+  {
+    "code": "ES7",
+    "title": "Social Security｜2026贡献率",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/583?changeLanguage=es",
+    "note": "核查：2026-09-17。普通长期合同员工相关贡献率合计示例6.50%；不替代实际税基、合同类型与个人所得税计算。",
+    "topic": "学校与研究资料",
+    "id": "ES7",
+    "key": "family20-ES7",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES7-17"
+      }
+    ]
+  },
+  {
+    "code": "ES8",
+    "title": "教育部｜ESO入学与免费义务教育",
+    "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/secundaria/informacion-general/acceso.html",
+    "note": "核查：2026-09-17。义务、免费中学教育背景；具体地区教学语言与新来学生支持另核。",
+    "topic": "学校与研究资料",
+    "id": "ES8",
+    "key": "family20-ES8",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES8-11"
+      }
+    ]
+  },
+  {
+    "code": "ES9",
+    "title": "Caxton College｜2026/27学校收费表",
+    "url": "https://caxtoncollege.com/storage/school-fees-nu-y13-annual-26-27-1777389215unZ3X.pdf",
+    "note": "核查：2026-09-17。学校2页PDF：Primary全年€8,880，KS3€9,480，首年€900入学及€464课堂／技术费；含午餐，部分用品／交通等另计。研究员已读取PDF，本轮主复核抓取未成功，签约前重取原件。",
+    "topic": "学校与研究资料",
+    "id": "ES9",
+    "key": "family20-ES9",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES9-13"
+      }
+    ]
+  },
+  {
+    "code": "ES10",
+    "title": "MIVAU｜SERPAVI2026租赁参考",
+    "url": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4078",
+    "note": "核查：2026-09-17。2026发布使用2024税务租约：Alicante公寓月中位608、Valencia681欧元；历史合同非2026新租约报价。",
+    "topic": "学校与研究资料",
+    "id": "ES10",
+    "key": "family20-ES10",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES10-18"
+      }
+    ]
+  },
+  {
+    "code": "ES11",
+    "title": "西班牙领馆｜Non-lucrative residence visa",
+    "url": "https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+    "note": "核查：2026-09-17。非盈利居留不授权就业；不能用未来本地服务业工资支撑此路线。中国递交清单另向辖区领馆取。",
+    "topic": "签证与监护",
+    "id": "ES11",
+    "key": "family20-ES11",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES11-19"
+      }
+    ]
+  },
+  {
+    "code": "ES12",
+    "title": "BOE｜Law14/2013合并文本",
+    "url": "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+    "note": "核查：2026-09-17。特定经济移民类别可家属同申；国际远程工作针对已存在的合格境外工作／专业背景，不是落地做服务员的替代。",
+    "topic": "签证与监护",
+    "id": "ES12",
+    "key": "family20-ES12",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES12-6"
+      }
+    ]
+  },
+  {
+    "code": "ES13",
+    "title": "British School Tenerife｜2026/27 fees",
+    "url": "https://www.britishschooltenerife.com/fees/",
+    "note": "核查：2026-09-17。Y4–6 €5,201、Y7–9 €5,540；年度注册€412及IT€100。首年预付／银行担保，餐食交通等另计；不是完整家庭预算。",
+    "topic": "费用与汇率",
+    "id": "ES13",
+    "key": "family20-ES13",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES13-12"
+      }
+    ]
+  },
+  {
+    "code": "ES14",
+    "title": "British School Tenerife｜British curriculum",
+    "url": "https://www.britishschooltenerife.com/the-british-curriculum/",
+    "note": "核查：2026-09-17。英式课程、IGCSE及A Level；小学La Orotava与中学Los Realejos均在Tenerife岛，不能用大陆城市房租及岗位拼接。",
+    "topic": "学校与研究资料",
+    "id": "ES14",
+    "key": "family20-ES14",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES14-14"
+      }
+    ]
+  },
+  {
+    "code": "ES15",
+    "title": "British School Tenerife｜Admission process",
+    "url": "https://www.britishschooltenerife.com/admission-process/",
+    "note": "核查：2026-09-17。申请、访校、家长与学生面谈／评估及材料审核；不保证弱英语新生录取或有学位。",
+    "topic": "入学与学籍",
+    "id": "ES15",
+    "key": "family20-ES15",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-spain.html",
+        "title": "西班牙｜公校预算可能达标，但普通工作不支持默认亲子同步",
+        "category": "family20",
+        "anchor": "cite-family20-ES15-15"
+      }
+    ]
+  },
+  {
+    "code": "PT1",
+    "title": "gov.pt｜Residence visa for dependent work",
+    "url": "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-trabalho-dependente",
+    "note": "核查：2026-09-17。普通受雇签证需工作合同／合同承诺等，境外申请。不是旅游入境自由求职方案。",
+    "topic": "签证与监护",
+    "id": "PT1",
+    "key": "family20-PT1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT1-1"
+      }
+    ]
+  },
+  {
+    "code": "PT2",
+    "title": "AIMA｜Employment residence Art88(1)",
+    "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-exercicio-de-atividade-profissional-subordinada-com-visto-de-residencia-art-88-o-n-o-1",
+    "note": "核查：2026-09-17。入境后就业居留材料；一般临时卡2年、续期3年，真实劳动关系须继续可证明。",
+    "topic": "签证与监护",
+    "id": "PT2",
+    "key": "family20-PT2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT2-7"
+      }
+    ]
+  },
+  {
+    "code": "PT3",
+    "title": "外国人法｜Art58 accompanying family",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445-202437435",
+    "note": "核查：2026-09-17。Art58(5)家属可与主申请人同时申请居留签证；具体中国领区受理清单及预约须另确认。",
+    "topic": "签证与监护",
+    "id": "PT3",
+    "key": "family20-PT3",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT3-5"
+      }
+    ]
+  },
+  {
+    "code": "PT4",
+    "title": "Lei61/2025｜2025年移民法修订",
+    "url": "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+    "note": "核查：2026-09-17。Art98一般2年等待的受抚养未成年人例外；Art101住房资源；Art105团聚9个月决定及特定复杂情况延长；Art57-A求职类别改为高技能。",
+    "topic": "签证与监护",
+    "id": "PT4",
+    "key": "family20-PT4",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT4-2"
+      }
+    ]
+  },
+  {
+    "code": "PT5",
+    "title": "AIMA｜Meios de Subsistência",
+    "url": "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+    "note": "核查：2026-09-17。第一成人100%最低工资、未成年30%公式；页面工资例值仍为2025，不将旧金额冒充2026。",
+    "topic": "学校与研究资料",
+    "id": "PT5",
+    "key": "family20-PT5",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT5-11"
+      }
+    ]
+  },
+  {
+    "code": "PT6",
+    "title": "DGERT｜2026最低月工资",
+    "url": "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+    "note": "核查：2026-09-17。2026最低月工资€920，通常14份工资对应税前年€12,880，奖金规则需结合劳动法。",
+    "topic": "学校与研究资料",
+    "id": "PT6",
+    "key": "family20-PT6",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT6-8"
+      }
+    ]
+  },
+  {
+    "code": "PT7",
+    "title": "劳动法｜Holiday/Christmas pay",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-46749375",
+    "note": "核查：2026-09-17。Art263–264圣诞及假期工资机制；完整工作年度与不足年按具体情形计算。",
+    "topic": "学校与研究资料",
+    "id": "PT7",
+    "key": "family20-PT7",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT7-9"
+      }
+    ]
+  },
+  {
+    "code": "PT8",
+    "title": "Segurança Social｜Employees guide",
+    "url": "https://www.seg-social.pt/documents/10152/113014/Guia_TCO/55116df3-c41d-4bc9-983a-b591c8db1bcf",
+    "note": "核查：2026-09-17。普通雇员社保11%；仅扣社保后的结果不是最终个税后到账金额。",
+    "topic": "学校与研究资料",
+    "id": "PT8",
+    "key": "family20-PT8",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT8-10"
+      }
+    ]
+  },
+  {
+    "code": "PT9",
+    "title": "Decreto-Lei37-A/2024｜废止旧无签证工作正规化",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2024-867842979",
+    "note": "核查：2026-09-17。2024-06-04起废止旧manifestation of interest入口；过渡存量规则不适用于2026新家庭。",
+    "topic": "签证与监护",
+    "id": "PT9",
+    "key": "family20-PT9",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT9-3"
+      }
+    ]
+  },
+  {
+    "code": "PT10",
+    "title": "葡萄牙教育法｜免费义务教育",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057",
+    "note": "核查：2026-09-17。公立义务教育免费框架；并不等于午餐、交通、课外与照护全部免费。",
+    "topic": "学校与研究资料",
+    "id": "PT10",
+    "key": "family20-PT10",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT10-12"
+      }
+    ]
+  },
+  {
+    "code": "PT11",
+    "title": "DGE｜Português Língua Não Materna",
+    "url": "https://www.dge.mec.pt/sites/default/files/Noticias_documentos/portugues_lingua_nao_materna.pdf",
+    "note": "核查：2026-09-17。非葡语母语学生语言支持；不是英语授课课程。",
+    "topic": "学校与研究资料",
+    "id": "PT11",
+    "key": "family20-PT11",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT11-13"
+      }
+    ]
+  },
+  {
+    "code": "PT12",
+    "title": "Oporto British School｜2026/27 fees",
+    "url": "https://www.obs.edu.pt/school-fees/",
+    "note": "核查：2026-09-17。Primary€11,105；Forms6–8€12,885年度单付，另必缴€745＋€55；首年€160＋€475；一学期可退押金等。",
+    "topic": "费用与汇率",
+    "id": "PT12",
+    "key": "family20-PT12",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT12-16"
+      }
+    ]
+  },
+  {
+    "code": "PT13",
+    "title": "Portal da Habitação｜2026租金政策上限",
+    "url": "https://www.portaldahabitacao.pt/documents/20126/35882/RendasMaximas_2026.pdf/6c3a95b2-2358-65b5-f29e-6104fdefdda4?t=1773914188716",
+    "note": "核查：2026-09-17。T2 Braga671、Leiria560、Porto1118欧元/月是Affordable Rental政策上限，非市场均价也非保证供给。",
+    "topic": "学校与研究资料",
+    "id": "PT13",
+    "key": "family20-PT13",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT13-18"
+      }
+    ]
+  },
+  {
+    "code": "PT14",
+    "title": "AIMA｜Permanent residence Art80",
+    "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+    "note": "核查：2026-09-17。临时居留至少5年并满足生计、住宿、合规及基础葡语等条件才能申请，非自动永久身份。",
+    "topic": "签证与监护",
+    "id": "PT14",
+    "key": "family20-PT14",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT14-22"
+      }
+    ]
+  },
+  {
+    "code": "PT15",
+    "title": "Barlavento Primary｜旧学年2025/26费用",
+    "url": "https://barlavento-international.org/fees/",
+    "note": "核查：2026-09-17。官方仍标2025/26：€7,050学费，€300注册、€2,350可退押金。只作低价线索；2026/27尚需学校确认。",
+    "topic": "费用与汇率",
+    "id": "PT15",
+    "key": "family20-PT15",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT15-14"
+      }
+    ]
+  },
+  {
+    "code": "PT16",
+    "title": "Aljezur International｜2025/26合同",
+    "url": "https://aljezur-international.org/wp-content/uploads/2025/06/Aljezur-International-School-Terms-Conditions-2025-26-.pdf",
+    "note": "核查：2026-09-17。旧年Y7–9 €7,200、Y10–11 €8,100；注册€300、一学期押金，校车€1,400。不是2026/27报价。",
+    "topic": "学校与研究资料",
+    "id": "PT16",
+    "key": "family20-PT16",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT16-15"
+      }
+    ]
+  },
+  {
+    "code": "PT17",
+    "title": "Barlavento｜学校与课程",
+    "url": "https://barlavento-international.org/",
+    "note": "核查：2026-09-17。Western Algarve的3–11岁小学，基于英国课程并开葡语等课；链接Aljezur中学，不等于自动衔接录取。",
+    "topic": "入学与学籍",
+    "id": "PT17",
+    "key": "family20-PT17",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-portugal.html",
+        "title": "葡萄牙｜真实雇佣＋未成年随行，先把新法看清楚",
+        "category": "family20",
+        "anchor": "cite-family20-PT17-17"
+      }
+    ]
+  },
+  {
+    "code": "GR1",
+    "title": "欧盟移民门户｜Greece employed worker",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/employed-worker-greece_en",
+    "note": "核查：2026-09-17。官方概览2025-04-01；雇主邀请、地区职业配额与工作居留。概览有旧法表述，2026个案须按希腊主管机关最新版复核，不据此保证处理时长。",
+    "topic": "签证与监护",
+    "id": "GR1",
+    "key": "family20-GR1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR1-2"
+      }
+    ]
+  },
+  {
+    "code": "GR2",
+    "title": "欧盟移民门户｜Greece family member",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/family-member-greece_en",
+    "note": "核查：2026-09-17。普通家庭团聚概览：合法居留2年、住房、医疗、收入每名孩子加15%；不将高技能等例外套给普通餐饮雇员。",
+    "topic": "签证与监护",
+    "id": "GR2",
+    "key": "family20-GR2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-GR2-5"
+      },
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR2-3"
+      }
+    ]
+  },
+  {
+    "code": "GR3",
+    "title": "希腊劳动部｜2026最低工资（希腊文）",
+    "url": "https://ypergasias.gov.gr/ergasiakes-scheseis/syllogikes-ergasiakes-sxeseis/katotatos-misthos/",
+    "note": "核查：2026-09-17。2026-04-01月最低工资€920。工资法定底线，不是获聘、净工资或签证保证。",
+    "topic": "签证与监护",
+    "id": "GR3",
+    "key": "family20-GR3",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR3-7"
+      }
+    ]
+  },
+  {
+    "code": "GR4",
+    "title": "Campion School｜2026–2027收费表",
+    "url": "https://www.campion.edu.gr/wp-content/uploads/2026/04/Campion-Fee-Schedule-2026-27.pdf",
+    "note": "核查：2026-09-17。Y3–6 €13,200；Y7–9 €14,200；Y10–13 €15,650；新生注册€1,750，校车€2,200，必要时高年级英语€1,200另计。",
+    "topic": "学校与研究资料",
+    "id": "GR4",
+    "key": "family20-GR4",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-GR4-3"
+      },
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR4-6"
+      }
+    ]
+  },
+  {
+    "code": "GR5",
+    "title": "希腊教育部｜移民儿童教育法律框架",
+    "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/thesmiko-plaisio-ekpaidefsi-prosfygon-kai-metanaston",
+    "note": "核查：2026-09-17。未成年第三国儿童平等接受义务教育；强调希腊语融入。就学权不等于父母居留或工作许可。",
+    "topic": "签证与监护",
+    "id": "GR5",
+    "key": "family20-GR5",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR5-4"
+      }
+    ]
+  },
+  {
+    "code": "GR6",
+    "title": "希腊教育部｜多语种教育指南",
+    "url": "https://www.minedu.gov.gr/publications/docs2017/publications/docs2016/Together_MAZI_Multilingual_guide_for_education_in_Greece.pdf",
+    "note": "核查：2026-09-17。旧版基础制度指南明确公立小学、中学免费；只用于免费公共教育背景，具体学年入学材料须按当届核验。",
+    "topic": "学校与研究资料",
+    "id": "GR6",
+    "key": "family20-GR6",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-GR6-5"
+      }
+    ]
+  },
+  {
+    "code": "EU1",
+    "title": "欧盟委员会｜工作类别与季节工边界",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/what-category-do-i-fit_en",
+    "note": "核查：2026-09-17。欧盟季节工路线不能凭该身份带家人同住；一国居留不等于全欧自由就业。避免把短工拼成亲子长期教育方案。",
+    "topic": "签证与监护",
+    "id": "EU1",
+    "key": "family20-EU1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-greece.html",
+        "title": "希腊｜生活成本不是首要障碍，亲子团聚时间才是",
+        "category": "family20",
+        "anchor": "cite-family20-EU1-1"
+      }
+    ]
+  },
+  {
+    "code": "FI1",
+    "title": "Migri｜Employed person (TTOL)",
+    "url": "https://migri.fi/en/residence-permit-for-an-employed-person",
+    "note": "核查：2026-09-17。先有工作、岗位能力、可能的劳动力市场审查；2026税前至少€1,600/月，不接受零工时合同；家庭可另申请。",
+    "topic": "学校与研究资料",
+    "id": "FI1",
+    "key": "family20-FI1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-FI1-1"
+      }
+    ]
+  },
+  {
+    "code": "FI2",
+    "title": "Migri｜家庭成员收入要求",
+    "url": "https://migri.fi/en/income-requirement-for-family-members-of-a-person-who-has-been-granted-a-residence-permit-in-finland",
+    "note": "核查：2026-09-17。1成人1孩子净收入：首都区€1,820/月；其他列明大城市€1,640；其他市镇€1,550。福利与例外须个案核定，不作为未获批家庭基线。",
+    "topic": "学校与研究资料",
+    "id": "FI2",
+    "key": "family20-FI2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-FI2-12"
+      }
+    ]
+  },
+  {
+    "code": "FI3",
+    "title": "Helsinki｜English-language education",
+    "url": "https://www.hel.fi/en/childhood-and-education/comprehensive-education/enrolling-and-applying-to-school/weighted-curriculum-and-comprehensive-education-in-different-languages/english-language-education",
+    "note": "核查：2026-09-17。2026-08-01持续招生条件：近母语英语、住址、18个月内英语授课经历、测试和空位；8–9年级另需A1芬兰语口语。Ressu临时班最多2年、无自动续读。",
+    "topic": "入学与学籍",
+    "id": "FI3",
+    "key": "family20-FI3",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-FI3-13"
+      }
+    ]
+  },
+  {
+    "code": "SE1",
+    "title": "Swedish Migration Agency｜Employee work permit",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/work/employee-or-self-employed/employees.html",
+    "note": "核查：2026-09-17。当前通常工资线SEK34,470/月（90%中位工资），有职业例外须查当前名单；家庭可同申但另核税后住房与维持费。页面家庭金额仍标2025，未将其冒充2026数值。",
+    "topic": "学校与研究资料",
+    "id": "SE1",
+    "key": "family20-SE1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-SE1-3"
+      }
+    ]
+  },
+  {
+    "code": "DK1",
+    "title": "SIRI｜Positive List for Skilled Work",
+    "url": "https://www.nyidanmark.dk/de-DE/Applying/Work/The_Positive_Lists/Positive%20List%20Skilled%20Work",
+    "note": "核查：2026-09-17。页面实际提供英文正文；当前清单含Chef 512000；需具体合同、相应技能、丹麦工资条件与雇主条件。可申请未成年子女随行，不等于普通服务员皆适用。",
+    "topic": "学校与研究资料",
+    "id": "DK1",
+    "key": "family20-DK1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-DK1-2"
+      }
+    ]
+  },
+  {
+    "code": "NO1",
+    "title": "UDI｜Skilled workers",
+    "url": "https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/",
+    "note": "核查：2026-09-17。职业培训、高等学历或符合标准的特殊资格路线，通常先有对应工作；国籍及具体职业进入官方选择器后再核。",
+    "topic": "学校与研究资料",
+    "id": "NO1",
+    "key": "family20-NO1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-NO1-4"
+      }
+    ]
+  },
+  {
+    "code": "IS1",
+    "title": "Iceland｜Shortage of labour work permit",
+    "url": "https://island.is/en/apply-for-a-work-permit/Shortage-of-employment",
+    "note": "核查：2026-09-17。雇主须证明当地及EEA/EFTA等劳动力招聘努力；职位缺人不等于向境外家庭开放录取式名额。",
+    "topic": "入学与学籍",
+    "id": "IS1",
+    "key": "family20-IS1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-IS1-5"
+      }
+    ]
+  },
+  {
+    "code": "IS2",
+    "title": "Iceland｜Work residence permit rights",
+    "url": "https://island.is/en/permit-based-on-work/rights",
+    "note": "核查：2026-09-17。劳动力短缺许可可带有监护权的18岁以下孩子、可续期；工作限批准雇主。不同于旧版“不能团聚”资料。",
+    "topic": "学校与研究资料",
+    "id": "IS2",
+    "key": "family20-IS2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-IS2-6"
+      }
+    ]
+  },
+  {
+    "code": "MT1",
+    "title": "Identità｜Family policy and reunification FAQ",
+    "url": "https://identita.gov.mt/frequently-asked-questions/expatriates/non-eu-non-employment/general-queries/",
+    "note": "核查：2026-09-17。普通Family Member Policy至少1年，法定团聚至少2年；净/毛收入公式不同且更新。只引用门槛结构，不把FAQ旧中位数当2026固定金额。",
+    "topic": "学校与研究资料",
+    "id": "MT1",
+    "key": "family20-MT1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-MT1-7"
+      }
+    ]
+  },
+  {
+    "code": "MT2",
+    "title": "Identità｜Non-EU employment FAQ",
+    "url": "https://identita.gov.mt/frequently-asked-questions/expatriates/non-eu-employment/",
+    "note": "核查：2026-09-17。2026-03-01起适用的新境外申请须Pre-Departure证书；旅游餐饮另核Skills Pass、具体岗位。",
+    "topic": "学校与研究资料",
+    "id": "MT2",
+    "key": "family20-MT2",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-MT2-8"
+      }
+    ]
+  },
+  {
+    "code": "CY1",
+    "title": "Cyprus Migration Department｜Family reunification",
+    "url": "https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/",
+    "note": "核查：2026-09-17。官方搜索索引支持通常先合法居留2年及许可条件；正文直接抓取403，当前仅作筛查线索，个案须重取完整文本。ICT等例外不等于一般餐厅岗位。",
+    "topic": "签证与监护",
+    "id": "CY1",
+    "key": "family20-CY1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-CY1-9"
+      }
+    ]
+  },
+  {
+    "code": "IT1",
+    "title": "意大利劳动部｜2026–2028入境配额实施文件",
+    "url": "https://lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/ingresso-e-soggiorno-per-lavoro-in-italia/pagine/circolari-e-disposizioni-attuative",
+    "note": "核查：2026-09-17。2026职业、配额与实施通知入口；国籍、年度类别、真实雇主与家庭许可须分别匹配，不能拿总配额当中国籍可用名额。",
+    "topic": "学校与研究资料",
+    "id": "IT1",
+    "key": "family20-IT1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-IT1-10"
+      }
+    ]
+  },
+  {
+    "code": "ETH1",
+    "title": "ILO｜Fair recruitment principles",
+    "url": "https://www.ilo.org/publications/general-principles-and-operational-guidelines-fair-recruitment-and",
+    "note": "核查：2026-09-17。公平招聘原则：不应向工人直接或间接收招聘费及相关成本。此为国际指导原则；具体收费合法性再按两地法律核验。",
+    "topic": "学校与研究资料",
+    "id": "ETH1",
+    "key": "family20-ETH1",
+    "report": "family20",
+    "reportLabel": "亲子年度20万",
+    "usedBy": [
+      {
+        "file": "family20-budget.html",
+        "title": "20万元预算账本｜先算支出，再扣合法到手工资",
+        "category": "family20",
+        "anchor": "cite-family20-ETH1-6"
+      },
+      {
+        "file": "family20-europe.html",
+        "title": "北欧与南欧｜有工作权，不等于低语言门槛亲子移居",
+        "category": "family20",
+        "anchor": "cite-family20-ETH1-16"
+      }
+    ]
   }
 ]
