@@ -1,0 +1,76 @@
+[
+  {
+    "key": "school-manunui",
+    "title": "Te Kura o Manunui：2027收费表",
+    "url": "https://tkom.squarespace.com/s/Fee-Structure-2027.pdf",
+    "page": 1,
+    "file": "assets/nz-child/school-manunui.png",
+    "captured": "2026-09-17T16:01:04.562Z",
+    "method": "Official original PDF rendered unchanged, page 1"
+  },
+  {
+    "key": "school-intermediate",
+    "title": "Mount Maunganui Intermediate：2026收费表（页脚保留旧日期）",
+    "url": "https://mtint.school.nz/wp-content/uploads/2025/06/2026-International-Tuition-and-Fees.pdf",
+    "page": 1,
+    "file": "assets/nz-child/school-intermediate.png",
+    "captured": "2026-09-17T16:01:07.677Z",
+    "method": "Official original PDF rendered unchanged, page 1"
+  },
+  {
+    "key": "school-renwick",
+    "title": "Renwick：2025更新费表（现官网链接，非2027确认）",
+    "url": "https://renwick.school.nz/wp-content/uploads/2026/05/Fee-Paying-Students-updated-2025-.pdf",
+    "page": 5,
+    "file": "assets/nz-child/school-renwick.png",
+    "captured": "2026-09-17T16:01:10.311Z",
+    "method": "Official original PDF rendered unchanged, page 5"
+  },
+  {
+    "key": "guardian-law",
+    "title": "INZ V3.100：陪读监护人工作条件",
+    "url": "https://www.immigration.govt.nz/opsmanual/34312.htm",
+    "term": "9:30am",
+    "file": "assets/nz-child/guardian-law.png",
+    "captured": "2026-09-17T16:04:06.947Z",
+    "method": "Unmodified official policy page, JavaScript disabled to avoid redirect"
+  },
+  {
+    "key": "guardian-visa",
+    "title": "Guardian Visitor Visa：同住照护条件",
+    "url": "https://www.immigration.govt.nz/visas/guardian-visitor-visa/",
+    "term": "live with",
+    "file": "assets/nz-child/guardian-visa.png",
+    "captured": "2026-09-17T16:04:11.659Z",
+    "method": "Unmodified official page; welcome dismissed, necessary cookies only; scrolled to key section"
+  },
+  {
+    "key": "variation",
+    "title": "INZ：变更陪读访客签证条件",
+    "url": "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/check-or-change-your-visitor-visa-conditions/",
+    "term": "Changing conditions on a Guardian Visitor Visa",
+    "file": "assets/nz-child/variation.png",
+    "captured": "2026-09-17T16:04:17.938Z",
+    "method": "Unmodified official page; welcome dismissed, necessary cookies only; scrolled to key section"
+  },
+  {
+    "key": "tax",
+    "title": "IRD：个人所得税税率表",
+    "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+    "term": "15,600",
+    "table": true,
+    "file": "assets/nz-child/tax.png",
+    "captured": "2026-09-17T16:04:20.282Z",
+    "method": "Unmodified official table, element screenshot"
+  },
+  {
+    "key": "acc-levy",
+    "title": "IRD：2026/27与2027/28 ACC征费表",
+    "url": "https://www.ird.govt.nz/acclevy",
+    "term": "1.83",
+    "table": true,
+    "file": "assets/nz-child/acc-levy.png",
+    "captured": "2026-09-17T16:05:56.202Z",
+    "method": "Unmodified official table, element screenshot"
+  }
+]

@@ -16610,5 +16610,1076 @@
         "anchor": "cite-family20-ETH1-16"
       }
     ]
+  },
+  {
+    "code": "L01",
+    "title": "INZ V3.100：陪读监护人操作规则",
+    "url": "https://www.immigration.govt.nz/opsmanual/34312.htm",
+    "note": "核查2026-09-17。现行页面标示生效日2024-04-11；监护资格、同住、续签及工作时段。不能据五小时窗口推导25小时开放工作权。",
+    "id": "L01",
+    "key": "nzchild-L01",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L01-1"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L01-5"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L01-1"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L01-14"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L02",
+    "title": "INZ：Guardian Visitor Visa",
+    "url": "https://www.immigration.govt.nz/visas/guardian-visitor-visa/",
+    "note": "核查2026-09-17。一位监护人与国际付费学生；资金、照护及禁止转换的签证类别。",
+    "id": "L02",
+    "key": "nzchild-L02",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L02-5"
+      },
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L02-4"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L02-1"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L02-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L03",
+    "title": "INZ：Fee Paying Student Visa",
+    "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+    "note": "核查2026-09-17。学校录取、学费、保险及最长四年；五年计划仍须后续申请，不是一次获批五年。",
+    "id": "L03",
+    "key": "nzchild-L03",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-6"
+      },
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-1"
+      },
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-6"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-11"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-6"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L03-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L04",
+    "title": "INZ：变更访客签证条件",
+    "url": "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/check-or-change-your-visitor-visa-conditions/",
+    "note": "核查2026-09-17。VOC不延长签证有效期；批准前不能按新条件工作。",
+    "id": "L04",
+    "key": "nzchild-L04",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-7"
+      },
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-12"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-12"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-6"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-17"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-4"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L04-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L05",
+    "title": "INZ：E3.26 条件变更操作规则",
+    "url": "https://www.immigration.govt.nz/opsmanual/90102.htm",
+    "note": "核查2026-09-17。2026-04-20现行规则；访客监护人与其他签证群体的工时规则不可混用。",
+    "id": "L05",
+    "key": "nzchild-L05",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L05-5"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L05-2"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L05-11"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L06",
+    "title": "INZ：W2.10 工作的一般要求",
+    "url": "https://www.immigration.govt.nz/opsmanual/34388.htm",
+    "note": "核查2026-09-17。真实且可持续的job offer，雇主、职务、工资、地点、工时等资料与雇主合规。",
+    "id": "L06",
+    "key": "nzchild-L06",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L06-4"
+      },
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L06-6"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L06-7"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L06-12"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "L07",
+    "title": "INZ 1020：条件变更申请表",
+    "url": "https://www.immigration.govt.nz/assets/inz/documents/forms-and-guides/Application-for-a-Variation-of-Conditions-or-a-Variation-of-Travel-Conditions-INZ1020.pdf",
+    "note": "核查2026-09-17。2025年10月版；Section C填写雇主、职务、工作地点与工时。申请时再查最新版。",
+    "id": "L07",
+    "key": "nzchild-L07",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L07-8"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L07-8"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L07-5"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L07-14"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "L08",
+    "title": "INZ：中小学学生资金证明",
+    "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/student-fund-requirements/",
+    "note": "核查2026-09-17。Years1–13生活资金NZ$17,000/年，学费与返程另计；不能用尚未获准的预期工资替代现有证明。",
+    "id": "L08",
+    "key": "nzchild-L08",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L08-9"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L08-14"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "code": "L09",
+    "title": "INZ：访客为海外客户远程工作",
+    "url": "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/",
+    "note": "核查2026-09-17。2025-01-27起申请的访客签可含海外远程工作；NZ雇主/客户、本地必须到场的业务不在此例外内。",
+    "id": "L09",
+    "key": "nzchild-L09",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L09-5"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L09-2"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "L10",
+    "title": "IRD：非居民雇员及远程工作税务",
+    "url": "https://www.ird.govt.nz/roles/non-residents/non-resident-employees",
+    "note": "核查2026-09-17。2026-04-01规则；275天例外有多个条件，不是所有人都有免税期。五年居住应做跨境税务评估。",
+    "id": "L10",
+    "key": "nzchild-L10",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L10-11"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "L11",
+    "title": "教育部：海外学生、学校与批准交换",
+    "url": "https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas",
+    "note": "核查2026-09-17。国际付费生学校须符合Code；批准交换与普通游学不同。页面部分仍提旧Notice，身份应交叉读L12现行说明。",
+    "id": "L11",
+    "key": "nzchild-L11",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L11-2"
+      },
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L11-8"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L11-9"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L11-13"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "L12",
+    "title": "教育部：国内生与国际生资格说明",
+    "url": "https://www.education.govt.nz/our-work/publications/education-circulars/education-circular-202008",
+    "note": "核查2026-09-17。现行页面引用2026 Domestic Students Notice；guardian访客兼职不等于孩子取得免费公校资格。",
+    "id": "L12",
+    "key": "nzchild-L12",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L12-9"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L12-13"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "L13",
+    "title": "INZ：体检与胸片要求",
+    "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/health-requirements/who-needs-an-x-ray-or-medical-examination/",
+    "note": "核查2026-09-17。按国别居住史、停留时间及年龄核查；儿童未满11岁胸片一般例外，INZ仍可要求补件。",
+    "id": "L13",
+    "key": "nzchild-L13",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-eligibility.html",
+        "title": "完整条件：谁能来、带什么材料、何时才能工作",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L13-7"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-L13-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "S01",
+    "title": "Te Kura o Manunui：2027国际生收费表",
+    "url": "https://tkom.squarespace.com/s/Fee-Structure-2027.pdf",
+    "note": "核查2026-09-17。已公布2027报价：tuition14,000、registration350、administration350；Y1–6，非五年锁价。",
+    "id": "S01",
+    "key": "nzchild-S01",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S01-2"
+      },
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S01-1"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S01-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "S02",
+    "title": "Te Kura o Manunui：国际生与家长同住说明",
+    "url": "https://tkom.squarespace.com/international",
+    "note": "核查2026-09-17。长期学生须与父母或法定监护人同住；录取、照护及额外费用需书面确认。",
+    "id": "S02",
+    "key": "nzchild-S02",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S02-11"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "code": "S03",
+    "title": "Mount Maunganui Intermediate：2026收费",
+    "url": "https://mtint.school.nz/wp-content/uploads/2025/06/2026-International-Tuition-and-Fees.pdf",
+    "note": "核查2026-09-17。Y7–8；15,000学费+700注册管理，含部分ESOL/校内项目；保险制服另计。不是2027报价。",
+    "id": "S03",
+    "key": "nzchild-S03",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S03-2"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S03-8"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S03-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "code": "S04",
+    "title": "Ashburton College：2026及2027国际费表",
+    "url": "https://www.ashburtoncollege.school.nz/enrolment-procedure-fees/",
+    "note": "核查2026-09-17。Y9–13；2026tuition16,000，2027升至18,000；一次注册350；住宿与保险另计。使用可访问官网费用页，旧PDF直链已失效。",
+    "id": "S04",
+    "key": "nzchild-S04",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S04-3"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "code": "S05",
+    "title": "Renwick School：2025更新的国际生费表",
+    "url": "https://renwick.school.nz/wp-content/uploads/2026/05/Fee-Paying-Students-updated-2025-.pdf",
+    "note": "核查2026-09-17。现官网链接的PDF，第5页10,000/年，200申请款录取后抵费；文件标注updated2025，虽迁移至2026目录，不等于2027报价。2026-09-18复核新链接；未取得当年书面确认。",
+    "id": "S05",
+    "key": "nzchild-S05",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-overview.html",
+        "title": "新西兰：孩子先入学，家长陪读后申请兼职",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S05-3"
+      },
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S05-5"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S05-6"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S05-1"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S05-5"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "code": "S06",
+    "title": "Waihopai School：国际生资料入口",
+    "url": "https://www.waihopai.school.nz/school-information/international-students",
+    "note": "核查2026-09-17。所链2026fee schedule：15,000学费、1,400行政、440征费、保险约571.84、校服租用100。首年已知合计17,511.84。",
+    "id": "S06",
+    "key": "nzchild-S06",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S06-4"
+      },
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S06-15"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S06-7"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "code": "S07",
+    "title": "Burnside High：国际新生奖学金",
+    "url": "https://www.burnside.school.nz/international-scholarships/",
+    "note": "核查2026-09-17。第一年20% tuition减免，每年六名。2027年初入学截止2026-07-31已过；2027年中截止2027-02-28。家长已有/计划工作签证被排除；guardian+VOC须单独向学校确认。不计五年持续减免。",
+    "id": "S07",
+    "key": "nzchild-S07",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S07-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "S08",
+    "title": "Dilworth：全奖申请FAQ",
+    "url": "https://www.dilworth.school.nz/enrolment-scholarship/frequently-asked-questions/",
+    "note": "核查2026-09-17。公民/永久居民及当地居住等条件；不是普通新到大陆国际生全奖通道。",
+    "id": "S08",
+    "key": "nzchild-S08",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-schools.html",
+        "title": "学校怎么选：报价年份、五年衔接和总成本一起看",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S08-10"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-S08-20"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C01",
+    "title": "Employment NZ：最低工资",
+    "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types",
+    "note": "核查2026-09-17。2026-04-01成人最低时薪NZ$23.95；预算冻结该工资，不预测未来涨薪。",
+    "id": "C01",
+    "key": "nzchild-C01",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C01-1"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C01-9"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C02",
+    "title": "IRD：个人所得税阶梯",
+    "url": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/tax-rates-for-individuals",
+    "note": "核查2026-09-17。15,600以内10.5%，其后至53,500为17.5%；模型另扣ACC，不用税前工资抵支出。",
+    "id": "C02",
+    "key": "nzchild-C02",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C02-2"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C02-10"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C02-9"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C03",
+    "title": "IRD：ACC收入征费",
+    "url": "https://www.ird.govt.nz/acclevy",
+    "note": "核查2026-09-17。2026/27为1.75%；2027/28已公布1.83%。2027起示例暂按1.83%全年并冻结，后续年度须更新。",
+    "id": "C03",
+    "key": "nzchild-C03",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C03-3"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C03-11"
+      },
+      {
+        "file": "nz-child-evidence.html",
+        "title": "证据工作台：原文截图、链接、缺口和询问模板",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C03-10"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C04",
+    "title": "IRD：加入KiwiSaver资格",
+    "url": "https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/joining-kiwisaver",
+    "note": "核查2026-09-17。临时访客签不符合加入资格；不在模型中虚扣，也不加入雇主养老金收益。",
+    "id": "C04",
+    "key": "nzchild-C04",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C04-4"
+      },
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C04-12"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C05",
+    "title": "Study with New Zealand：生活费指引",
+    "url": "https://www.studywithnewzealand.govt.nz/en/plan-your-studies/cost-of-living",
+    "note": "核查2026-09-17。食品每人每周80–120、电费每月200–300、网络约90/月等粗锚；学生指引不是亲子家庭报价。",
+    "id": "C05",
+    "key": "nzchild-C05",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C05-8"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C06",
+    "title": "Tenancy Services：租赁押金市场数据",
+    "url": "https://www.tenancy.govt.nz/about-tenancy-services/data-and-statistics/rental-bond-data/",
+    "note": "核查2026-09-17。2026年7月Invercargill全房型押金租赁中位510/周、下四分位430；不是两居室或特定学区报价。",
+    "id": "C06",
+    "key": "nzchild-C06",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C06-17"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C07",
+    "title": "Invercargill：198/3 Tweed Street两居室挂牌",
+    "url": "https://www.realestate.co.nz/43115280/residential/rent/198-3-tweed-street-appleby",
+    "note": "核查2026-09-17。核查时挂牌430/周；四周押金1,720，首周预付租金已在52周年度租金内，不重复。未实勘或锁定。",
+    "id": "C07",
+    "key": "nzchild-C07",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C07-18"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C08",
+    "title": "Blenheim：3/14 Gascoigne Street两居室挂牌",
+    "url": "https://www.realestate.co.nz/property/3-14-gascoigne-street-riversdale-marlborough-marlborough/zqpv6ryfc",
+    "note": "核查2026-09-17。450/周，2026年3月刊登、4月可入住的历史挂牌线索；不代表当前有房，也非Renwick校门旁。交通和接受亲子须重核。",
+    "id": "C08",
+    "key": "nzchild-C08",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C08-7"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C09",
+    "title": "Tenancy Services：押金",
+    "url": "https://www.tenancy.govt.nz/rent-bond-and-bills/bond/",
+    "note": "核查2026-09-17。普通租赁押金通常最多四周；可退资金占用与消费支出分账，按实际合同与现行细则核验。",
+    "id": "C09",
+    "key": "nzchild-C09",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "C10",
+    "title": "NZ Police：儿童独处与照护",
+    "url": "https://www.police.govt.nz/advice/personal-community/keeping-safe/children-safe",
+    "note": "核查2026-09-17。家长工作必须有适当照护；不因可工作就假定孩子可独处。具体风险按年龄成熟度、时段及安排评估。",
+    "id": "C10",
+    "key": "nzchild-C10",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-C10-15"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "T01",
+    "title": "教育部：学期与假期日期",
+    "url": "https://www.education.govt.nz/term-dates-and-holidays",
+    "note": "核查2026-09-17。每校开学日可能不同；未来五年日期不能整齐地假定完全一致，假期照护须先于排班。",
+    "id": "T01",
+    "key": "nzchild-T01",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-budget.html",
+        "title": "五年100万：先反推可成交上限，再逐年验算",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-T01-10"
+      },
+      {
+        "file": "nz-child-timeline.html",
+        "title": "从准备到第5年：每个阶段有“继续/暂停”判定",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-T01-6"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "W01",
+    "title": "Trade Me：Southland清洁岗位广告",
+    "url": "https://www.trademe.co.nz/a/jobs/other/southland/invercargill/part-time/listing/5812106888",
+    "note": "核查2026-09-17。雇主广告示例：9:00–14:30、casual、要求驾照。原班次不完全合规，且没有固定工时；不是可直接上岗机会。广告会过期。",
+    "id": "W01",
+    "key": "nzchild-W01",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W01-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "W02",
+    "title": "Trade Me：Whanganui school-hours陈列岗位",
+    "url": "https://www.trademe.co.nz/a/jobs/retail/merchandising/manawatu-whanganui/whanganui/part-time/listing/6102799417",
+    "note": "核查2026-09-17。约40小时/月，需驾照车辆并有外地任务；说明学校时段工作存在，但不能推导每周20小时和低交通费。",
+    "id": "W02",
+    "key": "nzchild-W02",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W02-4"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W02-4"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "W03",
+    "title": "INZ：工作与gain or reward的定义",
+    "url": "https://www.immigration.govt.nz/opsmanual/46191.htm",
+    "note": "核查2026-09-17。食宿、交通等实物利益可算工作报酬；以劳动换住宿不是免工签漏洞。",
+    "id": "W03",
+    "key": "nzchild-W03",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W03-15"
+      }
+    ],
+    "topic": "住宿与保护"
+  },
+  {
+    "code": "W04",
+    "title": "Employment NZ：工资扣减",
+    "url": "https://www.employment.govt.nz/pay-and-hours/pay-and-wages/deductions",
+    "note": "核查2026-09-17。住宿与工资扣减必须合法、合理及有书面依据，不得将免费房作为无限劳动代价。",
+    "id": "W04",
+    "key": "nzchild-W04",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W04-16"
+      }
+    ],
+    "topic": "住宿与保护"
+  },
+  {
+    "code": "W05",
+    "title": "Employment NZ：移民劳动剥削",
+    "url": "https://www.employment.govt.nz/resolving-problems/migrant-exploitation",
+    "note": "核查2026-09-17。付费买岗位、押护照、违法扣薪等为风险；劳动权利不因临时签证消失。",
+    "id": "W05",
+    "key": "nzchild-W05",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W05-18"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "code": "W06",
+    "title": "Work and Income：OSCAR补贴资格",
+    "url": "https://www.workandincome.govt.nz/products/a-z-benefits/oscar-subsidy",
+    "note": "核查2026-09-17。照顾人公民/居民资格等门槛；本路径不预算该项补贴。",
+    "id": "W06",
+    "key": "nzchild-W06",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W06-14"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "W07",
+    "title": "Invercargill：370/周两居挂牌",
+    "url": "https://www.realestate.co.nz/43114573/residential/rent/4-122-tweed-street-invercargill",
+    "note": "核查2026-09-17。单套低价挂牌，不当成普遍可获得租金。仍须家长与孩子入住许可、实勘和通勤检查。",
+    "id": "W07",
+    "key": "nzchild-W07",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W07-5"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "code": "W08",
+    "title": "English Language Partners Southland",
+    "url": "https://www.englishlanguage.org.nz/centres/invercargill",
+    "note": "核查2026-09-17。主要免费英语项目写明公民/居民资格；guardian临时签不能假定免费，须询问价格。",
+    "id": "W08",
+    "key": "nzchild-W08",
+    "report": "nzchild",
+    "reportLabel": "NZ孩子先行",
+    "usedBy": [
+      {
+        "file": "nz-child-work.html",
+        "title": "家长怎么工作：先匹配班次，再谈工资",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W08-16"
+      },
+      {
+        "file": "nz-child-savings.html",
+        "title": "可研究的少见办法：每一项都标明省什么、缺什么",
+        "category": "nzchild",
+        "anchor": "cite-nzchild-W08-21"
+      }
+    ],
+    "topic": "签证与监护"
   }
 ]
