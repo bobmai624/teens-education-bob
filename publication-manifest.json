@@ -48,9 +48,9 @@
       "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
     }
   ],
-  "siteVersion": "3.3",
-  "readingPages": 128,
-  "referenceRecords": 825,
+  "siteVersion": "4.0",
+  "readingPages": 169,
+  "referenceRecords": 971,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -59,5 +59,9 @@
   "childFirstReport": "nz-child-overview.html",
   "childFirstResearchDate": "2026-09-17",
   "childFirstPublishedDate": "2026-09-18",
-  "childFirstSources": 40
+  "childFirstSources": 40,
+  "youthVocationalReport": "youth-vet-overview.html",
+  "youthVocationalResearchDate": "2026-09-24",
+  "youthVocationalCountries": 37,
+  "youthVocationalSources": 146
 }

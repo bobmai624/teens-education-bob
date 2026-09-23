@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
+  "version": "4.0",
   "guides": [
     {
       "file": "family-report.html",
@@ -2631,6 +2631,777 @@
         "nzchild-L06",
         "nzchild-L11",
         "nzchild-L07"
+      ]
+    },
+    {
+      "id": "overview",
+      "label": "01 总览与国家筛选",
+      "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+      "summary": "不是“读一门技工课就拿PR”，而是核验一条连续链。以中国大陆未成年学生为主申请人，保留文化课和大学选择；家长陪伴、工作与预算分别过关。",
+      "file": "youth-vet-overview.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "未成年职业教育：从高中技能探索，到合法工作与长期身份 不是“读一门技工课就拿PR”，而是核验一条连续链。以中国大陆未成年学生为主申请人，保留文化课和大学选择；家长陪伴、工作与预算分别过关。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜底层逻辑：能提前的是什么？ 02｜先看结论：英语、预算、速度，通常不能同时最优 03｜覆盖与证据等级 04｜37地独立案例：按国家、地区和结论筛选",
+      "refs": [
+        "youthvet-YV-DE02",
+        "youthvet-YV-CA07",
+        "youthvet-YV-NZ07",
+        "youthvet-YV-AU05",
+        "youthvet-YV-CA02"
+      ]
+    },
+    {
+      "id": "timeline",
+      "label": "02 年龄与双轨路线",
+      "title": "把时间提前，但不要把资格与移民经验提前算",
+      "summary": "以下是规划顺序，不是承诺完成年龄。读书、实习、取得资格、获得工作权、开始计算居留年限，应分别记录。",
+      "file": "youth-vet-timeline.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "把时间提前，但不要把资格与移民经验提前算 以下是规划顺序，不是承诺完成年龄。读书、实习、取得资格、获得工作权、开始计算居留年限，应分别记录。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜两条路线：学术退路与最快就业的取舍 02｜六国代表性时钟：从哪里开始计算？ 03｜按准备时间做材料与决策 04｜从第一天保留可验证的工作档案",
+      "refs": [
+        "youthvet-YV-DE02",
+        "youthvet-YV-AU06",
+        "youthvet-YV-NZ07",
+        "youthvet-YV-NZ09",
+        "youthvet-YV-CA07",
+        "youthvet-YV-PT01",
+        "youthvet-YV-ES04"
+      ]
+    },
+    {
+      "id": "budget",
+      "label": "03 预算与退出预案",
+      "title": "亲子五年100万元：先做硬门槛，再谈净成本",
+      "summary": "继续沿用一位家长＋一位孩子、逐年净支出不超过20万元、五年不超过100万元人民币的目标。此次没有任何国家取得完整、可执行的两人五年锁定报价。",
+      "file": "youth-vet-budget.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "亲子五年100万元：先做硬门槛，再谈净成本 继续沿用一位家长＋一位孩子、逐年净支出不超过20万元、五年不超过100万元人民币的目标。此次没有任何国家取得完整、可执行的两人五年锁定报价。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜不能用未来工资掩盖今天的资金缺口 02｜哪些收入可以进入模型？ 03｜值得查的小众降本方式：每一项都有代价 04｜不能闭合时，什么时候退出？",
+      "refs": [
+        "youthvet-YV-AU05",
+        "youthvet-YV-CA02",
+        "youthvet-YV-DE01"
+      ]
+    },
+    {
+      "id": "evidence",
+      "label": "04 核验清单与证据",
+      "title": "把“有这个制度”，核实成“这个孩子可以走”",
+      "summary": "本专题包含146条来源记录，来源重复按国家分别记。以政府、法律公报、官方教育机构为主；学校报价只证明该校公布过条件，不是已签约方案。",
+      "file": "youth-vet-evidence.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "把“有这个制度”，核实成“这个孩子可以走” 本专题包含146条来源记录，来源重复按国家分别记。以政府、法律公报、官方教育机构为主；学校报价只证明该校公布过条件，不是已签约方案。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜六份书面证据，决定是否可以进入执行 02｜可复制给学校的核验问题 03｜怎样读证据，怎样读缺口",
+      "refs": []
+    },
+    {
+      "id": "australia",
+      "countryId": "australia",
+      "label": "澳大利亚",
+      "title": "澳大利亚｜未成年职业教育与长期身份路径",
+      "summary": "英语路线中值得优先继续核验：存在16岁入读完整技工资格的国际课程，但“完整技工＋高中学术升学＋家长能工作”不能视为一个现成套餐。",
+      "file": "youth-vet-australia.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "澳大利亚｜未成年职业教育与长期身份路径 英语路线中值得优先继续核验：存在16岁入读完整技工资格的国际课程，但“完整技工＋高中学术升学＋家长能工作”不能视为一个现成套餐。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-AU01",
+        "youthvet-YV-AU02",
+        "youthvet-YV-AU03",
+        "youthvet-YV-AU04",
+        "youthvet-YV-AU05",
+        "youthvet-YV-AU06",
+        "youthvet-YV-AU07",
+        "youthvet-YV-AU08",
+        "youthvet-YV-AU09",
+        "youthvet-YV-AU10",
+        "youthvet-YV-AU11",
+        "youthvet-YV-AU12"
+      ]
+    },
+    {
+      "id": "new-zealand",
+      "countryId": "new-zealand",
+      "label": "新西兰",
+      "title": "新西兰｜未成年职业教育与长期身份路径",
+      "summary": "适合先读高中、探索技能；不宜承诺“高中木工→成年两年PR”。国际生学徒准入、毕业工签和资格后工作年限是三个硬断点。",
+      "file": "youth-vet-new-zealand.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "新西兰｜未成年职业教育与长期身份路径 适合先读高中、探索技能；不宜承诺“高中木工→成年两年PR”。国际生学徒准入、毕业工签和资格后工作年限是三个硬断点。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-NZ01",
+        "youthvet-YV-NZ02",
+        "youthvet-YV-NZ03",
+        "youthvet-YV-NZ04",
+        "youthvet-YV-NZ05",
+        "youthvet-YV-NZ06",
+        "youthvet-YV-NZ07",
+        "youthvet-YV-NZ08",
+        "youthvet-YV-NZ09"
+      ]
+    },
+    {
+      "id": "germany",
+      "countryId": "germany",
+      "label": "德国",
+      "title": "德国｜未成年职业教育与长期身份路径",
+      "summary": "若愿意把主教学语言改成德语，带薪双元制→技术工作→定居的制度衔接值得优先研究。但大陆16岁直接签约和家长陪同，仍须逐案验证。",
+      "file": "youth-vet-germany.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "德国｜未成年职业教育与长期身份路径 若愿意把主教学语言改成德语，带薪双元制→技术工作→定居的制度衔接值得优先研究。但大陆16岁直接签约和家长陪同，仍须逐案验证。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-DE01",
+        "youthvet-YV-DE02",
+        "youthvet-YV-DE03",
+        "youthvet-YV-DE04"
+      ]
+    },
+    {
+      "id": "canada",
+      "countryId": "canada",
+      "label": "加拿大",
+      "title": "加拿大｜未成年职业教育与长期身份路径",
+      "summary": "可保留高中学术＋技能方向，但普通国际高中生不能直接照搬本地带薪学徒。较清楚的是高中→合格公立学院技职→毕业工签→技术工作→竞争移民。",
+      "file": "youth-vet-canada.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "加拿大｜未成年职业教育与长期身份路径 可保留高中学术＋技能方向，但普通国际高中生不能直接照搬本地带薪学徒。较清楚的是高中→合格公立学院技职→毕业工签→技术工作→竞争移民。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-CA01",
+        "youthvet-YV-CA02",
+        "youthvet-YV-CA03",
+        "youthvet-YV-CA04",
+        "youthvet-YV-CA05",
+        "youthvet-YV-CA06",
+        "youthvet-YV-CA07",
+        "youthvet-YV-CA08"
+      ]
+    },
+    {
+      "id": "united-states",
+      "countryId": "united-states",
+      "label": "美国",
+      "title": "美国｜未成年职业教育与长期身份路径",
+      "summary": "CTE职业高中很常见，但对大陆家庭“低预算＋学生主导＋早拿永久身份”并无连续的普遍通道，不能将美国本地高中或学徒待遇套给F-1／M-1。",
+      "file": "youth-vet-united-states.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "美国｜未成年职业教育与长期身份路径 CTE职业高中很常见，但对大陆家庭“低预算＋学生主导＋早拿永久身份”并无连续的普遍通道，不能将美国本地高中或学徒待遇套给F-1／M-1。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-US01",
+        "youthvet-YV-US02",
+        "youthvet-YV-US03",
+        "youthvet-YV-US04"
+      ]
+    },
+    {
+      "id": "united-kingdom",
+      "countryId": "united-kingdom",
+      "label": "英国",
+      "title": "英国｜未成年职业教育与长期身份路径",
+      "summary": "16岁起有职业与学术结合课程，但国际学生身份不等于享有本地带薪学徒资金或打工权；技工毕业后还须核当期职业清单、雇主担保与工资门槛。",
+      "file": "youth-vet-united-kingdom.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "英国｜未成年职业教育与长期身份路径 16岁起有职业与学术结合课程，但国际学生身份不等于享有本地带薪学徒资金或打工权；技工毕业后还须核当期职业清单、雇主担保与工资门槛。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-UK01",
+        "youthvet-YV-UK02",
+        "youthvet-YV-UK03",
+        "youthvet-YV-UK04",
+        "youthvet-YV-UK05",
+        "youthvet-YV-UK06",
+        "youthvet-YV-UK07",
+        "youthvet-YV-UK08"
+      ]
+    },
+    {
+      "id": "ireland",
+      "countryId": "ireland",
+      "label": "爱尔兰",
+      "title": "爱尔兰｜未成年职业教育与长期身份路径",
+      "summary": "英语环境和学徒体系存在，但中学学生许可不带工作权；从国际高中直接进带薪学徒，再快速定居，并非默认可行。",
+      "file": "youth-vet-ireland.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "爱尔兰｜未成年职业教育与长期身份路径 英语环境和学徒体系存在，但中学学生许可不带工作权；从国际高中直接进带薪学徒，再快速定居，并非默认可行。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-IE01",
+        "youthvet-YV-IE02",
+        "youthvet-YV-IE03",
+        "youthvet-YV-IE04",
+        "youthvet-YV-IE05"
+      ]
+    },
+    {
+      "id": "denmark",
+      "countryId": "denmark",
+      "label": "丹麦",
+      "title": "丹麦｜未成年职业教育与长期身份路径",
+      "summary": "丹麦的职业教育（VET）与兼顾升学的eux确实存在，但普通境外学生不能靠职业学校基础课程取得学习居留；16岁孩子独立走完整职教—工作路线的首个居留环节不成立。",
+      "file": "youth-vet-denmark.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "丹麦｜未成年职业教育与长期身份路径 丹麦的职业教育（VET）与兼顾升学的eux确实存在，但普通境外学生不能靠职业学校基础课程取得学习居留；16岁孩子独立走完整职教—工作路线的首个居留环节不成立。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-DK01",
+        "youthvet-YV-DK02",
+        "youthvet-YV-DK03"
+      ]
+    },
+    {
+      "id": "finland",
+      "countryId": "finland",
+      "label": "芬兰",
+      "title": "芬兰｜未成年职业教育与长期身份路径",
+      "summary": "芬兰允许被认可院校录取的未成年人以职业资格课程申请学习居留，职业资格也保留升读高等教育资格；实际可行性被2026年学费、语言、家长独立许可及18岁续居留限制。",
+      "file": "youth-vet-finland.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "芬兰｜未成年职业教育与长期身份路径 芬兰允许被认可院校录取的未成年人以职业资格课程申请学习居留，职业资格也保留升读高等教育资格；实际可行性被2026年学费、语言、家长独立许可及18岁续居留限制。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-FI01",
+        "youthvet-YV-FI02",
+        "youthvet-YV-FI03",
+        "youthvet-YV-FI04"
+      ]
+    },
+    {
+      "id": "sweden",
+      "countryId": "sweden",
+      "label": "瑞典",
+      "title": "瑞典｜未成年职业教育与长期身份路径",
+      "summary": "瑞典国内有职业高中和高等教育衔接，但境外非欧盟申请人不能由普通职业高中直接取得该类学习许可；允许的高中学习主要是IB或正式国际交换，且该许可不准工作。",
+      "file": "youth-vet-sweden.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "瑞典｜未成年职业教育与长期身份路径 瑞典国内有职业高中和高等教育衔接，但境外非欧盟申请人不能由普通职业高中直接取得该类学习许可；允许的高中学习主要是IB或正式国际交换，且该许可不准工作。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-SE01",
+        "youthvet-YV-SE02",
+        "youthvet-YV-SE03"
+      ]
+    },
+    {
+      "id": "norway",
+      "countryId": "norway",
+      "label": "挪威",
+      "title": "挪威｜未成年职业教育与长期身份路径",
+      "summary": "挪威的职业高中通常是两年校内学习加两年企业学徒，但能否由中国境外16岁直接取得具体高中学习许可、后续学徒身份及父母同住权，都要按UDI项目类别核实。",
+      "file": "youth-vet-norway.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "挪威｜未成年职业教育与长期身份路径 挪威的职业高中通常是两年校内学习加两年企业学徒，但能否由中国境外16岁直接取得具体高中学习许可、后续学徒身份及父母同住权，都要按UDI项目类别核实。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-NO01",
+        "youthvet-YV-NO02",
+        "youthvet-YV-NO03",
+        "youthvet-YV-NO04"
+      ]
+    },
+    {
+      "id": "iceland",
+      "countryId": "iceland",
+      "label": "冰岛",
+      "title": "冰岛｜未成年职业教育与长期身份路径",
+      "summary": "冰岛普通学生居留要求申请人满18岁并读全日制大学；16岁中学生只有认可机构的交换例外。职业高中虽有实训及大学预备路径，却不是普通境外未成年人的完整职教入境通道。",
+      "file": "youth-vet-iceland.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "冰岛｜未成年职业教育与长期身份路径 冰岛普通学生居留要求申请人满18岁并读全日制大学；16岁中学生只有认可机构的交换例外。职业高中虽有实训及大学预备路径，却不是普通境外未成年人的完整职教入境通道。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-IS01",
+        "youthvet-YV-IS02",
+        "youthvet-YV-IS03",
+        "youthvet-YV-IS04"
+      ]
+    },
+    {
+      "id": "netherlands",
+      "countryId": "netherlands",
+      "label": "荷兰",
+      "title": "荷兰｜未成年职业教育与长期身份路径",
+      "summary": "荷兰设有中学/MBO职业教育学习许可，但现行额外门槛要求三项中满足至少两项；无荷兰家庭联系的中国籍16岁通常最多只能凭荷兰语满足其中一项，入口高度受限。",
+      "file": "youth-vet-netherlands.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "荷兰｜未成年职业教育与长期身份路径 荷兰设有中学/MBO职业教育学习许可，但现行额外门槛要求三项中满足至少两项；无荷兰家庭联系的中国籍16岁通常最多只能凭荷兰语满足其中一项，入口高度受限。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-NL01",
+        "youthvet-YV-NL02",
+        "youthvet-YV-NL03",
+        "youthvet-YV-NL04"
+      ]
+    },
+    {
+      "id": "belgium",
+      "countryId": "belgium",
+      "label": "比利时",
+      "title": "比利时｜未成年职业教育与长期身份路径",
+      "summary": "比利时的技术/职业中学和升学补充年真实存在，但移民局说普通境外未成年人的完整中学留学居留没有一般法定通道；除交换外，只能申请高门槛个案裁量。",
+      "file": "youth-vet-belgium.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "比利时｜未成年职业教育与长期身份路径 比利时的技术/职业中学和升学补充年真实存在，但移民局说普通境外未成年人的完整中学留学居留没有一般法定通道；除交换外，只能申请高门槛个案裁量。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-BE01",
+        "youthvet-YV-BE02",
+        "youthvet-YV-BE03",
+        "youthvet-YV-BE04"
+      ]
+    },
+    {
+      "id": "luxembourg",
+      "countryId": "luxembourg",
+      "label": "卢森堡",
+      "title": "卢森堡｜未成年职业教育与长期身份路径",
+      "summary": "卢森堡的DAP/DT职业文凭与升学桥梁真实存在，但中国籍16岁可用的中学学习居留限合格交换项目；一般学生居留是高等教育。完整职教学徒路线没有被这些入口证明。",
+      "file": "youth-vet-luxembourg.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "卢森堡｜未成年职业教育与长期身份路径 卢森堡的DAP/DT职业文凭与升学桥梁真实存在，但中国籍16岁可用的中学学习居留限合格交换项目；一般学生居留是高等教育。完整职教学徒路线没有被这些入口证明。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-LU01",
+        "youthvet-YV-LU02",
+        "youthvet-YV-LU03",
+        "youthvet-YV-LU04"
+      ]
+    },
+    {
+      "id": "portugal",
+      "countryId": "portugal",
+      "label": "葡萄牙",
+      "title": "葡萄牙｜未成年职业教育与长期身份路径",
+      "summary": "可重点核查16岁学生本人入读获认可中学或合格职业课程并取得居留；父母陪住须另有自身合法身份。学生居留不是父母工作或五年欧盟长期居留的捷径。",
+      "file": "youth-vet-portugal.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "葡萄牙｜未成年职业教育与长期身份路径 可重点核查16岁学生本人入读获认可中学或合格职业课程并取得居留；父母陪住须另有自身合法身份。学生居留不是父母工作或五年欧盟长期居留的捷径。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-PT01",
+        "youthvet-YV-PT02",
+        "youthvet-YV-PT03",
+        "youthvet-YV-PT04"
+      ]
+    },
+    {
+      "id": "spain",
+      "countryId": "spain",
+      "label": "西班牙",
+      "title": "西班牙｜未成年职业教育与长期身份路径",
+      "summary": "16岁直接靠中职（FP）申请现行长期学习停留有年龄门槛；高教17岁边界及中等后义务教育18岁边界存在法规与指南措辞差异，不能按生日自动判断可申请。父母不能因孩子学习自动陪住工作。",
+      "file": "youth-vet-spain.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "西班牙｜未成年职业教育与长期身份路径 16岁直接靠中职（FP）申请现行长期学习停留有年龄门槛；高教17岁边界及中等后义务教育18岁边界存在法规与指南措辞差异，不能按生日自动判断可申请。父母不能因孩子学习自动陪住工作。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-ES01",
+        "youthvet-YV-ES02",
+        "youthvet-YV-ES03",
+        "youthvet-YV-ES04"
+      ]
+    },
+    {
+      "id": "italy",
+      "countryId": "italy",
+      "label": "意大利",
+      "title": "意大利｜未成年职业教育与长期身份路径",
+      "summary": "存在学习/职业培训签证与学习居留转工作居留的官方机制，但16岁中国境外申请人的可录取项目、监护和中国领区签证必须逐项确认。免费本地职业教育本身不是签证。",
+      "file": "youth-vet-italy.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "意大利｜未成年职业教育与长期身份路径 存在学习/职业培训签证与学习居留转工作居留的官方机制，但16岁中国境外申请人的可录取项目、监护和中国领区签证必须逐项确认。免费本地职业教育本身不是签证。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-IT01",
+        "youthvet-YV-IT02",
+        "youthvet-YV-IT03",
+        "youthvet-YV-IT04"
+      ]
+    },
+    {
+      "id": "greece",
+      "countryId": "greece",
+      "label": "希腊",
+      "title": "希腊｜未成年职业教育与长期身份路径",
+      "summary": "官方列有学习和职业培训居留类别，亦有希腊语公校和大学可能性；但未核实中国境外16岁个别入读、父母陪住及读书转工作后的五年长期居留链条。",
+      "file": "youth-vet-greece.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "希腊｜未成年职业教育与长期身份路径 官方列有学习和职业培训居留类别，亦有希腊语公校和大学可能性；但未核实中国境外16岁个别入读、父母陪住及读书转工作后的五年长期居留链条。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-GR01",
+        "youthvet-YV-GR02",
+        "youthvet-YV-GR03"
+      ]
+    },
+    {
+      "id": "malta",
+      "countryId": "malta",
+      "label": "马耳他",
+      "title": "马耳他｜未成年职业教育与长期身份路径",
+      "summary": "英语环境较有吸引力，但公校免学费、未成年职教兼职和长期居留均不能预设；学生就业及学习期折算的官方材料存在差异，须个案书面核实。父母陪住要独立身份。",
+      "file": "youth-vet-malta.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "马耳他｜未成年职业教育与长期身份路径 英语环境较有吸引力，但公校免学费、未成年职教兼职和长期居留均不能预设；学生就业及学习期折算的官方材料存在差异，须个案书面核实。父母陪住要独立身份。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-MT01",
+        "youthvet-YV-MT02",
+        "youthvet-YV-MT03",
+        "youthvet-YV-MT04",
+        "youthvet-YV-MT05",
+        "youthvet-YV-MT06"
+      ]
+    },
+    {
+      "id": "cyprus",
+      "countryId": "cyprus",
+      "label": "塞浦路斯",
+      "title": "塞浦路斯｜未成年职业教育与长期身份路径",
+      "summary": "官方中学生入境路径偏向认可交流/教育项目或父母不在当地时的私立寄宿学校；公立技术职校可为已合法居住家庭提供升学与就业双方向，但不是境外直申签证承诺。",
+      "file": "youth-vet-cyprus.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "塞浦路斯｜未成年职业教育与长期身份路径 官方中学生入境路径偏向认可交流/教育项目或父母不在当地时的私立寄宿学校；公立技术职校可为已合法居住家庭提供升学与就业双方向，但不是境外直申签证承诺。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-CY01",
+        "youthvet-YV-CY02",
+        "youthvet-YV-CY03",
+        "youthvet-YV-CY04"
+      ]
+    },
+    {
+      "id": "andorra",
+      "countryId": "andorra",
+      "label": "安道尔",
+      "title": "安道尔｜未成年职业教育与长期身份路径",
+      "summary": "政府区分学习、工作、无工作居留及团聚许可；尚无核实的16岁中国学生入学—父母陪住—毕业就业—快速永久居留链条。",
+      "file": "youth-vet-andorra.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "安道尔｜未成年职业教育与长期身份路径 政府区分学习、工作、无工作居留及团聚许可；尚无核实的16岁中国学生入学—父母陪住—毕业就业—快速永久居留链条。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-AD01",
+        "youthvet-YV-AD02"
+      ]
+    },
+    {
+      "id": "san-marino",
+      "countryId": "san-marino",
+      "label": "圣马力诺",
+      "title": "圣马力诺｜未成年职业教育与长期身份路径",
+      "summary": "官方列有教育特殊停留许可、工作许可和家庭团聚，但未发现可证明本案16岁学生及资助父母通过学校到快速永久居留的完整路线。",
+      "file": "youth-vet-san-marino.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "圣马力诺｜未成年职业教育与长期身份路径 官方列有教育特殊停留许可、工作许可和家庭团聚，但未发现可证明本案16岁学生及资助父母通过学校到快速永久居留的完整路线。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-SM01",
+        "youthvet-YV-SM02"
+      ]
+    },
+    {
+      "id": "vatican",
+      "countryId": "vatican",
+      "label": "梵蒂冈",
+      "title": "梵蒂冈｜未成年职业教育与长期身份路径",
+      "summary": "人口与居住许可由特殊规定管理；没有找到面向普通中国16岁学生的开放式学校—父母居留—工作—永久居留项目。",
+      "file": "youth-vet-vatican.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "梵蒂冈｜未成年职业教育与长期身份路径 人口与居住许可由特殊规定管理；没有找到面向普通中国16岁学生的开放式学校—父母居留—工作—永久居留项目。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-VA01"
+      ]
+    },
+    {
+      "id": "monaco",
+      "countryId": "monaco",
+      "label": "摩纳哥",
+      "title": "摩纳哥｜未成年职业教育与长期身份路径",
+      "summary": "非欧盟申请定居须证明摩纳哥住所、生活来源及法国领事长期签证；学校或职业课程不能替代上述条件。五年低预算快速永久居留未证实。",
+      "file": "youth-vet-monaco.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "摩纳哥｜未成年职业教育与长期身份路径 非欧盟申请定居须证明摩纳哥住所、生活来源及法国领事长期签证；学校或职业课程不能替代上述条件。五年低预算快速永久居留未证实。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-MC01",
+        "youthvet-YV-MC02"
+      ]
+    },
+    {
+      "id": "france",
+      "countryId": "france",
+      "label": "法国",
+      "title": "法国｜未成年职业教育与长期身份路径",
+      "summary": "16岁从中国直接申请法国职业中学的未成年人留学签证，法国签证官网明确不予受理；须改核普通中学或家长先获独立居留。",
+      "file": "youth-vet-france.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "法国｜未成年职业教育与长期身份路径 16岁从中国直接申请法国职业中学的未成年人留学签证，法国签证官网明确不予受理；须改核普通中学或家长先获独立居留。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-FR01",
+        "youthvet-YV-FR02",
+        "youthvet-YV-FR03"
+      ]
+    },
+    {
+      "id": "austria",
+      "countryId": "austria",
+      "label": "奥地利",
+      "title": "奥地利｜未成年职业教育与长期身份路径",
+      "summary": "第三国16岁学生可筛“学生/中小学生”临时居留与职业高中，但学校录取、成年在奥照护和工作许可是独立关卡；学生不能以自己身份带家长。",
+      "file": "youth-vet-austria.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "奥地利｜未成年职业教育与长期身份路径 第三国16岁学生可筛“学生/中小学生”临时居留与职业高中，但学校录取、成年在奥照护和工作许可是独立关卡；学生不能以自己身份带家长。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-AT01",
+        "youthvet-YV-AT02",
+        "youthvet-YV-AT03",
+        "youthvet-YV-AT04"
+      ]
+    },
+    {
+      "id": "switzerland",
+      "countryId": "switzerland",
+      "label": "瑞士",
+      "title": "瑞士｜未成年职业教育与长期身份路径",
+      "summary": "瑞士职业教育和职业高考有真实升学通道，但第三国新来者的入境、学徒用工及家长居留受严格许可限制，不宜将本地学生制度当国际招生承诺。",
+      "file": "youth-vet-switzerland.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "瑞士｜未成年职业教育与长期身份路径 瑞士职业教育和职业高考有真实升学通道，但第三国新来者的入境、学徒用工及家长居留受严格许可限制，不宜将本地学生制度当国际招生承诺。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-CH01",
+        "youthvet-YV-CH02",
+        "youthvet-YV-CH03",
+        "youthvet-YV-CH04"
+      ]
+    },
+    {
+      "id": "liechtenstein",
+      "countryId": "liechtenstein",
+      "label": "列支敦士登",
+      "title": "列支敦士登｜未成年职业教育与长期身份路径",
+      "summary": "教育/培训L类短期许可存在，但第三国学生工作受限，学生及短期居民不得带家属；中国家长陪伴和毕业定居链条不成立为已证路线。",
+      "file": "youth-vet-liechtenstein.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "列支敦士登｜未成年职业教育与长期身份路径 教育/培训L类短期许可存在，但第三国学生工作受限，学生及短期居民不得带家属；中国家长陪伴和毕业定居链条不成立为已证路线。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-LI01",
+        "youthvet-YV-LI02",
+        "youthvet-YV-LI03",
+        "youthvet-YV-LI04"
+      ]
+    },
+    {
+      "id": "slovenia",
+      "countryId": "slovenia",
+      "label": "斯洛文尼亚",
+      "title": "斯洛文尼亚｜未成年职业教育与长期身份路径",
+      "summary": "本地职业中学的职业Matura可接高教，但普通中国新申请人并不在“平等条件”直招名单；须先证学校可录取与独立居留。",
+      "file": "youth-vet-slovenia.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "斯洛文尼亚｜未成年职业教育与长期身份路径 本地职业中学的职业Matura可接高教，但普通中国新申请人并不在“平等条件”直招名单；须先证学校可录取与独立居留。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-SI01",
+        "youthvet-YV-SI02",
+        "youthvet-YV-SI03"
+      ]
+    },
+    {
+      "id": "croatia",
+      "countryId": "croatia",
+      "label": "克罗地亚",
+      "title": "克罗地亚｜未成年职业教育与长期身份路径",
+      "summary": "未成年人中学居留限获承认的交流/教育项目或主管部批准等情形；四/五年职业中学可考国家Matura升大学，但中学居留时间不计长期居留。",
+      "file": "youth-vet-croatia.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "克罗地亚｜未成年职业教育与长期身份路径 未成年人中学居留限获承认的交流/教育项目或主管部批准等情形；四/五年职业中学可考国家Matura升大学，但中学居留时间不计长期居留。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-HR01",
+        "youthvet-YV-HR02",
+        "youthvet-YV-HR03",
+        "youthvet-YV-HR04"
+      ]
+    },
+    {
+      "id": "albania",
+      "countryId": "albania",
+      "label": "阿尔巴尼亚",
+      "title": "阿尔巴尼亚｜未成年职业教育与长期身份路径",
+      "summary": "外交部有长期学习签证(D/ST)材料清单，但未核16岁中国职业中学生是否获具体学校录取，以及学习转有薪工作、永久居留的全链条。",
+      "file": "youth-vet-albania.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "阿尔巴尼亚｜未成年职业教育与长期身份路径 外交部有长期学习签证(D/ST)材料清单，但未核16岁中国职业中学生是否获具体学校录取，以及学习转有薪工作、永久居留的全链条。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-AL01",
+        "youthvet-YV-AL02"
+      ]
+    },
+    {
+      "id": "bosnia-and-herzegovina",
+      "countryId": "bosnia-and-herzegovina",
+      "label": "波斯尼亚和黑塞哥维那",
+      "title": "波斯尼亚和黑塞哥维那｜未成年职业教育与长期身份路径",
+      "summary": "外国未成年人中学临时居留有官方材料清单，但需本地学校、照护与双亲同意；教育居留仅半数计PR，毕业就业另须工作许可。",
+      "file": "youth-vet-bosnia-and-herzegovina.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "波斯尼亚和黑塞哥维那｜未成年职业教育与长期身份路径 外国未成年人中学临时居留有官方材料清单，但需本地学校、照护与双亲同意；教育居留仅半数计PR，毕业就业另须工作许可。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-BA01",
+        "youthvet-YV-BA02"
+      ]
+    },
+    {
+      "id": "montenegro",
+      "countryId": "montenegro",
+      "label": "黑山",
+      "title": "黑山｜未成年职业教育与长期身份路径",
+      "summary": "政府明确列外国人中学教育临时居留，未成年须父母同意；这只证明可申请，不证明职业学校录取、带薪学徒、家长工作或最终PR。",
+      "file": "youth-vet-montenegro.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "黑山｜未成年职业教育与长期身份路径 政府明确列外国人中学教育临时居留，未成年须父母同意；这只证明可申请，不证明职业学校录取、带薪学徒、家长工作或最终PR。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-ME01",
+        "youthvet-YV-ME02"
+      ]
+    },
+    {
+      "id": "north-macedonia",
+      "countryId": "north-macedonia",
+      "label": "北马其顿",
+      "title": "北马其顿｜未成年职业教育与长期身份路径",
+      "summary": "外交部列就学/学习及交换为临时居留理由，亦列培训和家庭团聚；未核中国16岁职业高中入学、带薪实践和永居计时。",
+      "file": "youth-vet-north-macedonia.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "北马其顿｜未成年职业教育与长期身份路径 外交部列就学/学习及交换为临时居留理由，亦列培训和家庭团聚；未核中国16岁职业高中入学、带薪实践和永居计时。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-MK01",
+        "youthvet-YV-MK02"
+      ]
+    },
+    {
+      "id": "serbia",
+      "countryId": "serbia",
+      "label": "塞尔维亚",
+      "title": "塞尔维亚｜未成年职业教育与长期身份路径",
+      "summary": "官方有中小学就学D签/临时居留类别，外国学历承认后可入中学；转工作与永久居留需另审，学校年限只按一半计。",
+      "file": "youth-vet-serbia.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "塞尔维亚｜未成年职业教育与长期身份路径 官方有中小学就学D签/临时居留类别，外国学历承认后可入中学；转工作与永久居留需另审，学校年限只按一半计。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-RS01",
+        "youthvet-YV-RS02",
+        "youthvet-YV-RS03"
+      ]
+    },
+    {
+      "id": "kosovo",
+      "countryId": "kosovo",
+      "label": "科索沃",
+      "title": "科索沃｜未成年职业教育与长期身份路径",
+      "summary": "内政部公布“大学前教育”外国人居留材料清单，提供真实国际入学行政入口；职业课程、家长、工作和永久居留链条仍未核。",
+      "file": "youth-vet-kosovo.html",
+      "report": "youthvet",
+      "reportLabel": "未成年职教路径",
+      "category": "youthvet",
+      "categoryLabel": "未成年职业教育与长期身份",
+      "keywords": "科索沃｜未成年职业教育与长期身份路径 内政部公布“大学前教育”外国人居留材料清单，提供真实国际入学行政入口；职业课程、家长、工作和永久居留链条仍未核。 未成年 职业教育 VET apprenticeship 双元制 技工 高中 PR 永居 长期身份 01｜本国判断与适用人群 02｜年龄／阶段路线图 03｜四个核心关卡：逐项确认，不能互相替代 04｜父母与预算：继续遵守原条件 05｜付款前必须取得的书面答复 06｜关键信息对应哪些原始证据？",
+      "refs": [
+        "youthvet-YV-XK01"
       ]
     }
   ]

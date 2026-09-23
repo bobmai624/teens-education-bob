@@ -17681,5 +17681,2869 @@
       }
     ],
     "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU01",
+    "code": "YV-AU01",
+    "key": "youthvet-YV-AU01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "TIA：木工Certificate III国际生最低年龄与完整费用",
+    "url": "https://tia.edu.au/courses/cpc30220-certificate-iii-in-carpentry/",
+    "note": "核查 2026-09-24 · Technical Institute of Australia。支持：16岁、Year 10、104周、课程学费及杂费。 边界：教育机构自报招生条件，不是政府认可质量背书；本轮未取得个案offer。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU01-1"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "YV-AU02",
+    "code": "YV-AU02",
+    "key": "youthvet-YV-AU02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "TAFE Queensland：木工国际课程",
+    "url": "https://tafeqld.edu.au/course/17/17746/certificate-iii-in-carpentry",
+    "note": "核查 2026-09-24 · TAFE Queensland。支持：最低17岁、第一年满18岁及国际生课程要求。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU03",
+    "code": "YV-AU03",
+    "key": "youthvet-YV-AU03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "VCAA：VET与VCE组合",
+    "url": "https://www.vcaa.vic.edu.au/curriculum/vet/shape-your-vce",
+    "note": "核查 2026-09-24 · VCAA。支持：不同VET课程与高中、升学组合须分别判断。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU04",
+    "code": "YV-AU04",
+    "key": "youthvet-YV-AU04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学生500签证",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：学签工作与学习条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU05",
+    "code": "YV-AU05",
+    "key": "youthvet-YV-AU05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "家长590监护签证",
+    "url": "https://immi.homeaffairs.gov.au/Visa-subsite/Pages/student/590-student-guardian.aspx",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：监护人签证不提供工作权利。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-overview.html",
+        "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU05-4"
+      },
+      {
+        "file": "youth-vet-budget.html",
+        "title": "亲子五年100万元：先做硬门槛，再谈净成本",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU05-1"
+      },
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU06",
+    "code": "YV-AU06",
+    "key": "youthvet-YV-AU06",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "TRA Job Ready Program常见问题",
+    "url": "https://www.tradesrecognitionaustralia.gov.au/help/job-ready-program-faqs",
+    "note": "核查 2026-09-24 · Trades Recognition Australia。支持：至少12个月、平均每周38小时的适用工作要求。 边界：不能把旧版1725小时数字或高中实习直接替代当期JRP条件。",
+    "usedBy": [
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU06-2"
+      },
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU06-6"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-AU07",
+    "code": "YV-AU07",
+    "key": "youthvet-YV-AU07",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "485临时毕业签证",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：毕业工签分支及资格另行核查。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU07-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU08",
+    "code": "YV-AU08",
+    "key": "youthvet-YV-AU08",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "190州担保技术移民",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：职业、提名、积分与邀请要求。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU08-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU09",
+    "code": "YV-AU09",
+    "key": "youthvet-YV-AU09",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "191区域永久签证",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191/regional-provisional",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：区域临时身份转永久身份的独立条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU09-9"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU10",
+    "code": "YV-AU10",
+    "key": "youthvet-YV-AU10",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "未成年学生福利要求",
+    "url": "https://immi.homeaffairs.gov.au/supporting/Pages/Student/Welfare-arrangements-for-students-under-18.aspx",
+    "note": "核查 2026-09-24 · 澳洲内政部。支持：未成年留学生须有适用福利安排。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU10-10"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU11",
+    "code": "YV-AU11",
+    "key": "youthvet-YV-AU11",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "VCE行政手册",
+    "url": "https://vcaa.vic.edu.au/administration/vce-administrative-handbook/vce",
+    "note": "核查 2026-09-24 · VCAA。支持：VCE及VCE VM的课程与评价区别。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU11-11"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AU12",
+    "code": "YV-AU12",
+    "key": "youthvet-YV-AU12",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "木工作业执照",
+    "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/carpentry-work",
+    "note": "核查 2026-09-24 · NSW Government。支持：具体州的木工作业执照独立于学校证书。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-australia.html",
+        "title": "澳大利亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AU12-12"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ01",
+    "code": "YV-NZ01",
+    "key": "youthvet-YV-NZ01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Trades Academies项目与资格",
+    "url": "https://youthguarantee.education.govt.nz/initiatives/opportunities-at-school-and-beyond/trades-academies/",
+    "note": "核查 2026-09-24 · 新西兰教育部。支持：项目的domestic学生资格边界。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ02",
+    "code": "YV-NZ02",
+    "key": "youthvet-YV-NZ02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "UCOL：Level 3木工预备课程",
+    "url": "https://www.ucol.ac.nz/programmes/construction-built-environment/new-zealand-certificate-in-construction-trade-skills-carpentry",
+    "note": "核查 2026-09-24 · UCOL。支持：国际生课程与费用线索。 边界：公布费用只适用所示年度；不是完整学徒费用或未来锁价。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ02-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "YV-NZ03",
+    "code": "YV-NZ03",
+    "key": "youthvet-YV-NZ03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "UCOL：Level 4木工学徒",
+    "url": "https://www.ucol.ac.nz/programmes/construction-built-environment/new-zealand-certificate-in-carpentry-trade",
+    "note": "核查 2026-09-24 · UCOL。支持：全职受雇及不对国际生开放的课程边界。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ04",
+    "code": "YV-NZ04",
+    "key": "youthvet-YV-NZ04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "NCEA University Entrance",
+    "url": "https://www2.nzqa.govt.nz/ncea/understanding-secondary-quals/university-entrance/",
+    "note": "核查 2026-09-24 · NZQA。支持：大学入学的科目与学分要求。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ05",
+    "code": "YV-NZ05",
+    "key": "youthvet-YV-NZ05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学生工作条件",
+    "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：中学生工作所需年龄、年级、同意与签证条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ06",
+    "code": "YV-NZ06",
+    "key": "youthvet-YV-NZ06",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "非学位毕业工签资格清单",
+    "url": "https://www.immigration.govt.nz/study/after-you-finish-your-study/qualifications-needed-for-a-post-study-work-visa/",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：非学位资格不能一概获得毕业工签。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ06-6"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ07",
+    "code": "YV-NZ07",
+    "key": "youthvet-YV-NZ07",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "SR3.40技工与技术人员居留路径",
+    "url": "https://www.immigration.govt.nz/opsmanual/90261.htm",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：资格后4年经验及其中额外18个月新西兰工作。 边界：2026-08-24生效；不适用于所有职业，不能重复计算同一时段。",
+    "usedBy": [
+      {
+        "file": "youth-vet-overview.html",
+        "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ07-3"
+      },
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ07-3"
+      },
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ07-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ08",
+    "code": "YV-NZ08",
+    "key": "youthvet-YV-NZ08",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Appendix 23适用职业表",
+    "url": "https://www.immigration.govt.nz/opsmanual/90268.htm",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：以六位职业代码及实质职责判定。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ08-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NZ09",
+    "code": "YV-NZ09",
+    "key": "youthvet-YV-NZ09",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Permanent Resident Visa",
+    "url": "https://www.immigration.govt.nz/visas/permanent-resident-visa/",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：居民签与永久居民签的时间及联系要求区别。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ09-4"
+      },
+      {
+        "file": "youth-vet-new-zealand.html",
+        "title": "新西兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NZ09-9"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DE01",
+    "code": "YV-DE01",
+    "key": "youthvet-YV-DE01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "德国职业培训签证§16a",
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/types/training",
+    "note": "核查 2026-09-24 · 德国联邦政府 Make it in Germany。支持：培训合同、B1、2026生活资金、培训期间工作与毕业求职。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-budget.html",
+        "title": "亲子五年100万元：先做硬门槛，再谈净成本",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE01-3"
+      },
+      {
+        "file": "youth-vet-germany.html",
+        "title": "德国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DE02",
+    "code": "YV-DE02",
+    "key": "youthvet-YV-DE02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "本地毕业生定居条件",
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/living-permanently/settlement-permit",
+    "note": "核查 2026-09-24 · 德国联邦政府 Make it in Germany。支持：本地职业教育毕业后的2年技术工作居留和24个月养老缴费等。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-overview.html",
+        "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE02-1"
+      },
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE02-1"
+      },
+      {
+        "file": "youth-vet-germany.html",
+        "title": "德国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DE03",
+    "code": "YV-DE03",
+    "key": "youthvet-YV-DE03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "进入德国职业教育的要求",
+    "url": "https://www.make-it-in-germany.com/en/study-vocational-training/training-in-germany/requirements-for-vocational-training",
+    "note": "核查 2026-09-24 · 德国联邦政府 Make it in Germany。支持：企业型与学校型培训的学历准入差异。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-germany.html",
+        "title": "德国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DE04",
+    "code": "YV-DE04",
+    "key": "youthvet-YV-DE04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "巴登-符腾堡职业学校与附加升学资格",
+    "url": "https://km.baden-wuerttemberg.de/de/schule/berufliche-bildung/berufsschule",
+    "note": "核查 2026-09-24 · 巴登-符腾堡教育部。支持：职业学校基础上通过附加条件取得Fachhochschulreife。 边界：地方教育制度，不能推广为所有州、所有国际生自动有资格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-germany.html",
+        "title": "德国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DE04-4"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-CA01",
+    "code": "YV-CA01",
+    "key": "youthvet-YV-CA01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "BC高中职业发展项目",
+    "url": "https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/legislation-policy/public-schools/career-development",
+    "note": "核查 2026-09-24 · British Columbia Government。支持：学校职业课程与学分制度。 边界：教育项目介绍不是国际生工作许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA01-1"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-CA02",
+    "code": "YV-CA02",
+    "key": "youthvet-YV-CA02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "国际生校外工作资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+    "note": "核查 2026-09-24 · IRCC。支持：普通中学与魁北克职业中学工作权区别。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-overview.html",
+        "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA02-5"
+      },
+      {
+        "file": "youth-vet-budget.html",
+        "title": "亲子五年100万元：先做硬门槛，再谈净成本",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA02-2"
+      },
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CA03",
+    "code": "YV-CA03",
+    "key": "youthvet-YV-CA03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "工作安置与实习许可",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+    "note": "核查 2026-09-24 · IRCC。支持：2026-04-01起符合条件的高教生不另需co-op permit；中学生仍需许可。 边界：只适用于符合条件的课程必修工作安置，不等于一般校外工作权。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA03-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-CA04",
+    "code": "YV-CA04",
+    "key": "youthvet-YV-CA04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "PGWP项目与申请人资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+    "note": "核查 2026-09-24 · IRCC。支持：院校、项目、语言等资格条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CA05",
+    "code": "YV-CA05",
+    "key": "youthvet-YV-CA05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "PGWP专业领域要求",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+    "note": "核查 2026-09-24 · IRCC。支持：非学位课程CIP条件按适用日期判断。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CA06",
+    "code": "YV-CA06",
+    "key": "youthvet-YV-CA06",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "PGWP可获时长",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+    "note": "核查 2026-09-24 · IRCC。支持：课程长度与毕业工签时长关系。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA06-6"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CA07",
+    "code": "YV-CA07",
+    "key": "youthvet-YV-CA07",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "加拿大经验类CEC",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html",
+    "note": "核查 2026-09-24 · IRCC。支持：合格技术工作至少一年；全日制学生工作不计最低经验。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-overview.html",
+        "title": "未成年职业教育：从高中技能探索，到合法工作与长期身份",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA07-2"
+      },
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA07-5"
+      },
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA07-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CA08",
+    "code": "YV-CA08",
+    "key": "youthvet-YV-CA08",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "联邦技工项目FST",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-trades.html",
+    "note": "核查 2026-09-24 · IRCC。支持：技工经验、工作邀请或资格证等独立要求。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-canada.html",
+        "title": "加拿大｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CA08-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-US01",
+    "code": "YV-US01",
+    "key": "youthvet-YV-US01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "外国学生就读美国公立学校",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html",
+    "note": "核查 2026-09-24 · 美国国务院。支持：F-1公立高中12个月与全成本要求。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-states.html",
+        "title": "美国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-US01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-US02",
+    "code": "YV-US02",
+    "key": "youthvet-YV-US02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "M-1 Practical Training官方指南",
+    "url": "https://studyinthestates.dhs.gov/sites/default/files/Employment%20-%20M-1%20Practical%20Training%20User%20Guide%20%281%29.pdf",
+    "note": "核查 2026-09-24 · 美国国土安全部。支持：M-1实践按学习时长计算且最多6个月。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-states.html",
+        "title": "美国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-US02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-US03",
+    "code": "YV-US03",
+    "key": "youthvet-YV-US03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "EB-3就业移民",
+    "url": "https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3",
+    "note": "核查 2026-09-24 · USCIS。支持：永久岗位与适用劳工认证、职业资格等。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-states.html",
+        "title": "美国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-US03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-US04",
+    "code": "YV-US04",
+    "key": "youthvet-YV-US04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026年9月签证排期",
+    "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+    "note": "核查 2026-09-24 · 美国国务院。支持：大陆出生申请人的EB-3排期状态。 边界：月度快照，不预测未来等待时间。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-states.html",
+        "title": "美国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-US04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK01",
+    "code": "YV-UK01",
+    "key": "youthvet-YV-UK01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Student签证可读课程",
+    "url": "https://www.gov.uk/student-visa/course",
+    "note": "核查 2026-09-24 · 英国政府。支持：16岁以上及课程资格。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK02",
+    "code": "YV-UK02",
+    "key": "youthvet-YV-UK02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Child Student签证",
+    "url": "https://www.gov.uk/child-study-visa",
+    "note": "核查 2026-09-24 · 英国政府。支持：独立学校及16—17岁工作条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK03",
+    "code": "YV-UK03",
+    "key": "youthvet-YV-UK03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026/27英格兰学徒资金规则",
+    "url": "https://assets.publishing.service.gov.uk/media/6a68cabe229c578debc1a78c/Funding_Rules_2627_Version_3_Final.pdf",
+    "note": "核查 2026-09-24 · 英国教育部／工作与养老金部。支持：Student身份通常不符合学徒资金资格。 边界：英格兰资金规则；不等于所有自费培训违法或全英国制度相同。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK03-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-UK04",
+    "code": "YV-UK04",
+    "key": "youthvet-YV-UK04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Skilled Worker合格岗位",
+    "url": "https://www.gov.uk/skilled-worker-visa/your-job",
+    "note": "核查 2026-09-24 · 英国政府。支持：担保职业和工资门槛。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK05",
+    "code": "YV-UK05",
+    "key": "youthvet-YV-UK05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "技术工作签移民规则",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker",
+    "note": "核查 2026-09-24 · 英国政府。支持：工作居留与定居条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK06",
+    "code": "YV-UK06",
+    "key": "youthvet-YV-UK06",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Earned settlement咨询",
+    "url": "https://www.gov.uk/government/consultations/earned-settlement",
+    "note": "核查 2026-09-24 · 英国内政部。支持：定居改革政策状态。 边界：咨询材料不等于已全面实施；适用规则须以当期法条为准。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK06-6"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-UK07",
+    "code": "YV-UK07",
+    "key": "youthvet-YV-UK07",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Student签证工作权指导",
+    "url": "https://www.gov.uk/government/publications/student-sponsor-guidance/sponsorship-duties-accessible",
+    "note": "核查 2026-09-24 · UK Visas and Immigration。支持：Child Student年满16岁10小时；普通Student在公立FE学院和私立机构课程无工作权。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK07-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-UK08",
+    "code": "YV-UK08",
+    "key": "youthvet-YV-UK08",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Immigration Salary List",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-immigration-salary-list",
+    "note": "核查 2026-09-24 · 英国内政部。支持：木工SOC 5316目前列入ISL且显示2026-12-31移除日期。 边界：未来续列须看届时生效移民规则。",
+    "usedBy": [
+      {
+        "file": "youth-vet-united-kingdom.html",
+        "title": "英国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-UK08-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IE01",
+    "code": "YV-IE01",
+    "key": "youthvet-YV-IE01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "爱尔兰居留印章说明",
+    "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+    "note": "核查 2026-09-24 · 爱尔兰移民局。支持：Stamp 2A无工作权，与Stamp 2区别。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-ireland.html",
+        "title": "爱尔兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IE01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IE02",
+    "code": "YV-IE02",
+    "key": "youthvet-YV-IE02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "在爱尔兰学习规划",
+    "url": "https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/planning-to-study-in-ireland/",
+    "note": "核查 2026-09-24 · 爱尔兰移民局。支持：不同学习类型与工作条件。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-ireland.html",
+        "title": "爱尔兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IE02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IE03",
+    "code": "YV-IE03",
+    "key": "youthvet-YV-IE03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "就业许可制度",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/",
+    "note": "核查 2026-09-24 · 爱尔兰企业部门。支持：非EEA工作许可需匹配岗位和身份。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-ireland.html",
+        "title": "爱尔兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IE03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IE04",
+    "code": "YV-IE04",
+    "key": "youthvet-YV-IE04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "就业许可最低薪酬",
+    "url": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/economic-migration-policy/minimum-annual-remuneration/",
+    "note": "核查 2026-09-24 · 爱尔兰企业部门。支持：2026就业许可工资调整。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-ireland.html",
+        "title": "爱尔兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IE04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IE05",
+    "code": "YV-IE05",
+    "key": "youthvet-YV-IE05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Long Term Residency",
+    "url": "https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/long-term-residency/",
+    "note": "核查 2026-09-24 · 爱尔兰移民局。支持：长期居留的就业许可居留基础及不计入的学生身份。 边界：本页说明一般规则，不构成个案录取、签证或永居保证；申请时复核现行版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-ireland.html",
+        "title": "爱尔兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IE05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DK01",
+    "code": "YV-DK01",
+    "key": "youthvet-YV-DK01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "基础与青年教育学习居留",
+    "url": "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Basic-and-youth-study-programmes",
+    "note": "核查 2026-09-24 · 丹麦移民局/SIRI。支持：职业基础课程通常不发学习许可；高中最长一年且有条件；未成年人需同意；家人不能随行；处理费DKK 3,060。 边界：仅该学习许可类别；国际交流例外须个案核定。",
+    "usedBy": [
+      {
+        "file": "youth-vet-denmark.html",
+        "title": "丹麦｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DK01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DK02",
+    "code": "YV-DK02",
+    "key": "youthvet-YV-DK02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "职业教育及eux升学",
+    "url": "https://lifeindenmark.borger.dk/school-and-education/upper-secondary-education/vocational-education-and-training---vet---courses",
+    "note": "核查 2026-09-24 · 丹麦公共服务门户。支持：VET含企业或校内实训；eux合并职业与普通高中资格、可通往多类高教。 边界：描述国内教育制度，不授予境外学生签证或实习权。",
+    "usedBy": [
+      {
+        "file": "youth-vet-denmark.html",
+        "title": "丹麦｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DK02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-DK03",
+    "code": "YV-DK03",
+    "key": "youthvet-YV-DK03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "永久居留条件",
+    "url": "https://www.nyidanmark.dk/en-GB/Applying/Permanent%20residence%20permit/Permanent%20residence",
+    "note": "核查 2026-09-24 · 丹麦移民局。支持：一般至少八年合法居留；四年为额外严格条件路径。 边界：具体许可年限、就业和语言须按申请时规则审查。",
+    "usedBy": [
+      {
+        "file": "youth-vet-denmark.html",
+        "title": "丹麦｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-DK03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-FI01",
+    "code": "YV-FI01",
+    "key": "youthvet-YV-FI01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学习居留申请",
+    "url": "https://migri.fi/residence-permit-application-for-studies",
+    "note": "核查 2026-09-24 · 芬兰移民局Migri。支持：获职业院校或普通高中录取、课程通向资格者可申请学习居留；未成年人需监护同意。 边界：申请资格不保证学校录取或父母居留。",
+    "usedBy": [
+      {
+        "file": "youth-vet-finland.html",
+        "title": "芬兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FI01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-FI02",
+    "code": "YV-FI02",
+    "key": "youthvet-YV-FI02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "赫尔辛基职业学院2026学费",
+    "url": "https://stadinao.hel.fi/en/apply-for-studies/tuition-fees-and-other-costs/",
+    "note": "核查 2026-09-24 · 赫尔辛基市/Stadin AO。支持：2026年8月起部分非欧盟学生缴费；列出各资格学费和法定教育年龄等豁免。 边界：仅赫尔辛基该学院2026/27价格；个案豁免由学校判定。",
+    "usedBy": [
+      {
+        "file": "youth-vet-finland.html",
+        "title": "芬兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FI02-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "YV-FI03",
+    "code": "YV-FI03",
+    "key": "youthvet-YV-FI03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "芬兰职业资格",
+    "url": "https://www.oph.fi/en/education-and-qualifications/vocational-qualifications-finland",
+    "note": "核查 2026-09-24 · 芬兰国家教育署EDUFI。支持：正式职业资格提供高等教育申请资格；授课/取证语言依具体资格。 边界：升学资格不等于录取或居留许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-finland.html",
+        "title": "芬兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FI03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-FI04",
+    "code": "YV-FI04",
+    "key": "youthvet-YV-FI04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026年永久居留路径",
+    "url": "https://migri.fi/application-for-a-permanent-residence-permit",
+    "note": "核查 2026-09-24 · 芬兰移民局Migri。支持：2026年起普通路径包括六年连续A类许可、两年工作经历及B1语言；另有不同四年条件。 边界：B类职业学习是否计时和个人路径需核对许可类别；不代表五年PR。",
+    "usedBy": [
+      {
+        "file": "youth-vet-finland.html",
+        "title": "芬兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FI04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SE01",
+    "code": "YV-SE01",
+    "key": "youthvet-YV-SE01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "其他学习及高中交换许可",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/study/other-studies-and-exchange-studies-at-upper-secondary-school.html",
+    "note": "核查 2026-09-24 · 瑞典移民局。支持：高中许可仅IB或正式国际交换；其他学习许可无工作权；16岁需监护同意；2026维护资金SEK10,656/月和未成年人申请费SEK750。 边界：不适用于高等教育学生工作规则。",
+    "usedBy": [
+      {
+        "file": "youth-vet-sweden.html",
+        "title": "瑞典｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SE01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SE02",
+    "code": "YV-SE02",
+    "key": "youthvet-YV-SE02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "长期居民资格",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/long-term-residents-in-sweden.html",
+    "note": "核查 2026-09-24 · 瑞典移民局。支持：一般要求五年居留，但博士以下临时学习居留不计入。 边界：EU长期居民与各类国家永久居留不是同一制度。",
+    "usedBy": [
+      {
+        "file": "youth-vet-sweden.html",
+        "title": "瑞典｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SE02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SE03",
+    "code": "YV-SE03",
+    "key": "youthvet-YV-SE03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "工作许可续签与永久居留",
+    "url": "https://www.migrationsverket.se/en/you-want-to-extend/work/employee-or-self-employed/employees.html",
+    "note": "核查 2026-09-24 · 瑞典移民局。支持：工作许可路径通常要求过去七年四年合格工作许可及持续自给。 边界：适用于工作许可路径，不能将高中学生时间直接计入。",
+    "usedBy": [
+      {
+        "file": "youth-vet-sweden.html",
+        "title": "瑞典｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SE03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NO01",
+    "code": "YV-NO01",
+    "key": "youthvet-YV-NO01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学习许可及学校类别",
+    "url": "https://www.udi.no/en/want-to-apply/studies/studietillatelse/",
+    "note": "核查 2026-09-24 · 挪威移民局UDI。支持：UDI区分高中与大学/认可职业学院学习许可；学习许可兼职通常20小时/周，学习期不计PR。 边界：网页按国籍与学校类别动态呈现，具体未成年人和家庭条件须重新选择中国国籍核验。",
+    "usedBy": [
+      {
+        "file": "youth-vet-norway.html",
+        "title": "挪威｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NO01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NO02",
+    "code": "YV-NO02",
+    "key": "youthvet-YV-NO02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "挪威职业高中教育",
+    "url": "https://www.udir.no/in-english/norwegian-vocational-education-and-training/",
+    "note": "核查 2026-09-24 · 挪威教育培训署。支持：典型职业教育是两年校内加两年获认可企业学徒及技工考试。 边界：国内教育组织与境外招生/学徒工作许可不同。",
+    "usedBy": [
+      {
+        "file": "youth-vet-norway.html",
+        "title": "挪威｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NO02-2"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "YV-NO03",
+    "code": "YV-NO03",
+    "key": "youthvet-YV-NO03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "技术工人工作许可",
+    "url": "https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/",
+    "note": "核查 2026-09-24 · 挪威移民局UDI。支持：相关至少三年职业教育可构成技术资格基础；合格技术工人许可部分情况下三年后可申请PR。 边界：须真实岗位、职业匹配和个案条件。",
+    "usedBy": [
+      {
+        "file": "youth-vet-norway.html",
+        "title": "挪威｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NO03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NO04",
+    "code": "YV-NO04",
+    "key": "youthvet-YV-NO04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "可计入永久居留的许可",
+    "url": "https://www.udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/",
+    "note": "核查 2026-09-24 · 挪威移民局UDI。支持：学生许可通常不构成PR基础，技术工人许可通常可以。 边界：最终以个人许可决定书及当时规则为准。",
+    "usedBy": [
+      {
+        "file": "youth-vet-norway.html",
+        "title": "挪威｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NO04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IS01",
+    "code": "YV-IS01",
+    "key": "youthvet-YV-IS01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学生居留条件",
+    "url": "https://island.is/en/residence-permit-students/requirements",
+    "note": "核查 2026-09-24 · 冰岛移民局/Ísland.is。支持：普通学生须满18岁；认可组织安排的中学交换生可低于18岁。 边界：交换例外不构成完整职业高中留学许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-iceland.html",
+        "title": "冰岛｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IS01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IS02",
+    "code": "YV-IS02",
+    "key": "youthvet-YV-IS02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学生居留权利",
+    "url": "https://island.is/en/residence-permit-students/residence-rights",
+    "note": "核查 2026-09-24 · 冰岛移民局/Ísland.is。支持：大学学位学生方可为未成年子女申请团聚；学期工作最多全职60%；学生许可通常不构成永久居留基础。 边界：工作规则不能自动套用未成年交换生。",
+    "usedBy": [
+      {
+        "file": "youth-vet-iceland.html",
+        "title": "冰岛｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IS02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IS03",
+    "code": "YV-IS03",
+    "key": "youthvet-YV-IS03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "永久居留条件",
+    "url": "https://island.is/en/permanent-residence-permit/requirements",
+    "note": "核查 2026-09-24 · 冰岛移民局/Ísland.is。支持：通常四年适格居留；前学生有至少两年学习加至少两年适格居留的特定例外。 边界：仍需当前适格许可、语言、生活来源及连续性。",
+    "usedBy": [
+      {
+        "file": "youth-vet-iceland.html",
+        "title": "冰岛｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IS03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IS04",
+    "code": "YV-IS04",
+    "key": "youthvet-YV-IS04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "冰岛大学入学",
+    "url": "https://island.is/en/universities",
+    "note": "核查 2026-09-24 · 冰岛政府/Ísland.is。支持：大学一般要求毕业入学考试或等效资格。 边界：各专业最终录取要求由大学确定。",
+    "usedBy": [
+      {
+        "file": "youth-vet-iceland.html",
+        "title": "冰岛｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IS04-4"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "YV-NL01",
+    "code": "YV-NL01",
+    "key": "youthvet-YV-NL01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "中学或MBO学习许可",
+    "url": "https://ind.nl/en/residence-permits/study/student-residence-permit-secondary-or-vocational-education",
+    "note": "核查 2026-09-24 · 荷兰移民归化局IND。支持：认可担保学校、荷兰最适合及三项至少两项门槛；学习工作需TWV且16小时/周或暑假全职；2026申请费€254。 边界：特定三国国籍条件不包括中国，是否另有家庭联系须个案查证。",
+    "usedBy": [
+      {
+        "file": "youth-vet-netherlands.html",
+        "title": "荷兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NL01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NL02",
+    "code": "YV-NL02",
+    "key": "youthvet-YV-NL02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "永久居留许可",
+    "url": "https://ind.nl/en/replace-extend-renew-and-change/permanent-residency/permanent-residence-permit",
+    "note": "核查 2026-09-24 · 荷兰移民归化局IND。支持：通常需五年连续合法居留，申请时须持非临时目的许可；未成年人另有年龄计时规则。 边界：国家永久居留与EU长期居民的学习时间计法须分别核对。",
+    "usedBy": [
+      {
+        "file": "youth-vet-netherlands.html",
+        "title": "荷兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NL02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NL03",
+    "code": "YV-NL03",
+    "key": "youthvet-YV-NL03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "临时居留目的",
+    "url": "https://ind.nl/en/temporary-residence-purposes-under-the-civic-integration-act",
+    "note": "核查 2026-09-24 · 荷兰移民归化局IND。支持：学习为临时居留目的。 边界：该页仅说明目的分类，不独立证明后续转换资格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-netherlands.html",
+        "title": "荷兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NL03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-NL04",
+    "code": "YV-NL04",
+    "key": "youthvet-YV-NL04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026年学习维护资金",
+    "url": "https://ind.nl/en/required-amounts-income-requirements",
+    "note": "核查 2026-09-24 · 荷兰移民归化局IND。支持：2026年MBO/中学学生生活资金标准€928.58/月。 边界：签证证明额不含学费，亦非两人家庭总预算。",
+    "usedBy": [
+      {
+        "file": "youth-vet-netherlands.html",
+        "title": "荷兰｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-NL04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BE01",
+    "code": "YV-BE01",
+    "key": "youthvet-YV-BE01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "欧洲移民网络：未成年第三国学生许可，比利时答复",
+    "url": "https://emnbelgium.be/sites/default/files/publications/2025.52%20-%20Residence%20permit%20for%20the%20purpose%20of%20studies%20of%20third-country%20national%20minors%20-%20Compilation%20of%20answers.pdf",
+    "note": "核查 2026-09-24 · 欧洲移民网络比利时国家联络点/比利时移民局。支持：普通中学除交换外无一般法定学生许可，需高门槛部长裁量；未成年人无统一最低年龄；文件要求具体。 边界：2025官方答复；2026具体个案和法令变化应书面复核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-belgium.html",
+        "title": "比利时｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BE01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BE02",
+    "code": "YV-BE02",
+    "key": "youthvet-YV-BE02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "比利时中学课程与高教衔接",
+    "url": "https://www.belgium.be/fr/formation/enseignement/secondaire/offre_d_enseignement",
+    "note": "核查 2026-09-24 · 比利时联邦公共门户。支持：职业中学实务导向，升高教通常须补修第七年获CESS。 边界：教育课程制度不自动构成外国学生居留资格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-belgium.html",
+        "title": "比利时｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BE02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BE03",
+    "code": "YV-BE03",
+    "key": "youthvet-YV-BE03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "学生签证与长期居留说明",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/student-belgium_en",
+    "note": "核查 2026-09-24 · 欧盟委员会移民与内政总司。支持：学生身份不能直接取得EU长期居民；改为适格身份后学习期一般折半计入五年。 边界：该页主要讨论高等教育学生，普通中学裁量许可的计法需比利时移民局确认。",
+    "usedBy": [
+      {
+        "file": "youth-vet-belgium.html",
+        "title": "比利时｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BE03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BE04",
+    "code": "YV-BE04",
+    "key": "youthvet-YV-BE04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "特殊居留情况下外国人就业",
+    "url": "https://employment.belgium.be/en/themes/international/foreign-workers/employment-foreign-workers-special-residence-situation",
+    "note": "核查 2026-09-24 · 比利时联邦就业劳动与社会对话公共服务部。支持：18岁前订立且获批准的第三国学徒/工学结合合同，其工作豁免仅限合同框架。 边界：劳动豁免不等于入境、学习或长期居留许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-belgium.html",
+        "title": "比利时｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BE04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LU01",
+    "code": "YV-LU01",
+    "key": "youthvet-YV-LU01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第三国中学生交换居留",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/eleve/eleve-pays-tiers.html",
+    "note": "核查 2026-09-24 · 卢森堡政府Guichet.lu。支持：交换生须14—21岁、已录取、正式交流项目及组织担保、指定住处。 边界：仅中学交换，不覆盖普通完整职业教育。",
+    "usedBy": [
+      {
+        "file": "youth-vet-luxembourg.html",
+        "title": "卢森堡｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LU01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LU02",
+    "code": "YV-LU02",
+    "key": "youthvet-YV-LU02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第三国高教学生居留",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html",
+    "note": "核查 2026-09-24 · 卢森堡政府Guichet.lu。支持：普通学生居留面向大学、BTS及认可私立高教；高教学生平均15小时/周有薪工作；居留卡费€80。 边界：高教学生工作权和费用不应套用中学交换。",
+    "usedBy": [
+      {
+        "file": "youth-vet-luxembourg.html",
+        "title": "卢森堡｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LU02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LU03",
+    "code": "YV-LU03",
+    "key": "youthvet-YV-LU03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "卢森堡职业教育文凭",
+    "url": "https://men.public.lu/en/systeme-educatif/professionnel/initiale/diplomes.html",
+    "note": "核查 2026-09-24 · 卢森堡国民教育部。支持：CCP可升DAP；DAP可续DT；DT完成预备模块可进相关高等技术学习。 边界：本国教育衔接不证明境外学生居留、语言或学徒合同资格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-luxembourg.html",
+        "title": "卢森堡｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LU03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LU04",
+    "code": "YV-LU04",
+    "key": "youthvet-YV-LU04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第三国公民长期居民身份",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/sejour-5-ans/statut-resident-longue-duree-ressortissant-pays-tiers.html",
+    "note": "核查 2026-09-24 · 卢森堡政府Guichet.lu。支持：一般五年连续居留、稳定资源和住所医保；当前学生或职业培训登记者不符合申请资格。 边界：历史交换/学习期如何处理未在此页明确，须主管机关书面答复。",
+    "usedBy": [
+      {
+        "file": "youth-vet-luxembourg.html",
+        "title": "卢森堡｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LU04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-PT01",
+    "code": "YV-PT01",
+    "key": "youthvet-YV-PT01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "《第23/2007号外国人法》整合文本，第62、80、92、97、125—126条（第92条须并读2026修法）",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445",
+    "note": "核查 2026-09-24 · 葡萄牙共和国法律公报。支持：列明第62条中学签证、第97条补充工作、国家永久居留及欧盟长期居留折半规则；其第92(4)条仍显示旧的QNQ 4/5扩展。 边界：第92条旧文字已被第62/2026号法修改并废止第4款，不能单独作为现行职教居留依据。",
+    "usedBy": [
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-PT01-6"
+      },
+      {
+        "file": "youth-vet-portugal.html",
+        "title": "葡萄牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-PT01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-PT02",
+    "code": "YV-PT02",
+    "key": "youthvet-YV-PT02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "中学生居留许可，第92条",
+    "url": "https://aima.gov.pt/pt/estudar/autorizacao-de-residencia-para-estudantes-art-92-o",
+    "note": "核查 2026-09-24 · 葡萄牙移民及庇护局 AIMA。支持：描述第92条学生居留的录取、签证、保险、生活来源及住房等操作材料。 边界：课程范围须以2026年9月11日生效的新第92条为准；网页若保留旧职业课程范围不能覆盖新法。",
+    "usedBy": [
+      {
+        "file": "youth-vet-portugal.html",
+        "title": "葡萄牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-PT02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-PT03",
+    "code": "YV-PT03",
+    "key": "youthvet-YV-PT03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第62/2026号法律修改外国人法第92及122条",
+    "url": "https://diariodarepublica.pt/dr/detalhe/lei/62-2026-1168979170",
+    "note": "核查 2026-09-24 · 葡萄牙共和国法律公报。支持：第92(1)条改为中学或CITE 2011第4级课程并废止原第92(4)条；第122(1)(k)条父母特别居留现要求未成年子女具葡籍并住在葡萄牙。 边界：2026年9月11日生效；AIMA旧网页可能尚未同步。",
+    "usedBy": [
+      {
+        "file": "youth-vet-portugal.html",
+        "title": "葡萄牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-PT03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-PT04",
+    "code": "YV-PT04",
+    "key": "youthvet-YV-PT04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "职业教育学生居留预约与材料公告",
+    "url": "https://aima.gov.pt/pt/noticias/formulario-de-contacto-estudantes-do-ensino-profissional",
+    "note": "核查 2026-09-24 · 葡萄牙移民及庇护局 AIMA。支持：职业教育学生预约须经DGERT认证培训实体核验，并提交护照、注册及学费凭证。 边界：预约渠道不等于境外签证或录取保证；具体课程适用须按2026年修订后第92条确认。",
+    "usedBy": [
+      {
+        "file": "youth-vet-portugal.html",
+        "title": "葡萄牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-PT04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ES01",
+    "code": "YV-ES01",
+    "key": "youthvet-YV-ES01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Hoja 1：高等教育或中等后义务教育长期学习停留",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/es/web/migraciones/w/estancia-por-estudios",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：列出高教与中等后义务教育的领馆申请年龄、认可录取、资金、保险及高教学生家属范围。 边界：同页对高教年龄同时写“已满17”和“高于17”，第53条法规另写“高于17/18”；边界年龄须领馆书面解释。",
+    "usedBy": [
+      {
+        "file": "youth-vet-spain.html",
+        "title": "西班牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ES01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ES02",
+    "code": "YV-ES02",
+    "key": "youthvet-YV-ES02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Hoja 4 bis：学习停留持有人工作",
+    "url": "https://www.inclusion.gob.es/es/web/migraciones/w/hoja-4-bis-acceso-al-empleo-de-las-personas-titulares-de-una-autorizacion-de-estancia-de-larga-duracion-por-estudios-movilidad-de-alumnos-servicios-de-voluntariado-o-actividades-formativas",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：区分高教自动相容工作和中等后义务教育FP企业培训，其他工作仍需许可。 边界：工作不得损害学习目的；未成年劳动条件另行适用。",
+    "usedBy": [
+      {
+        "file": "youth-vet-spain.html",
+        "title": "西班牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ES02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ES03",
+    "code": "YV-ES03",
+    "key": "youthvet-YV-ES03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Hoja 58：由学习停留改为临时居留和工作许可",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/58.-modificaciones-desde-autorizaciones-de-estancia-por-estudios-superiores-ensenanza-secundaria-actividades-formativas-o-formacion-sanitaria-especializada",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：列明合格学习停留转受雇或自雇居留的申请路径及岗位、资格等要求。 边界：获批依具体合同和资格；不是自动转换。",
+    "usedBy": [
+      {
+        "file": "youth-vet-spain.html",
+        "title": "西班牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ES03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ES04",
+    "code": "YV-ES04",
+    "key": "youthvet-YV-ES04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第1155/2024号移民条例整合文本，第53条及长期居留",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099",
+    "note": "核查 2026-09-24 · 西班牙官方公报 BOE。支持：第53条写高教须高于17岁、中等后义务教育须高于18岁；国家长期居留一般需五年合法居留，欧盟长期居留对学习停留仅在已转居留后折半。 边界：与Hoja 1高教“已满17”措辞有差异；年龄边界及本人许可史须按领馆解释和申请时有效版本确认。",
+    "usedBy": [
+      {
+        "file": "youth-vet-timeline.html",
+        "title": "把时间提前，但不要把资格与移民经验提前算",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ES04-7"
+      },
+      {
+        "file": "youth-vet-spain.html",
+        "title": "西班牙｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ES04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IT01",
+    "code": "YV-IT01",
+    "key": "youthvet-YV-IT01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "意大利官方签证门户：长期学习签证",
+    "url": "https://vistoperitalia.esteri.it/infovisto?code=17_0_D",
+    "note": "核查 2026-09-24 · 意大利外交与国际合作部。支持：提供D类长期学习签证基本类别与程序。 边界：具体职业培训和未成年人材料以中国主管领馆为准。",
+    "usedBy": [
+      {
+        "file": "youth-vet-italy.html",
+        "title": "意大利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IT01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IT02",
+    "code": "YV-IT02",
+    "key": "youthvet-YV-IT02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026职业培训学习签证清单",
+    "url": "https://ambdhaka.esteri.it/wp-content/uploads/2026/01/STUDY-VOCATIONAL-TRAINING_updated-1.pdf",
+    "note": "核查 2026-09-24 · 意大利驻达卡大使馆。支持：职业培训签证清单明确未成年申请须双亲或法定监护人签署。 边界：仅为达卡领区示例，不可当中国领区清单。",
+    "usedBy": [
+      {
+        "file": "youth-vet-italy.html",
+        "title": "意大利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IT02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IT03",
+    "code": "YV-IT03",
+    "key": "youthvet-YV-IT03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "外国人学习、培训及工作许可法律说明",
+    "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-norme/Dettaglio-norma/id/14",
+    "note": "核查 2026-09-24 · 意大利政府移民融合门户。支持：学习/培训居留兼职上限通常为每周20小时及每年1040小时，并可按条件申请转换工作居留。 边界：未成年人劳动规则及具体许可条件另行核对。",
+    "usedBy": [
+      {
+        "file": "youth-vet-italy.html",
+        "title": "意大利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IT03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-IT04",
+    "code": "YV-IT04",
+    "key": "youthvet-YV-IT04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "欧盟长期居民许可条件常见问题",
+    "url": "https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2118",
+    "note": "核查 2026-09-24 · 意大利政府移民融合门户。支持：欧盟长期居留一般需至少五年有效许可、最低收入与意语，并有连续居留及缺席要求。 边界：2021年说明，实际申请以现行法律和移民机关对学习许可史的确认作准。",
+    "usedBy": [
+      {
+        "file": "youth-vet-italy.html",
+        "title": "意大利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-IT04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-GR01",
+    "code": "YV-GR01",
+    "key": "youthvet-YV-GR01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第三国公民居留许可类别与申请材料",
+    "url": "https://migration.gov.gr/en/migration-policy/metanasteusi-stin-ellada/katigories-adeion-diamonis-politon-triton-choron-dikaiologitika%E2%80%8B/",
+    "note": "核查 2026-09-24 · 希腊移民及庇护部。支持：将学习、职业培训、就业及长期居留列作不同许可类别。 边界：目录含旧法条，2026修法与个案条件必须另核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-greece.html",
+        "title": "希腊｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-GR01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-GR02",
+    "code": "YV-GR02",
+    "key": "youthvet-YV-GR02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "职业培训国家签证条件",
+    "url": "https://www.mfa.gr/albania/services/theoriseis-eisodoy/ethnikes-theoriseis/epaggelmatiki-katartisi/",
+    "note": "核查 2026-09-24 · 希腊外交部驻阿尔巴尼亚使团。支持：职业培训入境须有认可学校/培训机构及签证材料。 边界：使团页面仅说明类别，不能证明中国16岁申请人获批或父母可陪读。",
+    "usedBy": [
+      {
+        "file": "youth-vet-greece.html",
+        "title": "希腊｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-GR02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-GR03",
+    "code": "YV-GR03",
+    "key": "youthvet-YV-GR03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第5275/2026号法律：合法移民及单一居留工作许可改革",
+    "url": "https://migration.gov.gr/wp-content/uploads/2026/02/%CE%A6%CE%95%CE%9A%CE%9117_6.2.2025.pdf",
+    "note": "核查 2026-09-24 · 希腊官方公报，经移民及庇护部发布。支持：2026年法律修改移民法中的合法移民及居留工作许可制度。 边界：文件名含旧年份但正文为2026年第5275号法律；不能据此推断本案学习期计入或可转工作。",
+    "usedBy": [
+      {
+        "file": "youth-vet-greece.html",
+        "title": "希腊｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-GR03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MT01",
+    "code": "YV-MT01",
+    "key": "youthvet-YV-MT01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "第三国公民学习居留常见问题",
+    "url": "https://identita.gov.mt/frequently-asked-questions/expatriates/non-eu-non-employment/study/",
+    "note": "核查 2026-09-24 · 马耳他身份局 Identità。支持：区分高教/私立中小学和MQF级别；FAQ称MQF 5以下不具该学习许可下的兼职资格。 边界：另有Identità签证部门页面对不适用S.L.217.22的长期课程说明附条件就业；低级别及未成年个案需主管机关书面判断。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MT02",
+    "code": "YV-MT02",
+    "key": "youthvet-YV-MT02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "国立教育机构学费豁免",
+    "url": "https://www.servizz.gov.mt/en/services/web-00542",
+    "note": "核查 2026-09-24 · 马耳他政府公共服务。支持：合格工作许可及其家属等可申请豁免；学习许可持有人不符合该申请类别。 边界：2026年4月更新；个案收费仍以书面决定为准。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT02-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "YV-MT03",
+    "code": "YV-MT03",
+    "key": "youthvet-YV-MT03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "长期居留常见问题",
+    "url": "https://identita.gov.mt/frequently-asked-questions/expatriates/non-eu-non-employment/long-term/",
+    "note": "核查 2026-09-24 · 马耳他身份局 Identità。支持：FAQ称当前学生或职业培训许可不得计入五年，并建议先转普通居留。 边界：欧盟《2003/109/EC指令》第4(2)条另规定转获合格许可后学习/培训期仅可折半；FAQ的绝对措辞不能证明先前时间永久归零。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MT04",
+    "code": "YV-MT04",
+    "key": "youthvet-YV-MT04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "单一工作许可",
+    "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/",
+    "note": "核查 2026-09-24 · 马耳他身份局 Identità。支持：单一许可结合居留和雇主指定工作，且限制为许可岗位。 边界：不构成毕业生自动获雇。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MT05",
+    "code": "YV-MT05",
+    "key": "youthvet-YV-MT05",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "Central Visa Unit：Student Visa – Employment",
+    "url": "https://identita.gov.mt/central-visa-unit-student-visa-employment/",
+    "note": "核查 2026-09-24 · 马耳他身份局 Identità。支持：不适用S.L.217.22且课程超过90日的学生可在Jobsplus条件下获准就业，学习三个月后每周最多20小时。 边界：与Identità学习许可FAQ的低于MQF 5表述需协调；不证明16岁或任一职教学生自动合格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT05-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MT06",
+    "code": "YV-MT06",
+    "key": "youthvet-YV-MT06",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "欧盟第三国公民长期居留指令2003/109/EC，第4(2)条",
+    "url": "https://eur-lex.europa.eu/eli/dir/2003/109",
+    "note": "核查 2026-09-24 · 欧盟 EUR-Lex。支持：持学习/职业培训许可者取得可通往欧盟长期居留的其他许可后，先前学习/培训居留时间仅可折半计入五年。 边界：具体马耳他许可史和国内实施由Identità确认；不能保证个案必获折半。",
+    "usedBy": [
+      {
+        "file": "youth-vet-malta.html",
+        "title": "马耳他｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MT06-6"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CY01",
+    "code": "YV-CY01",
+    "key": "youthvet-YV-CY01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "School pupils 中学生入境与居留",
+    "url": "https://www.gov.cy/mip-md/en/documents/school-pupils/",
+    "note": "核查 2026-09-24 · 塞浦路斯移民部门。支持：列出父母不住当地的私立寄宿学校学生及认可中学交换/教育项目的申请条件。 边界：学校须实际受认可和有位置；页面不提供父母陪住许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-cyprus.html",
+        "title": "塞浦路斯｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CY01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CY02",
+    "code": "YV-CY02",
+    "key": "youthvet-YV-CY02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "访客及家庭成员临时居留",
+    "url": "https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/",
+    "note": "核查 2026-09-24 · 塞浦路斯移民部门。支持：成人访客及其未成年受扶养子女有独立类别；访客不得本地从事经济活动，初次许可一般一年。 边界：续期及具体财力须个案确认。",
+    "usedBy": [
+      {
+        "file": "youth-vet-cyprus.html",
+        "title": "塞浦路斯｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CY02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CY03",
+    "code": "YV-CY03",
+    "key": "youthvet-YV-CY03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "技术职业中等教育一般说明",
+    "url": "https://www.moec.gov.cy/dmteek/en/infoserv_technical_general_information.html",
+    "note": "核查 2026-09-24 · 塞浦路斯教育部。支持：技术学校有理论与实践路径，可能通向就业或高等教育考试，包含希腊语学习。 边界：本地教育信息不能证明境外学生签证或具体录取。",
+    "usedBy": [
+      {
+        "file": "youth-vet-cyprus.html",
+        "title": "塞浦路斯｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CY03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CY04",
+    "code": "YV-CY04",
+    "key": "youthvet-YV-CY04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "长期居民身份取得条件",
+    "url": "https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic-2/",
+    "note": "核查 2026-09-24 · 塞浦路斯移民部门。支持：列出五年合法连续居留及学生、培训和仅临时居住类别的限制。 边界：访客等具体许可史是否计入须主管机关确认。",
+    "usedBy": [
+      {
+        "file": "youth-vet-cyprus.html",
+        "title": "塞浦路斯｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CY04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AD01",
+    "code": "YV-AD01",
+    "key": "youthvet-YV-AD01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "安道尔居留与工作许可目录",
+    "url": "https://www.govern.ad/es/tematiques/immigracio/residencia-i-treball",
+    "note": "核查 2026-09-24 · 安道尔政府。支持：列出学习/培训、工作、无工作及家庭团聚等不同许可。 边界：目录不证明本案任一许可的资格或快速永居。",
+    "usedBy": [
+      {
+        "file": "youth-vet-andorra.html",
+        "title": "安道尔｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AD01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AD02",
+    "code": "YV-AD02",
+    "key": "youthvet-YV-AD02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "青年临时工作许可G.3",
+    "url": "https://www.govern.ad/ca/tematiques/immigracio/residencia-i-treball/autoritzacio-d-immigracio-temporal-per-a-joves-amb-opcio-de-treball",
+    "note": "核查 2026-09-24 · 安道尔政府。支持：限18—30岁且须为签约国国民或合法居民；许可12个月不可续。 边界：不能将其推广为中国16岁学生或五年居留路线。",
+    "usedBy": [
+      {
+        "file": "youth-vet-andorra.html",
+        "title": "安道尔｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AD02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SM01",
+    "code": "YV-SM01",
+    "key": "youthvet-YV-SM01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "圣马力诺停留许可与居留分类",
+    "url": "https://www.esteri.sm/pub2/EsteriSM/Servizi-per-utenza/Permessi-di-Soggiorno-e-Residenze.html",
+    "note": "核查 2026-09-24 · 圣马力诺外交部。支持：公开列出旅游、工作、配偶及子女团聚等停留类别。 边界：未证明学生可反向担保父母或快速永居。",
+    "usedBy": [
+      {
+        "file": "youth-vet-san-marino.html",
+        "title": "圣马力诺｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SM01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SM02",
+    "code": "YV-SM02",
+    "key": "youthvet-YV-SM02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "居留法律整合文本",
+    "url": "https://www.esteri.sm/pub1/EsteriSM/en/dam/jcr%3A38eabe03-3e2f-44f3-a498-a5421388ddcf/2024_04_09%20Testo%20coordinato%20residenze%20%28SENZA%20NOTE%29.pdf",
+    "note": "核查 2026-09-24 · 圣马力诺外交部。支持：文本列出有期限、可续的教育特殊停留许可。 边界：2024文本可能已有修订；本案资格须复核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-san-marino.html",
+        "title": "圣马力诺｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SM02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-VA01",
+    "code": "YV-VA01",
+    "key": "youthvet-YV-VA01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "梵蒂冈城国人口与居住规定概览",
+    "url": "https://www.vaticanstate.va/en/state-and-government/general-informations/population.html",
+    "note": "核查 2026-09-24 · 梵蒂冈城国政府。支持：官方说明公民身份、境内居住许可和进入手续按特殊规定管理。 边界：未列普通境外中学生招生或家庭移民途径。",
+    "usedBy": [
+      {
+        "file": "youth-vet-vatican.html",
+        "title": "梵蒂冈｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-VA01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MC01",
+    "code": "YV-MC01",
+    "key": "youthvet-YV-MC01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "赴摩纳哥长期签证",
+    "url": "https://www.france-visas.gouv.fr/en/monaco",
+    "note": "核查 2026-09-24 · 法国政府 France-Visas。支持：列明摩纳哥定居长期签证的资金、住宿、身份及获准雇佣等材料。 边界：法国领事签证与摩纳哥居留批准分开。",
+    "usedBy": [
+      {
+        "file": "youth-vet-monaco.html",
+        "title": "摩纳哥｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MC01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MC02",
+    "code": "YV-MC02",
+    "key": "youthvet-YV-MC02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "2026年摩纳哥教育奖学金资格条例",
+    "url": "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8807/Arrete-Ministeriel-n-2026-377-du-3-juillet-2026-approuvant-le-reglement-d-attribution-des-bourses-d-etudes",
+    "note": "核查 2026-09-24 · 摩纳哥官方公报。支持：奖学金面向摩纳哥国民及特定依亲、公共部门家庭或长期居民等类别。 边界：该法规不证明新抵达中国家庭可获资助。",
+    "usedBy": [
+      {
+        "file": "youth-vet-monaco.html",
+        "title": "摩纳哥｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MC02-2"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-FR01",
+    "code": "YV-FR01",
+    "key": "youthvet-YV-FR01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "在校未成年人长期签证",
+    "url": "https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise",
+    "note": "核查 2026-09-24 · France-Visas。支持：境外未成年人普通中学签证所需材料；职业班级申请不受理；父母居法国境外。 边界：不证明大学录取或家长居留。",
+    "usedBy": [
+      {
+        "file": "youth-vet-france.html",
+        "title": "法国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FR01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-FR02",
+    "code": "YV-FR02",
+    "key": "youthvet-YV-FR02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "法国未成年人开始工作年龄",
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F1649",
+    "note": "核查 2026-09-24 · 法国行政服务网。支持：一般16岁起可工作，未成年人需法定代表同意并有危险工作限制。 边界：劳动年龄不是外国人工作/签证许可。",
+    "usedBy": [
+      {
+        "file": "youth-vet-france.html",
+        "title": "法国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FR02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-FR03",
+    "code": "YV-FR03",
+    "key": "youthvet-YV-FR03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "法国欧盟长期居民卡",
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F17359",
+    "note": "核查 2026-09-24 · 法国行政服务网。支持：要求合资格许可下五年合法连续居留、资源、医保及融入；列举资格未包括学生卡。 边界：依实际许可类别与当时法律审核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-france.html",
+        "title": "法国｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-FR03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AT01",
+    "code": "YV-AT01",
+    "key": "youthvet-YV-AT01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "奥地利临时居留与中小学生许可",
+    "url": "https://www.migration.gv.at/en/types-of-immigration/temporary-residence/",
+    "note": "核查 2026-09-24 · 奥地利联邦移民平台。支持：Pupils许可、AMS学生最多20小时工作许可及该类别不能担保家属。 边界：具体学校资格与学徒合同仍待主管机关。",
+    "usedBy": [
+      {
+        "file": "youth-vet-austria.html",
+        "title": "奥地利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AT01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AT02",
+    "code": "YV-AT02",
+    "key": "youthvet-YV-AT02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "奥地利教育体系与职业教育",
+    "url": "https://www.migration.gv.at/en/living-and-working-in-austria/children-and-education/educational-systems.html",
+    "note": "核查 2026-09-24 · 奥地利联邦移民平台。支持：高阶职业中学可取得Matura；双轨学徒为企业加职业学校。 边界：描述本地制度，不单独证明外国人入境录取。",
+    "usedBy": [
+      {
+        "file": "youth-vet-austria.html",
+        "title": "奥地利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AT02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AT03",
+    "code": "YV-AT03",
+    "key": "youthvet-YV-AT03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "奥地利长期居留与定居类别",
+    "url": "https://www.migration.gv.at/index.php?id=971",
+    "note": "核查 2026-09-24 · 奥地利联邦移民平台。支持：欧盟长期居民为独立定居类别并附条件。 边界：本轮未从该页确认Pupils时间具体计法。",
+    "usedBy": [
+      {
+        "file": "youth-vet-austria.html",
+        "title": "奥地利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AT03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AT04",
+    "code": "YV-AT04",
+    "key": "youthvet-YV-AT04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "奥地利中小学生居留德语官方说明",
+    "url": "https://www.migration.gv.at/de/formen-der-zuwanderung/temporaerer-aufenthalt/",
+    "note": "核查 2026-09-24 · 奥地利联邦移民平台。支持：未成年中小学生需证明由在奥成年居民照护教育。 边界：照护关系须由主管机关按个案审核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-austria.html",
+        "title": "奥地利｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AT04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CH01",
+    "code": "YV-CH01",
+    "key": "youthvet-YV-CH01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "瑞士第三国劳动力准入依据",
+    "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/grundlagen_zur_arbeitsmarktzulassung.html",
+    "note": "核查 2026-09-24 · 瑞士联邦移民事务秘书处。支持：第三国工作通常面向高技能、配额及本国/欧盟优先。 边界：不能代替具体州对未成年学徒的裁定。",
+    "usedBy": [
+      {
+        "file": "youth-vet-switzerland.html",
+        "title": "瑞士｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CH01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CH02",
+    "code": "YV-CH02",
+    "key": "youthvet-YV-CH02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "瑞士职业教育与培训",
+    "url": "https://www.sbfi.admin.ch/en/vocational-education-and-training-vet",
+    "note": "核查 2026-09-24 · 瑞士教育研究创新国务秘书处。支持：三至四年职业教育可结合联邦职业高考准备。 边界：仅说明教育体系，不授予外国学生签证或工作权。",
+    "usedBy": [
+      {
+        "file": "youth-vet-switzerland.html",
+        "title": "瑞士｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CH02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CH03",
+    "code": "YV-CH03",
+    "key": "youthvet-YV-CH03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "瑞士家庭团聚申请",
+    "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+    "note": "核查 2026-09-24 · 瑞士联邦/州公共服务门户。支持：团聚取决于居留类别；B许可不必然赋予团聚权。 边界：需按家长和州具体许可判断。",
+    "usedBy": [
+      {
+        "file": "youth-vet-switzerland.html",
+        "title": "瑞士｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CH03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-CH04",
+    "code": "YV-CH04",
+    "key": "youthvet-YV-CH04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "瑞士普通入籍",
+    "url": "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+    "note": "核查 2026-09-24 · 瑞士联邦移民事务秘书处。支持：一般要求十年居留和C定居许可。 边界：入籍与C许可是不同法律程序。",
+    "usedBy": [
+      {
+        "file": "youth-vet-switzerland.html",
+        "title": "瑞士｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-CH04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LI01",
+    "code": "YV-LI01",
+    "key": "youthvet-YV-LI01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "列支敦士登教育/培训短期L许可",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/residence-in-liechtenstein-without-employment/short-stay-permit-for-study-education-l-",
+    "note": "核查 2026-09-24 · 列支敦士登国家行政机关。支持：教育L类最长一次12个月；非欧盟大学生相关兼职限额并需授权。 边界：不证明职业中学生可直接带薪学徒。",
+    "usedBy": [
+      {
+        "file": "youth-vet-liechtenstein.html",
+        "title": "列支敦士登｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LI01-1"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-LI02",
+    "code": "YV-LI02",
+    "key": "youthvet-YV-LI02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "列支敦士登第三国家庭团聚",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/family-reunification/family-reunification-for-nationals-of-a-third-country",
+    "note": "核查 2026-09-24 · 列支敦士登国家行政机关。支持：学生及短期居民不可带家属；合资格工作居民团聚有住房收入条件。 边界：具体个人资格仍按移民局审查。",
+    "usedBy": [
+      {
+        "file": "youth-vet-liechtenstein.html",
+        "title": "列支敦士登｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LI02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-LI03",
+    "code": "YV-LI03",
+    "key": "youthvet-YV-LI03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "列支敦士登教育与学校类型",
+    "url": "https://www.llv.li/en/national-administration/office-of-education/educational-areas/education-schools",
+    "note": "核查 2026-09-24 · 列支敦士登国家行政机关。支持：学徒理论课程常在瑞士进行，职业高考可衔接应用科学大学。 边界：本地教育结构不保证中国籍申请人获准入学。",
+    "usedBy": [
+      {
+        "file": "youth-vet-liechtenstein.html",
+        "title": "列支敦士登｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LI03-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-LI04",
+    "code": "YV-LI04",
+    "key": "youthvet-YV-LI04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "列支敦士登永久居留与定居",
+    "url": "https://www.llv.li/en/national-administration/migration-and-passport-office/permanent-residence-and-establishment",
+    "note": "核查 2026-09-24 · 列支敦士登国家行政机关。支持：五年后C/D申请存在类别和程序。 边界：未证L类教育期间可计入。",
+    "usedBy": [
+      {
+        "file": "youth-vet-liechtenstein.html",
+        "title": "列支敦士登｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-LI04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SI01",
+    "code": "YV-SI01",
+    "key": "youthvet-YV-SI01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "斯洛文尼亚中学招生与外国资格",
+    "url": "https://www.gov.si/teme/vpis-v-srednjo-solo/",
+    "note": "核查 2026-09-24 · 斯洛文尼亚政府。支持：同等条件招生限定本国、欧盟、列明互惠国或学生/家长已为税法居民；列境外学历承认材料及职业Matura出口。 边界：中国不在所列互惠国；个案特殊资格仍须学校解释。",
+    "usedBy": [
+      {
+        "file": "youth-vet-slovenia.html",
+        "title": "斯洛文尼亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SI01-1"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "YV-SI02",
+    "code": "YV-SI02",
+    "key": "youthvet-YV-SI02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "斯洛文尼亚非欧盟学生移民条件",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/student-slovenia_en",
+    "note": "核查 2026-09-24 · 欧盟委员会移民与内政总司。支持：学习/职业培训居留与就业转换、家庭团聚及永久居留半数计时。 边界：门户资料更新日期2025年，申请前核最新国内法。",
+    "usedBy": [
+      {
+        "file": "youth-vet-slovenia.html",
+        "title": "斯洛文尼亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SI02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-SI03",
+    "code": "YV-SI03",
+    "key": "youthvet-YV-SI03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "斯洛文尼亚外国人入境居留",
+    "url": "https://www.gov.si/en/topics/entry-and-residence/",
+    "note": "核查 2026-09-24 · 斯洛文尼亚政府。支持：第三国公民按学习、工作、团聚等目的办理签证或居留。 边界：学校入学许可须另核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-slovenia.html",
+        "title": "斯洛文尼亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-SI03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-HR01",
+    "code": "YV-HR01",
+    "key": "youthvet-YV-HR01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "克罗地亚外国未成年人身份",
+    "url": "https://mup.gov.hr/print.aspx?id=281660&url=print",
+    "note": "核查 2026-09-24 · 克罗地亚内政部。支持：未成年中学教育临时停留与获准项目、父母同意和照护条件相关。 边界：非任何普通学校录取均可获批。",
+    "usedBy": [
+      {
+        "file": "youth-vet-croatia.html",
+        "title": "克罗地亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-HR01-1"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "YV-HR02",
+    "code": "YV-HR02",
+    "key": "youthvet-YV-HR02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "克罗地亚职业中学类型",
+    "url": "https://gov.hr/en/types-of-secondary-schools/1028",
+    "note": "核查 2026-09-24 · 克罗地亚政府。支持：四/五年职业课程可通过国家毕业考试申请高教，三年课程资格不同。 边界：具体大学专业还有单独门槛。",
+    "usedBy": [
+      {
+        "file": "youth-vet-croatia.html",
+        "title": "克罗地亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-HR02-2"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-HR03",
+    "code": "YV-HR03",
+    "key": "youthvet-YV-HR03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "克罗地亚国家毕业考试",
+    "url": "https://gov.hr/en/state-graduation-exams/1036",
+    "note": "核查 2026-09-24 · 克罗地亚政府。支持：四年职业中学学生可为高教参加State Matura。 边界：不是外国人学校居留依据。",
+    "usedBy": [
+      {
+        "file": "youth-vet-croatia.html",
+        "title": "克罗地亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-HR03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-HR04",
+    "code": "YV-HR04",
+    "key": "youthvet-YV-HR04",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "克罗地亚长期居留及永久停留",
+    "url": "https://mup.gov.hr/print.aspx?id=281682&url=print",
+    "note": "核查 2026-09-24 · 克罗地亚内政部。支持：中学教育临时停留不计五年长期居留；大学学习时间计半。 边界：适用具体身份与批准日期仍须核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-croatia.html",
+        "title": "克罗地亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-HR04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AL01",
+    "code": "YV-AL01",
+    "key": "youthvet-YV-AL01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "阿尔巴尼亚D/ST学习签证材料",
+    "url": "https://punetejashtme.gov.al/en/aplikim-per-vize/",
+    "note": "核查 2026-09-24 · 阿尔巴尼亚欧洲及外交部。支持：学习长期签证需录取、全额资金、保险、住址及阿语能力；未成年需父母同意。 边界：未说明特定职业中学或家长身份。",
+    "usedBy": [
+      {
+        "file": "youth-vet-albania.html",
+        "title": "阿尔巴尼亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AL01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-AL02",
+    "code": "YV-AL02",
+    "key": "youthvet-YV-AL02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "阿尔巴尼亚外国人法英文文本",
+    "url": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf",
+    "note": "核查 2026-09-24 · 阿尔巴尼亚内政部。支持：第88条把以学习或职业培训身份停留者排除在永久居留资格之外。 边界：2021法英文文本，后续修法需本地核对。",
+    "usedBy": [
+      {
+        "file": "youth-vet-albania.html",
+        "title": "阿尔巴尼亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-AL02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BA01",
+    "code": "YV-BA01",
+    "key": "youthvet-YV-BA01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "波黑外国人事务局中学教育居留清单",
+    "url": "https://sps.gov.ba/dokumenti/dokumentacija/en/PB-2.2.pdf",
+    "note": "核查 2026-09-24 · 波黑外国人事务局。支持：中学教育临时居留材料含父母同意、寄宿或本地合格照护与费用承担。 边界：表格较旧，提交前向主管局核新版本。",
+    "usedBy": [
+      {
+        "file": "youth-vet-bosnia-and-herzegovina.html",
+        "title": "波斯尼亚和黑塞哥维那｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BA01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-BA02",
+    "code": "YV-BA02",
+    "key": "youthvet-YV-BA02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "波黑外国人停留与永久居留",
+    "url": "https://sps.gov.ba/en/information-for-foreigners/stay-of-aliens-in-bih/",
+    "note": "核查 2026-09-24 · 波黑外国人事务局。支持：首次居留、工作许可、五年PR条件及教育居留半数计时。 边界：各实体学校和雇佣细则仍需单独核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-bosnia-and-herzegovina.html",
+        "title": "波斯尼亚和黑塞哥维那｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-BA02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ME01",
+    "code": "YV-ME01",
+    "key": "youthvet-YV-ME01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "黑山临时居留",
+    "url": "https://www.gov.me/en/article/temporary-residence",
+    "note": "核查 2026-09-24 · 黑山政府。支持：中学教育可为临时居留理由；未成年人需父母同意；团聚一般列配偶与子女。 边界：具体学校及有薪工作许可未由此证明。",
+    "usedBy": [
+      {
+        "file": "youth-vet-montenegro.html",
+        "title": "黑山｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ME01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-ME02",
+    "code": "YV-ME02",
+    "key": "youthvet-YV-ME02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "黑山外国学历承认",
+    "url": "https://www.gov.me/en/article/recognition-of-foreign-educational-credentials-primary-and-secondary-education-2",
+    "note": "核查 2026-09-24 · 黑山政府。支持：海外小学及中学学历承认有独立行政程序。 边界：不等于目标职业学校录取或大学资格。",
+    "usedBy": [
+      {
+        "file": "youth-vet-montenegro.html",
+        "title": "黑山｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-ME02-2"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "YV-MK01",
+    "code": "YV-MK01",
+    "key": "youthvet-YV-MK01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "北马其顿外国人入境签证类型",
+    "url": "https://mfa.gov.mk/sq-AL/konzularni-uslugi/vidovi-vizi-za-vlez-vo-rsm",
+    "note": "核查 2026-09-24 · 北马其顿外交和对外贸易部。支持：列就学/学习、交流、职业培训及家庭团聚等临时居留理由。 边界：当前检索到阿尔巴尼亚语官方页，具体材料需领馆核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-north-macedonia.html",
+        "title": "北马其顿｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MK01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-MK02",
+    "code": "YV-MK02",
+    "key": "youthvet-YV-MK02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "北马其顿外国人个别申请程序",
+    "url": "https://mvr.gov.mk/en-GB/uslugi/upatstvo-i-postapka-za-oddelni-prava-baranja-na-strancite",
+    "note": "核查 2026-09-24 · 北马其顿内政部。支持：外国人法及细则覆盖临时、永久居留和延期程序。 边界：该页未给出就学PR计时。",
+    "usedBy": [
+      {
+        "file": "youth-vet-north-macedonia.html",
+        "title": "北马其顿｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-MK02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-RS01",
+    "code": "YV-RS01",
+    "key": "youthvet-YV-RS01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "塞尔维亚教育D签",
+    "url": "https://welcometoserbia.gov.rs/d-visa-purpose-of-stay-education",
+    "note": "核查 2026-09-24 · 塞尔维亚政府Welcome to Serbia。支持：Schooling及学生交换为D签教育目的，需学校入学等材料。 边界：具体职业中学和中国领区仍需核。",
+    "usedBy": [
+      {
+        "file": "youth-vet-serbia.html",
+        "title": "塞尔维亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-RS01-1"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-RS02",
+    "code": "YV-RS02",
+    "key": "youthvet-YV-RS02",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "塞尔维亚外国学历承认",
+    "url": "https://welcometoserbia.gov.rs/recognition-of-diplomas",
+    "note": "核查 2026-09-24 · 塞尔维亚政府Welcome to Serbia。支持：外国小学/中学证书承认后可安排中学入学或升年级。 边界：目标职业专业与大学出口另审。",
+    "usedBy": [
+      {
+        "file": "youth-vet-serbia.html",
+        "title": "塞尔维亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-RS02-2"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "YV-RS03",
+    "code": "YV-RS03",
+    "key": "youthvet-YV-RS03",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "塞尔维亚永久居留",
+    "url": "https://welcometoserbia.gov.rs/permanent-residence",
+    "note": "核查 2026-09-24 · 塞尔维亚政府Welcome to Serbia。支持：一般连续三年临时居留；就学时间改换目的后只计一半。 边界：非自动获批，仍须申请时有效身份等条件。",
+    "usedBy": [
+      {
+        "file": "youth-vet-serbia.html",
+        "title": "塞尔维亚｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-RS03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "YV-XK01",
+    "code": "YV-XK01",
+    "key": "youthvet-YV-XK01",
+    "report": "youthvet",
+    "reportLabel": "未成年职教路径",
+    "title": "科索沃大学前教育居留材料清单",
+    "url": "https://mpb.rks-gov.net/Uploads/EditorFiles/FAQ/86/ENG%20_%20RESIDENCE%20PERMIT%20FOR%20THE%20PURPOSE%20OF%20PRE_UNIVERSITY%20EDUCATION.pdf",
+    "note": "核查 2026-09-24 · 科索沃内政部。支持：外国大学前学生须获认可学校入学、父母同意、资金、住址、保险等。 边界：未核职业课程、家长工作或永久居留全链条。",
+    "usedBy": [
+      {
+        "file": "youth-vet-kosovo.html",
+        "title": "科索沃｜未成年职业教育与长期身份路径",
+        "category": "youthvet",
+        "anchor": "cite-youthvet-YV-XK01-1"
+      }
+    ],
+    "topic": "签证与监护"
   }
 ]
