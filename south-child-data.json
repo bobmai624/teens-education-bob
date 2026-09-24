@@ -1,0 +1,2580 @@
+{
+  "checked": "2026-09-24",
+  "scope": "中国大陆未成年高中生先行，一位家长陪同；葡萄牙、西班牙、希腊独立深查，另附14国居住年限调查（排除香港、非全球穷尽）。",
+  "countries": [
+    {
+      "id": "portugal",
+      "name": "葡萄牙",
+      "verdict": "孩子可有条件申请中学居留，但中国籍中学生不能为父母生成陪读或工作身份；亲子两人按孩子先入学的模式尚未闭环。",
+      "status": "restricted",
+      "gates": [
+        {
+          "name": "孩子境外入境",
+          "result": "第62条存在中学签证框架，14至21岁年龄范围；须获得获认可学校的交流或教育项目录取、合格住宿、保险及领事批准，普通学位不能直接等同签证资格。",
+          "evidence": "SC-PT01,SC-PT02,SC-PT03"
+        },
+        {
+          "name": "父母合法同住",
+          "result": "学生家庭团聚的成员限配偶、未成年或无行为能力子女、合格收养子女，不含学生的父母；第122(1)(k)新法仅涉及葡籍未成年子女的父母。",
+          "evidence": "SC-PT01,SC-PT02,SC-PT05"
+        },
+        {
+          "name": "父母工作收入",
+          "result": "没有获批的父母自身居留及真实岗位前，本地工资预算为零；自有收入D7属于父母独立迁移，改变孩子为唯一主体的模式。",
+          "evidence": "SC-PT01,SC-PT06,SC-PT07"
+        },
+        {
+          "name": "年净20万／五年100万",
+          "result": "缺个人录取、父母许可、真实租约及完整两人支出；不能证明达标。英语国际校公开高中费用已占大量年预算。",
+          "evidence": "SC-PT08,SC-PT11,SC-PT12"
+        }
+      ],
+      "budgetNote": "本画像目前不是可成交的亲子陪读加就业方案。先取得孩子项目可签证书面确认和父母独立合法居留依据，再以五年逐年现金流核验人民币净支出；没有学校offer、家长许可、工作合同或住房报价。"
+    },
+    {
+      "id": "spain",
+      "name": "西班牙",
+      "verdict": "有条件的备选，不能按“未成年孩子获普通高中学生签证→家长获陪读和工作权”销售。最接近同住五年的合法模型，是家长先凭独立的非盈利居留（non-lucrative residence）和充足自有资金，带孩子以家属身份居住并申请公校；这改变了孩子先行的签证逻辑，而且家长不能工作。真正的中学交换（pupil mobility）只适合限期项目，不能据此承诺五年亲子同住。",
+      "status": "restricted",
+      "gates": [
+        {
+          "name": "未成年普通高中独立学生签证",
+          "result": "通常不成立；2025条例第35(f)条要求普通高中所在的后义务中等教育申请人超过18岁。",
+          "evidence": "SC-ES01, SC-ES02"
+        },
+        {
+          "name": "正式中学交换项目",
+          "result": "13—17岁可按相应教育年龄申请真实项目；每次许可最长一年，寄宿或项目选定的家庭及独立负责人为必要条件，非自由择校五年。",
+          "evidence": "SC-ES01, SC-ES03"
+        },
+        {
+          "name": "家长陪读与工作",
+          "result": "未发现中学交换生家长的派生陪读许可；非盈利居留可让家长带受抚养孩子，但家长不得工作，且需证明500% IPREM的家庭维持资金。",
+          "evidence": "SC-ES01, SC-ES04, SC-ES05"
+        },
+        {
+          "name": "公校与语言",
+          "result": "合法居住的孩子可申请免费ESO或公立Bachillerato；学校录取、年级、学位对等和语言支持由当地教育机关核定。",
+          "evidence": "SC-ES06, SC-ES07, SC-ES08"
+        },
+        {
+          "name": "年度及五年预算",
+          "result": "公校加低租金地区的自费模型在纸面上可能低于每年20万元，但家长工资必须计零；5年100万元尚无真实住房、保险、学位及汇率报价支持。",
+          "evidence": "SC-ES04, SC-ES09, SC-ES10, SC-ES11"
+        }
+      ],
+      "budgetNote": "口径为一位家长加一位孩子的实际家庭支出减合法税后收入；非盈利居留下家长工作收入按€0。以€1≈¥7.70仅作压力测试，¥200,000≈€25,974/年，五年¥1,000,000≈€129,870。签证要求展示的€36,000首年资金（若IPREM仍为€600/月）是资金存量门槛，不等于必须支出；不得将存款和年度花费相加，也不得把存款当工资抵扣。"
+    },
+    {
+      "id": "greece",
+      "name": "希腊",
+      "verdict": "受限：公校可为已在希腊的孩子提供免费教育，但未找到可供中国境外普通13—17岁学生独立赴希腊长期读普通中学、并让一位家长以陪读身份长期居留及工作的通用法定链条。唯一较清楚的亲子同住替代是家长以充足自有资金申请 I.8 居留、孩子作为家属入学；它不是陪读签，不准在希腊工作，€4,025/月的两人资金证明门槛高于本案年净支出上限。因此不能将希腊作为本预算的可直接执行五年主方案。",
+      "status": "restricted",
+      "gates": [
+        {
+          "name": "孩子境外赴普通中学的长期入境依据",
+          "result": "未证实。H.1 学习居留要求高等教育录取；H.7 只针对有主管项目证明的特定交换、欧盟资助合作或奖学金。公校招生页不构成 D 签资格。",
+          "evidence": [
+            "SC-GR01",
+            "SC-GR02",
+            "SC-GR03"
+          ]
+        },
+        {
+          "name": "一位家长合法陪住及工作",
+          "result": "未找到随普通中学生附带签发的家长陪读工作权。I.8 可由资金充足的家长作为主申请人携未成年子女，但家长及家属均无希腊当地就业或自营经济活动权。",
+          "evidence": [
+            "SC-GR01",
+            "SC-GR04",
+            "SC-GR05"
+          ]
+        },
+        {
+          "name": "年净≤人民币20万、五年≤100万",
+          "result": "公校零学费的两人谨慎模型约€25,760/年，按€1=¥8.00规划汇率为¥206,080（20.608万），已超年度上限；静态五年¥1,030,400（103.04万），也超五年上限。I.8 法定资金证明€48,300/年折算¥386,400（38.64万）；英语私校另加€14,120—16,348/年，同样不达标。",
+          "evidence": [
+            "SC-GR05",
+            "SC-GR09",
+            "SC-GR10",
+            "SC-GR11",
+            "SC-GR12"
+          ]
+        },
+        {
+          "name": "语言、升学和18岁后连续居留",
+          "result": "公校以希腊语融入为现实门槛；接待班并非英语授课。满18岁须核对子女独立居留依据；高中毕业可申请高教不等于自动获录取或学生签。五年上学不自动换永居或国籍。",
+          "evidence": [
+            "SC-GR06",
+            "SC-GR07",
+            "SC-GR13",
+            "SC-GR14",
+            "SC-GR15"
+          ]
+        }
+      ],
+      "budgetNote": "模型货币为欧元；所有人民币换算统一采用€1=¥8.00的审慎规划假设，不是实时市场报价或银行成交价。€25,760包含两人基本生活€23,760和年度预留€2,000；不含中介服务费、学费涨价、重大医疗、大学学费和额外移民费用。证明有资金与实际花费是两道独立门槛，不能互相抵扣。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SC-PT01",
+      "title": "第23/2007号外国人法现行整合文本：第3、62、80、83、92、97、99、122、125—126条",
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445",
+      "publisher": "Diário da República",
+      "checked": "2026-09-24",
+      "claim": "中学项目签证条件、学生工作和家庭边界、三类居留规则。",
+      "limit": "页面第92和122条可能残留旧整合文字；两条以SC-PT02新法优先。"
+    },
+    {
+      "id": "SC-PT02",
+      "title": "Lei n.º 62/2026，修订第92及122条",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei/62-2026-1168979170",
+      "publisher": "Diário da República",
+      "checked": "2026-09-24",
+      "claim": "2026-09-11生效；第92(1)改中学或CITE 2011第4级、废第4款；第122(1)(k)限定葡籍未成年子女。",
+      "limit": "并未替个案确认具体学校、课程或签证。"
+    },
+    {
+      "id": "SC-PT03",
+      "title": "Portaria n.º 1079/2007，中学居留签年龄",
+      "url": "https://diariodarepublica.pt/dr/detalhe/portaria/1079-2007-1883077",
+      "publisher": "Diário da República",
+      "checked": "2026-09-24",
+      "claim": "第62条中学签申请时年龄至少14岁、不超过21岁。",
+      "limit": "年龄合格仅为一项条件。"
+    },
+    {
+      "id": "SC-PT04",
+      "title": "AIMA学生居留第92条操作页",
+      "url": "https://aima.gov.pt/pt/estudar/autorizacao-de-residencia-para-estudantes-art-92-o",
+      "publisher": "AIMA",
+      "checked": "2026-09-24",
+      "claim": "列申请材料、注册、地址、生活来源与健康保障。",
+      "limit": "仍写旧QNQ4/5与培训范围，不能覆盖2026新第92条。"
+    },
+    {
+      "id": "SC-PT05",
+      "title": "AIMA家庭团聚第98条操作页",
+      "url": "https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-em-territorio-nacional-art-98-o-n-o-2",
+      "publisher": "AIMA",
+      "checked": "2026-09-24",
+      "claim": "学生家庭团聚列配偶与子女，不列父母。",
+      "limit": "页面对一般家庭成员另列受抚养父母，须结合外国人法第99(3)特殊限制。"
+    },
+    {
+      "id": "SC-PT06",
+      "title": "自有收入人士居留签证政府服务页",
+      "url": "https://www2.gov.pt/en/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios/-/asset_publisher/01mjqjlm1jP0/content/1842-srv-ces-fds_lead",
+      "publisher": "gov.pt",
+      "checked": "2026-09-24",
+      "claim": "D7服务对象包括退休人士与靠自有收入生活者，向领事机构申请。",
+      "limit": "不证明本家庭有自有收入或获批。"
+    },
+    {
+      "id": "SC-PT07",
+      "title": "葡萄牙政府移民就业指南",
+      "url": "https://www.gov.pt/guias/migrantes-trabalhar-e-criar-um-negocio-em-portugal",
+      "publisher": "gov.pt",
+      "checked": "2026-09-24",
+      "claim": "第三国公民就业须有允许就业的居留；劳动签申请需真实合同或承诺。",
+      "limit": "一般指南不能替代家长具体许可与岗位核验。"
+    },
+    {
+      "id": "SC-PT08",
+      "title": "Decreto-Lei n.º 176/2012，6—18岁义务教育和公校收费",
+      "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057",
+      "publisher": "Diário da República",
+      "checked": "2026-09-24",
+      "claim": "义务教育普及且公校免学费、注册及认证费用。",
+      "limit": "境内教育权不是境外居留签资格；其他生活开支另计。"
+    },
+    {
+      "id": "SC-PT09",
+      "title": "葡萄牙教育局PLNM政策",
+      "url": "https://www.dge.mec.pt/node/5089",
+      "publisher": "DGE",
+      "checked": "2026-09-24",
+      "claim": "中学母语非葡语学生可作语言分级及PLNM支持。",
+      "limit": "不承诺英语授课或特定学校的支持名额。"
+    },
+    {
+      "id": "SC-PT10",
+      "title": "2026高等教育申请及入学考试官方问答",
+      "url": "https://www.dges.gov.pt/pt/faq/condicoes-de-acesso-e-ingresso-no-ensino-superior",
+      "publisher": "DGES",
+      "checked": "2026-09-24",
+      "claim": "大学申请需中学完成资格及院校指定入学考试；具体课程逐年公布。",
+      "limit": "国际学生与居留年数的申请类别还须按申请年度核对。"
+    },
+    {
+      "id": "SC-PT11",
+      "title": "Oporto British School 2026/27官方学费",
+      "url": "https://www.obs.edu.pt/school-fees/",
+      "publisher": "Oporto British School",
+      "checked": "2026-09-24",
+      "claim": "IGCSE年付€15,315、IBDP €17,570，另维护€745及保险€55，并有入学、押金及考试费用。",
+      "limit": "公开标价非offer；实际年级、考试、餐食与交通另计。"
+    },
+    {
+      "id": "SC-PT12",
+      "title": "Portal da Habitação：2026 municipal T2最高可接受租金",
+      "url": "https://www.portaldahabitacao.pt/documents/20126/35882/RendasMaximas_2026.pdf/6c3a95b2-2358-65b5-f29e-6104fdefdda4?download=true&t=1773914188716&version=1.0",
+      "publisher": "Portal da Habitação",
+      "checked": "2026-09-24",
+      "claim": "政策T2上限Leiria €560、Braga €671、Porto €1,118。",
+      "limit": "仅为政策上限，非市场租金或可获得房源。"
+    },
+    {
+      "id": "SC-PT13",
+      "title": "2026最低工资€920",
+      "url": "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+      "publisher": "DGERT",
+      "checked": "2026-09-24",
+      "claim": "法定每月最低毛工资€920。",
+      "limit": "非家庭可获岗位、税后工资或签证收入。"
+    },
+    {
+      "id": "SC-PT14",
+      "title": "2026国籍法修订，Lei Orgânica n.º 1/2026",
+      "url": "https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996",
+      "publisher": "Diário da República",
+      "checked": "2026-09-24",
+      "claim": "普通中国籍成年人入籍居留门槛为10年，并有语言、文化、生活来源等条件。",
+      "limit": "未成年人及过渡申请须另按个案和现行法律审查；不等于十年自动入籍。"
+    },
+    {
+      "id": "SC-PT15",
+      "title": "AIMA国家永久居留第80条",
+      "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+      "publisher": "AIMA",
+      "checked": "2026-09-24",
+      "claim": "至少五年临时居留、住所、生计与基础葡语等。",
+      "limit": "国家永居与欧盟长期居民、国籍是不同审查。"
+    },
+    {
+      "id": "SC-PT16",
+      "title": "AIMA生活来源证明公式",
+      "url": "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+      "publisher": "AIMA",
+      "checked": "2026-09-24",
+      "claim": "签证及居留资金核验有独立的生活来源证明规则。",
+      "limit": "页面示例工资仍写2025；具体2026数额与证据形式须向领馆核实。"
+    },
+    {
+      "id": "SC-ES01",
+      "title": "Real Decreto 1155/2024，现行整合文本，第35、52—57、176、183条",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099",
+      "publisher": "西班牙官方公报 BOE",
+      "checked": "2026-09-24",
+      "claim": "签证年龄、交流项目责任/时长、学生家属范围、工作限制及两类长期居留计时的首要法源。",
+      "limit": "依申请时生效版本；具体个案仍由主管机关裁定。"
+    },
+    {
+      "id": "SC-ES02",
+      "title": "Hoja 1：高教或后义务中等教育长期学习停留",
+      "url": "https://ciudadaniaexterior.inclusion.gob.es/es/web/migraciones/w/estancia-por-estudios",
+      "publisher": "西班牙融入、社保及移民部",
+      "checked": "2026-09-24",
+      "claim": "列高教与Bachillerato条件；通用段落高教“满17”与具体条件“超过17”有措辞差异；Bachillerato写超过18。",
+      "limit": "页面自称指导性；年龄以条例第35(f)条及领馆书面判断为准。"
+    },
+    {
+      "id": "SC-ES03",
+      "title": "Hoja 3：中学生交流长期停留",
+      "url": "https://www.inclusion.gob.es/web/migraciones/w/autorizacion-de-estancia-por-movilidad-de-alumnos",
+      "publisher": "西班牙融入、社保及移民部",
+      "checked": "2026-09-24",
+      "claim": "正式项目、学校录取、指定非监护人负责人、寄宿或项目宿舍及最长一年。",
+      "limit": "未证明有可供此家庭报名的具体项目、费用或学校。"
+    },
+    {
+      "id": "SC-ES04",
+      "title": "北京总领馆：Non-working residence visa",
+      "url": "https://www.exteriores.gob.es/Consulados/pekin/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+      "publisher": "西班牙驻北京总领馆",
+      "checked": "2026-09-24",
+      "claim": "可带受抚养子女；主申请人400% IPREM、每名家属100%，须有保险，不构成工作许可。",
+      "limit": "其他领区程序可能不同；最终审查以实际管辖领馆为准。"
+    },
+    {
+      "id": "SC-ES05",
+      "title": "Hoja 6：初次非盈利居留",
+      "url": "https://ciudadaniaexterior.inclusion.gob.es/en/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-no-lucrativa",
+      "publisher": "西班牙融入、社保及移民部",
+      "checked": "2026-09-24",
+      "claim": "资金、保险及无需劳动活动条件。",
+      "limit": "资金计算以申请年度IPREM和个人财务证据为准。"
+    },
+    {
+      "id": "SC-ES06",
+      "title": "外国人组织法4/2000，第9条教育权",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544",
+      "publisher": "西班牙官方公报 BOE",
+      "checked": "2026-09-24",
+      "claim": "未成年人接受基础及后义务教育的权利；不自动生成签证或指定学校席位。",
+      "limit": "必须另核实入境身份和当地学校分配。"
+    },
+    {
+      "id": "SC-ES07",
+      "title": "教育部：ESO入学与免费义务教育",
+      "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/secundaria/informacion-general/acceso.html",
+      "publisher": "西班牙教育、职业培训和体育部",
+      "checked": "2026-09-24",
+      "claim": "ESO一般12—16岁且免费；外国体系学生按年龄、知识及成绩等分班。",
+      "limit": "具体学位及语言支持由自治区落实。"
+    },
+    {
+      "id": "SC-ES08",
+      "title": "教育部：Bachillerato入学要求",
+      "url": "https://educagob.educacionfpydeportes.gob.es/eu/ensenanzas/bachillerato/informacion-general/acceso.html",
+      "publisher": "西班牙教育、职业培训和体育部",
+      "checked": "2026-09-24",
+      "claim": "公立Bachillerato免费，须满足ESO毕业或其他入学资格。",
+      "limit": "免费不等于非居民未成年人可藉录取获得签证，也不保证学位。"
+    },
+    {
+      "id": "SC-ES09",
+      "title": "SERPAVI 2026住房部租金统计（基于2024年租约）",
+      "url": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4078",
+      "publisher": "西班牙住房与城市议程部",
+      "checked": "2026-09-24",
+      "claim": "Alicante、Elche、Gandia等市历史租金中位数，用作住房压力测试。",
+      "limit": "2024年申报合同统计，非2026实时挂牌价或新移民可租价格。"
+    },
+    {
+      "id": "SC-ES10",
+      "title": "社会保障局：IPREM金额表",
+      "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/730",
+      "publisher": "西班牙社会保障局",
+      "checked": "2026-09-24",
+      "claim": "当前IPREM月额€600，可推算两人非盈利居留500%门槛。",
+      "limit": "申请当年数额及适用年度须在递交前刷新；金额表不能替代领馆的资金文件审核。"
+    },
+    {
+      "id": "SC-ES11",
+      "title": "Caxton College官方收费表",
+      "url": "https://caxtoncollege.com/en/admissions/fees",
+      "publisher": "Caxton College",
+      "checked": "2026-09-24",
+      "claim": "2026/27 Y10—11月学费€981，按十期；新生、资源和交通费用另列。",
+      "limit": "英国课程私校，只作公开费用对照，不代表西班牙公校或可用签证项目。"
+    },
+    {
+      "id": "SC-ES12",
+      "title": "教育部：外国非大学学历的认证与换算",
+      "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/bachillerato/gestion-titulos.html",
+      "publisher": "西班牙教育、职业培训和体育部",
+      "checked": "2026-09-24",
+      "claim": "国外学业的homologación/convalidación需要依适用程序办理。",
+      "limit": "此页未裁定特定中国成绩单可入哪个年级。"
+    },
+    {
+      "id": "SC-ES13",
+      "title": "American School of Valencia：2026/27 Tuition and Fees",
+      "url": "https://asvalencia.org/admissions/tuition-fees/",
+      "publisher": "American School of Valencia",
+      "checked": "2026-09-24",
+      "claim": "Grade 9—10学费€9,516；另列非股东注册及一次性资本费。",
+      "limit": "国际私校报价对照，未核学位或签证担保。"
+    },
+    {
+      "id": "SC-ES14",
+      "title": "RD 1155/2024第176与183条及Hoja 49长期居留",
+      "url": "https://www.inclusion.gob.es/web/migraciones/w/49.-autorizacion-de-residencia-de-larga-duracion-nacional",
+      "publisher": "西班牙融入、社保及移民部",
+      "checked": "2026-09-24",
+      "claim": "国家长期居留通常五年合法连续居留；欧盟长期居留对停留期仅在已处居留时折半计入。",
+      "limit": "计时细节、离境天数及申请时许可需按本人纪录审核；欧盟长期居留折半法源见SC-ES01。"
+    },
+    {
+      "id": "SC-ES15",
+      "title": "Estatuto de los Trabajadores第6条及学习停留工作规则",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
+      "publisher": "西班牙官方公报 BOE",
+      "checked": "2026-09-24",
+      "claim": "16岁以下原则上不能劳动，16—17岁有特殊限制；移民工作权仍须看持有的许可。",
+      "limit": "劳动年龄不等于移民许可，移民工作规则见SC-ES01。"
+    },
+    {
+      "id": "SC-ES16",
+      "title": "Código Civil第22条：居留归化",
+      "url": "https://boe.es/eli/es/rd/1889/07/24/%281%29/con",
+      "publisher": "西班牙官方公报 BOE",
+      "checked": "2026-09-24",
+      "claim": "一般国籍申请需十年合法、连续且紧接申请的居留；两年优惠名单不含中国。",
+      "limit": "达到年限仅有申请资格，仍需满足其他条件及获批。"
+    },
+    {
+      "id": "SC-GR01",
+      "title": "Migration Code Law 5038/2023, official Gazette text",
+      "url": "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+      "publisher": "希腊政府公报",
+      "checked": "2026-09-24",
+      "claim": "第9条许可分类；第18条教育权；第106条H.1高教；第130条H.7特殊项目；第143—144条长期居民；第163(8)条I.8许可。",
+      "limit": "原始2023文本须结合2026修法阅读，特别是第130、160、161条。"
+    },
+    {
+      "id": "SC-GR02",
+      "title": "Law 5275/2026 amending the Migration Code, Gazette A17",
+      "url": "https://migration.gov.gr/wp-content/uploads/2026/02/%CE%A6%CE%95%CE%9A%CE%9117_6.2.2025.pdf",
+      "publisher": "希腊政府公报／移民及庇护部",
+      "checked": "2026-09-24",
+      "claim": "2026年第34条修订H.7；第37条修订长期居民语言证明；第38条重写十年M.2许可第161条。",
+      "limit": "网址文件名末尾写2025，PDF正文明确为2026-02-06第5275号法；须按正文与后续有效修订适用。"
+    },
+    {
+      "id": "SC-GR03",
+      "title": "Migration Code: study and exchange categories in Gazette",
+      "url": "https://migration.gov.gr/en/nomothesia-1-2/kodikas-metanasteysis/",
+      "publisher": "希腊移民及庇护部",
+      "checked": "2026-09-24",
+      "claim": "主管部发布5038/2023法律入口；所列H.1及H.7并未构成普通中学儿童加陪读父母的普遍申请类别。",
+      "limit": "缺乏该家庭的领馆书面回复和特定合格交流项目；‘未发现通道’不是所有个案例外均不可能。"
+    },
+    {
+      "id": "SC-GR04",
+      "title": "Migration Code article 163(8), sufficient-resources residence I.8",
+      "url": "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+      "publisher": "希腊政府公报",
+      "checked": "2026-09-24",
+      "claim": "I.8主申请人可携家属；许可原则上三年可续；主申请人和家属均不得在希腊受雇或自营。",
+      "limit": "个人批准仍取决于D签、来源可核的资金、保险与主管机关审理；不是儿童陪读签。"
+    },
+    {
+      "id": "SC-GR05",
+      "title": "Joint Ministerial Decision 225679/2024, Gazette B5223",
+      "url": "https://issu.uoa.gr/fileadmin/depts/uoa.gr/issu/uploads/yp-apofasi_225679_2024_GIA_YPSOS_KOSTOYS_DIABIOSIS_FEK_5223.pdf",
+      "publisher": "希腊政府公报／雅典大学法规资料库",
+      "checked": "2026-09-24",
+      "claim": "第1条规定I.8主申请人€3,500/月，配偶+20%、每子女+15%；允许按月或按年度审查合法来源资源。",
+      "limit": "有资金证明不等于签证已批，且资金门槛不是家庭实际必须花出的金额。"
+    },
+    {
+      "id": "SC-GR06",
+      "title": "Legal status of pupils, 15 July 2026",
+      "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/nomiko-kathestos-ton-mathiton-trion-ekpaidefsi-prosfygon-kai-metanaston",
+      "publisher": "希腊教育部",
+      "checked": "2026-09-24",
+      "claim": "5038/2023第18条保障境内第三国未成年学生教育活动权，包含居留未规范者。",
+      "limit": "此为境内受教育权，不能当作境外入境签证或父母工作权。"
+    },
+    {
+      "id": "SC-GR07",
+      "title": "2026—27 General and Vocational Lyceum e-enrolment",
+      "url": "https://www.gov.gr/ipiresies/ekpaideuse/eggraphe-se-skholeio/eggraphe-ananeose-eggraphes-se-geniko-kai-epaggelmatiko-lukeio",
+      "publisher": "希腊政府／教育部",
+      "checked": "2026-09-24",
+      "claim": "公布2026—27公立GEL与EPAL报名、续报、材料及结果程序。",
+      "limit": "报名窗口与学校分配不保证境外学生移民资格、年级等值或录取。"
+    },
+    {
+      "id": "SC-GR08",
+      "title": "Reception Classes I and II ZEP, 15 July 2026",
+      "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/takseis-ypodoxis-t-y-i-kai-ii-zep-ekpaidefsi-prosfygon-kai-metanaston",
+      "publisher": "希腊教育部",
+      "checked": "2026-09-24",
+      "claim": "对希腊语不足学生提供接待班；I类可至每周15小时希腊语，II类有后续支持。",
+      "limit": "资源按学校与学生情况实施；不能推断特定学校有名额或全英文教学。"
+    },
+    {
+      "id": "SC-GR09",
+      "title": "Pinewood Tuition 2026—2027",
+      "url": "https://www.pinewood.gr/admissions/tuition",
+      "publisher": "Pinewood International School of Thessaloniki",
+      "checked": "2026-09-24",
+      "claim": "Grades 6—12年度学费€14,120，IBDP €14,300。",
+      "limit": "学费不是录取、寄宿、保险、父母住房或签证报价。"
+    },
+    {
+      "id": "SC-GR10",
+      "title": "International School of Athens Tuition and Fees 2026—2027",
+      "url": "https://isa.edu.gr/uploads/files/698f0e2dcf6b8/ISA%20Tuition%20and%20Fees%202026-2027.pdf",
+      "publisher": "International School of Athens",
+      "checked": "2026-09-24",
+      "claim": "Grade 10 €14,500，11—12 €15,000，新生注册€1,700及校车等另列。",
+      "limit": "须实问具体学位、语言与课程是否适合；此文件并非签证文件。"
+    },
+    {
+      "id": "SC-GR11",
+      "title": "ACS Athens Tuition and Fees 2026—2027",
+      "url": "https://www.acs.gr/admissions_financial_tuition_fees/",
+      "publisher": "ACS Athens",
+      "checked": "2026-09-24",
+      "claim": "Grades 9—12公布总额€16,348及注册、EFL/ESL和IB等附加费用。",
+      "limit": "不是家庭总花费或批准就读的证明。"
+    },
+    {
+      "id": "SC-GR12",
+      "title": "Household Budget Survey 2024",
+      "url": "https://lms.statistics.gr/documents/20181/18678055/DT_eop_2024_EN.pdf/d33a2eda-0a74-7516-6cfe-75cfae8c4b40",
+      "publisher": "希腊统计局 ELSTAT",
+      "checked": "2026-09-24",
+      "claim": "2024全国家庭平均月消费€1,724.54。",
+      "limit": "2024全国平均非2026新移民两人雅典／塞萨洛尼基可租房报价；预算表是本研究明确假设。"
+    },
+    {
+      "id": "SC-GR13",
+      "title": "Framework for refugee and migrant pupil education",
+      "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/thesmiko-plaisio-ekpaidefsi-prosfygon-kai-metanaston",
+      "publisher": "希腊教育部",
+      "checked": "2026-09-24",
+      "claim": "解释第18条中学毕业者进入高教申请原则；同时列2024中学招生规则。",
+      "limit": "高中毕业准入原则不等于大学录取、免学费或自动学生居留。"
+    },
+    {
+      "id": "SC-GR14",
+      "title": "Greek Citizenship Code",
+      "url": "https://www.ypes.gr/kodikas-ellinikis-ithageneias/",
+      "publisher": "希腊内政部",
+      "checked": "2026-09-24",
+      "claim": "一般归化合法居留、许可、语言和社会经济融入标准；含七年与特定十二年规则。",
+      "limit": "国籍审查独立于移民许可；须依申请时有效法和具体居留种类。"
+    },
+    {
+      "id": "SC-GR15",
+      "title": "Citizenship through birth or school attendance",
+      "url": "https://www.ypes.gr/diadikasies-ktisis-e-i/gennisi-foitisi/",
+      "publisher": "希腊内政部",
+      "checked": "2026-09-24",
+      "claim": "列九年希腊学校或六年中学等受教育取得国籍的具体程序。",
+      "limit": "仅是法定申请途径；本案起始年龄不能直接推定满足完成年数与持续合法居留。"
+    },
+    {
+      "id": "SC-GR16",
+      "title": "Strategic plan for primary and secondary education 2025—2029",
+      "url": "https://www.minedu.gov.gr/publications/docs2026/%CE%A3%CE%A4%CE%A1%CE%91%CE%A4%CE%97%CE%93%CE%99%CE%9A%CE%9F%CE%A3_%CE%A3%CE%A7%CE%95%CE%94%CE%99%CE%91%CE%A3%CE%9C%CE%9F%CE%A3_%CE%A4%CE%9F%CE%9C%CE%95%CE%91_%CE%A0%CE%91%CE%99%CE%94%CE%95%CE%99%CE%91%CE%A3_final_07042026.pdf",
+      "publisher": "希腊教育部",
+      "checked": "2026-09-24",
+      "claim": "说明公立教育及教材免费。",
+      "limit": "免费学费仍不解决居留、语言或全部家庭生活费。"
+    },
+    {
+      "id": "SC-GR17",
+      "title": "Euro foreign exchange reference rate, CNY",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-cny.et.html",
+      "publisher": "欧洲中央银行",
+      "checked": "2026-09-24",
+      "claim": "欧洲央行发布人民币参考汇率；本报告所有预算换算统一另取€1=¥8.00作为审慎规划假设。",
+      "limit": "€1=¥8.00不是欧洲央行或银行的实时成交报价；实际汇率会变化。"
+    },
+    {
+      "id": "SC-GR18",
+      "title": "Legacy financially independent persons guidance under Law 4251/2014",
+      "url": "https://apdattikis.gov.gr/en/process/2-2-1-financially-independent-individuals-article-20-paragraph-1-law-4251-14-issuance/",
+      "publisher": "阿提卡地方行政机关",
+      "checked": "2026-09-24",
+      "claim": "旧页面仍显示€2,000/月和两年许可，可作为识别过时引用的反例。",
+      "limit": "此页依据旧法，不用于2026 I.8门槛或许可期限。"
+    },
+    {
+      "id": "SC-W01",
+      "title": "英国：10年合法居留资格",
+      "url": "https://www.gov.uk/long-residence/eligibility",
+      "publisher": "GOV.UK",
+      "checked": "2026-09-24",
+      "claim": "多数合法许可可累计；访客、短期学习等排除，连续性及语言等另审。",
+      "limit": "不是所有入境时间都算，也不赋予父母随行身份。"
+    },
+    {
+      "id": "SC-W02",
+      "title": "英国移民规则：Appendix Long Residence",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-long-residence",
+      "publisher": "Home Office",
+      "checked": "2026-09-24",
+      "claim": "LR各项规定十年、排除类别、当前许可及其他定居要求。",
+      "limit": "按申请时规则审核；不能锁定未来十年政策。"
+    },
+    {
+      "id": "SC-W03",
+      "title": "英国陪读家长签：审理指南",
+      "url": "https://www.gov.uk/government/publications/parent-of-a-child-student-caseworker-guidance/parent-of-a-child-student-caseworker-guidance-accessible",
+      "publisher": "Home Office",
+      "checked": "2026-09-24",
+      "claim": "Parent of a Child Student陪同4—11岁孩子；不能工作或学习。",
+      "limit": "不是高中生父母的一般长期陪读入口。"
+    },
+    {
+      "id": "SC-W04",
+      "title": "英国：定居改革咨询",
+      "url": "https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible",
+      "publisher": "Home Office",
+      "checked": "2026-09-24",
+      "claim": "讨论改变定居体系，现行长期居留与改革提议须区分。",
+      "limit": "咨询不是已实施的全部新规则；申请前复查生效法规。"
+    },
+    {
+      "id": "SC-W05",
+      "title": "卢森堡：归化取得国籍",
+      "url": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/naturalisation.html",
+      "publisher": "Guichet.lu",
+      "checked": "2026-09-24",
+      "claim": "成年人五年合法居住、最后一年连续、卢语及公民知识、良好品行。",
+      "limit": "网页未逐类裁定学生记录；对学习许可计时的判断须国籍处书面确认。"
+    },
+    {
+      "id": "SC-W06",
+      "title": "卢森堡：第三国高教学生居留",
+      "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html",
+      "publisher": "Guichet.lu",
+      "checked": "2026-09-24",
+      "claim": "高教学生必须满足认可课程、资金与保险等入境条件。",
+      "limit": "不是普通境外中学生携父母的许可。"
+    },
+    {
+      "id": "SC-W07",
+      "title": "芬兰：现行国籍居住年限",
+      "url": "https://migri.fi/en/period-of-residence",
+      "publisher": "Migri",
+      "checked": "2026-09-24",
+      "claim": "通常八年，满足语言条件可五年；连续合法居住和出境另算。",
+      "limit": "2024-10-01后申请规则；不得套旧四年说法。"
+    },
+    {
+      "id": "SC-W08",
+      "title": "芬兰：国籍常见问题",
+      "url": "https://migri.fi/faq-finnish-citizenship",
+      "publisher": "Migri",
+      "checked": "2026-09-24",
+      "claim": "A许可时间计入；B许可时间折半，另审许可转换及实际居住。",
+      "limit": "持学生身份不代表每个学年都全额计入。"
+    },
+    {
+      "id": "SC-W09",
+      "title": "芬兰：学生A与B许可",
+      "url": "https://migri.fi/en/study-in-finland",
+      "publisher": "Migri",
+      "checked": "2026-09-24",
+      "claim": "高教学位学习通常为A，其他学习通常B。",
+      "limit": "具体课程及家庭成员许可须单独核准。"
+    },
+    {
+      "id": "SC-W10",
+      "title": "芬兰：国籍生活来源要求",
+      "url": "https://migri.fi/en/citizenship-application/means-of-support",
+      "publisher": "Migri",
+      "checked": "2026-09-24",
+      "claim": "2025-12-17后生活来源要求；可申报合法储蓄及家庭资金，不限本人工资。",
+      "limit": "近两年失业福利／社会救济超过合计三个月有影响；资金必须能溯源。"
+    },
+    {
+      "id": "SC-W11",
+      "title": "荷兰：归化条件",
+      "url": "https://ind.nl/en/dutch-citizenship/becoming-a-dutch-national-through-naturalisation",
+      "publisher": "IND",
+      "checked": "2026-09-24",
+      "claim": "一般五年有效连续居留，申请及审理等阶段须符合许可要求。",
+      "limit": "学习时间和申请当日的许可性质是两道门。"
+    },
+    {
+      "id": "SC-W12",
+      "title": "荷兰：临时与非临时居留目的",
+      "url": "https://ind.nl/en/becoming-a-dutch-national-temporary-and-non-temporary-purposes-of-residence",
+      "publisher": "IND",
+      "checked": "2026-09-24",
+      "claim": "学习与求职年属临时目的；须转合格非临时目的才可按条件申请国籍。",
+      "limit": "不一定只能工作转换，也可真实符合其他资格；不能虚构家庭关系。"
+    },
+    {
+      "id": "SC-W13",
+      "title": "爱尔兰：取得公民身份指南",
+      "url": "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/",
+      "publisher": "Irish Immigration",
+      "checked": "2026-09-24",
+      "claim": "一般学生时间不算；特定随家人合法入境的受抚养青年另有酌情考虑。",
+      "limit": "不是所有国际学生的例外，18—23岁及就学／依赖条件须逐项审核。"
+    },
+    {
+      "id": "SC-W14",
+      "title": "加拿大：公民资格",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+      "publisher": "IRCC",
+      "checked": "2026-09-24",
+      "claim": "先有PR；此前临时居民天数可按半天、最多365天抵入公民居住要求。",
+      "limit": "学签时间折算不创造PR申请资格。"
+    },
+    {
+      "id": "SC-W15",
+      "title": "新西兰：Permanent Resident Visa",
+      "url": "https://www.immigration.govt.nz/visas/permanent-resident-visa/",
+      "publisher": "Immigration New Zealand",
+      "checked": "2026-09-24",
+      "claim": "通常先持Resident Visa至少两年，再满足条件及联系要求。",
+      "limit": "Student Visa不是Resident Visa。"
+    },
+    {
+      "id": "SC-W16",
+      "title": "澳洲：永久居民资格概览",
+      "url": "https://immi.homeaffairs.gov.au/visas/permanent-resident/overview",
+      "publisher": "Department of Home Affairs",
+      "checked": "2026-09-24",
+      "claim": "先符合某类永久签证资格，不是读书年数自动转PR。",
+      "limit": "未穷尽所有家庭、职业或人道类别；不把例外当常规学生路线。"
+    },
+    {
+      "id": "SC-W17",
+      "title": "美国：入籍资格官方指南",
+      "url": "https://www.uscis.gov/sites/default/files/document/guides/M-1122.pdf",
+      "publisher": "USCIS",
+      "checked": "2026-09-24",
+      "claim": "通常入籍居住要求建立在先取得绿卡的基础上。",
+      "limit": "不能把F-1学生五年等同绿卡五年；具体绿卡类别另审。"
+    },
+    {
+      "id": "SC-W18",
+      "title": "日本：永住许可条件概览",
+      "url": "https://www.moj.go.jp/isa/content/001425346.pdf",
+      "publisher": "日本出入国在留管理厅",
+      "checked": "2026-09-24",
+      "claim": "一般十年连续在留内，须有合格工作或居住身份累计所需阶段及其他条件。",
+      "limit": "不是十年纯留学自动永住；部分身份、特例有不同规则。"
+    },
+    {
+      "id": "SC-W19",
+      "title": "阿根廷：归化取得国籍",
+      "url": "https://www.argentina.gob.ar/servicio/obtener-ciudadania-argentina-por-naturalizacion",
+      "publisher": "阿根廷政府",
+      "checked": "2026-09-24",
+      "claim": "成年人临时／永久居民连续合法两年且期间不离境；合法职业或生活来源等另审。",
+      "limit": "非发达英语国家；短期停留不等同正式临时居留，未成年计时须确认。"
+    },
+    {
+      "id": "SC-W20",
+      "title": "阿根廷：正式学生临时居留",
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-estudiante",
+      "publisher": "阿根廷政府",
+      "checked": "2026-09-24",
+      "claim": "认可中学、高教等正式学习可申请学生临时居留。",
+      "limit": "与非正式短课的过境式身份不同；结合归化规则只是候选链，不是获批保证。"
+    },
+    {
+      "id": "SC-W21",
+      "title": "中国国籍法",
+      "url": "https://www.nia.gov.cn/n741440/n741547/c1013967/content.html",
+      "publisher": "国家移民管理局",
+      "checked": "2026-09-24",
+      "claim": "第三条不承认双重国籍；第九条规定定居外国并自愿取得外国国籍的中国公民丧失中国国籍。",
+      "limit": "永居与入籍不同；个人国籍认定及未成年情形应专门核实。"
+    }
+  ],
+  "countryPages": [
+    {
+      "id": "portugal-overview",
+      "label": "判断",
+      "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+      "summary": "中学学生路线有法律入口，但父母没有随学生自动获得的陪读居留；2026年修法进一步堵住用普通中国籍孩子套用父母特别居留的读法。",
+      "sections": [
+        {
+          "id": "pt-decision",
+          "title": "先看四道门",
+          "paragraphs": [
+            "本研究固定画像：大陆中国籍孩子约13—17岁开始规划，一名35—45岁、学历与外语较弱的父母同住；父母不以读硕士或先取得专业工作签证作为默认前提。法律允许研究孩子的中学签证，但家庭方案须同时解决两人的身份、监护、教育与净现金流。13岁尚低于现行中学签证年龄下限；16岁虽在范围内，亦不能跳过录取与领馆审查。"
+          ],
+          "bullets": [
+            "绿灯只代表条文存在，不代表学校接受境外个人申请，也不代表父母获准同住。",
+            "孩子持中学居留的补充工作权受学习主业和未成年人劳动法限制，不把兼职工资写入基本预算。"
+          ],
+          "table": {
+            "headers": [
+              "检验项",
+              "已核事实",
+              "当前结论"
+            ],
+            "rows": [
+              [
+                "中学入境",
+                "第62条和14—21岁规定；学校项目、住宿、保险须证明",
+                "条件成立才可递签"
+              ],
+              [
+                "父母身份",
+                "学生家庭团聚不列父母；新第122(1)(k)要求葡籍子女",
+                "无现成陪读签"
+              ],
+              [
+                "父母工作",
+                "自身居留获批后再看许可性质与真实岗位",
+                "当前按€0抵扣"
+              ],
+              [
+                "五年目标",
+                "两人居留与预算分别计，国籍期限又不同",
+                "未证实"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT02",
+            "SC-PT03",
+            "SC-PT05",
+            "SC-PT07",
+            "SC-PT14"
+          ]
+        },
+        {
+          "id": "pt-route-choice",
+          "title": "方案边界：孩子主体与父母独立路线",
+          "paragraphs": [
+            "可行的孩子主体版本需要学校出具可用于第62条的项目及录取文件，孩子有真实适龄监护和住宿安排，而父母另获长期居留。若父母凭自有收入D7、真实劳动合同或其他自身资格入境，亲子可以实际同住，但法律主轴已成为父母自身路线；不能把此类情形营销为学生签自带陪读与工作。短期探亲亦不能代替五年居留。"
+          ],
+          "bullets": [
+            "没有父母许可时，监护安排须真实，不能用挂名监护或虚假地址。",
+            "本报告没有学校录取、领馆个案答复、雇主合同或批准的家长居留。"
+          ],
+          "table": {
+            "headers": [],
+            "rows": []
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT06",
+            "SC-PT07"
+          ]
+        }
+      ],
+      "file": "south-child-portugal-overview.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "portugal",
+      "keywords": "葡萄牙 portugal-overview Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-PT01",
+        "southchild-SC-PT02",
+        "southchild-SC-PT03",
+        "southchild-SC-PT05",
+        "southchild-SC-PT07",
+        "southchild-SC-PT14",
+        "southchild-SC-PT06"
+      ],
+      "citeAnchors": {
+        "southchild-SC-PT01": "cite-southchild-SC-PT01-1",
+        "southchild-SC-PT02": "cite-southchild-SC-PT02-2",
+        "southchild-SC-PT03": "cite-southchild-SC-PT03-3",
+        "southchild-SC-PT05": "cite-southchild-SC-PT05-4",
+        "southchild-SC-PT07": "cite-southchild-SC-PT07-5",
+        "southchild-SC-PT14": "cite-southchild-SC-PT14-6",
+        "southchild-SC-PT06": "cite-southchild-SC-PT06-8"
+      },
+      "html": "<section id=\"sc-pt-decision\"><h2>先看四道门</h2><p>本研究固定画像：大陆中国籍孩子约13—17岁开始规划，一名35—45岁、学历与外语较弱的父母同住；父母不以读硕士或先取得专业工作签证作为默认前提。法律允许研究孩子的中学签证，但家庭方案须同时解决两人的身份、监护、教育与净现金流。13岁尚低于现行中学签证年龄下限；16岁虽在范围内，亦不能跳过录取与领馆审查。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">检验项</th><th scope=\"col\">已核事实</th><th scope=\"col\">当前结论</th></tr></thead><tbody><tr><td>中学入境</td><td>第62条和14—21岁规定；学校项目、住宿、保险须证明</td><td>条件成立才可递签</td></tr><tr><td>父母身份</td><td>学生家庭团聚不列父母；新第122(1)(k)要求葡籍子女</td><td>无现成陪读签</td></tr><tr><td>父母工作</td><td>自身居留获批后再看许可性质与真实岗位</td><td>当前按€0抵扣</td></tr><tr><td>五年目标</td><td>两人居留与预算分别计，国籍期限又不同</td><td>未证实</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>绿灯只代表条文存在，不代表学校接受境外个人申请，也不代表父母获准同住。</li><li>孩子持中学居留的补充工作权受学习主业和未成年人劳动法限制，不把兼职工资写入基本预算。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-1\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT02-2\" data-ref=\"southchild-SC-PT02\" href=\"#ref-southchild-SC-PT02\">[SC-PT02]</a> <a id=\"cite-southchild-SC-PT03-3\" data-ref=\"southchild-SC-PT03\" href=\"#ref-southchild-SC-PT03\">[SC-PT03]</a> <a id=\"cite-southchild-SC-PT05-4\" data-ref=\"southchild-SC-PT05\" href=\"#ref-southchild-SC-PT05\">[SC-PT05]</a> <a id=\"cite-southchild-SC-PT07-5\" data-ref=\"southchild-SC-PT07\" href=\"#ref-southchild-SC-PT07\">[SC-PT07]</a> <a id=\"cite-southchild-SC-PT14-6\" data-ref=\"southchild-SC-PT14\" href=\"#ref-southchild-SC-PT14\">[SC-PT14]</a></p></section>\n<section id=\"sc-pt-route-choice\"><h2>方案边界：孩子主体与父母独立路线</h2><p>可行的孩子主体版本需要学校出具可用于第62条的项目及录取文件，孩子有真实适龄监护和住宿安排，而父母另获长期居留。若父母凭自有收入D7、真实劳动合同或其他自身资格入境，亲子可以实际同住，但法律主轴已成为父母自身路线；不能把此类情形营销为学生签自带陪读与工作。短期探亲亦不能代替五年居留。</p><ul class=\"yv-checks\"><li>没有父母许可时，监护安排须真实，不能用挂名监护或虚假地址。</li><li>本报告没有学校录取、领馆个案答复、雇主合同或批准的家长居留。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-7\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT06-8\" data-ref=\"southchild-SC-PT06\" href=\"#ref-southchild-SC-PT06\">[SC-PT06]</a> <a id=\"cite-southchild-SC-PT07-9\" data-ref=\"southchild-SC-PT07\" href=\"#ref-southchild-SC-PT07\">[SC-PT07]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-pt-decision",
+          "title": "先看四道门"
+        },
+        {
+          "id": "sc-pt-route-choice",
+          "title": "方案边界：孩子主体与父母独立路线"
+        }
+      ]
+    },
+    {
+      "id": "portugal-route",
+      "label": "入境与教育",
+      "title": "中学签证、2026新法与18岁出口",
+      "summary": "中学签证可研究交流项目或认可学校的个别教育项目；第92条的新课程范围必须覆盖任何学校或职业课的宣传说法。",
+      "sections": [
+        {
+          "id": "pt-entry",
+          "title": "从中国申请：一封普通录取信还不够",
+          "paragraphs": [
+            "《外国人法》第3条把中学生定义为参加中学交换，或个别获认可学校教育项目（projeto educativo）的第三国公民；第62(6)条要求年龄、学校接纳、寄宿家庭或合格住宿。2007年年龄规章仍列14—21岁。第62(1)条还要求一般签证条件与覆盖预定停留的健康保险。孩子在葡境内有受教育权、可报公校，不能倒推境外领馆必须发签证。"
+          ],
+          "bullets": [
+            "向拟报学校索取项目法律性质、官方认可、课程ISCED/CITE层级、正式offer、寄宿／家长同住是否合乎项目规则的书面文件。",
+            "向中国所属葡萄牙领馆核对未成年申请人本人、另一法定监护人同意、住宿、保险、资金及签证类别；AIMA再确认落地后的居留受理。"
+          ],
+          "table": {
+            "headers": [
+              "阶段",
+              "学生需要证明",
+              "未解决问题"
+            ],
+            "rows": [
+              [
+                "境外签证",
+                "14—21岁、认可项目录取、住宿、保险及一般条件",
+                "普通公校是否提供可签证个别项目"
+              ],
+              [
+                "入境后居留",
+                "第92条、在校注册、健康保障与第77条条件",
+                "一年期许可获批及续签"
+              ],
+              [
+                "18岁转段",
+                "毕业证、后续高教录取或真实就业",
+                "新许可类别与家长身份能否维持"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT03",
+            "SC-PT04",
+            "SC-PT09"
+          ]
+        },
+        {
+          "id": "pt-new-law",
+          "title": "9月11日生效的新第92条",
+          "paragraphs": [
+            "第62/2026号法于2026年9月10日公布、次日生效：第92(1)条学生居留适用中学或CITE 2011第4级课程，原第92(4)款废止。AIMA学生网页仍写旧的QNQ 4／5及更宽的培训范围；整合法第62(11)款仍留有QNQ 4／5签证措辞。签证条款和居留新条款不可自动等同，特别是职业课程须由领馆和AIMA按具体课程出具一致的书面意见。"
+          ],
+          "bullets": [
+            "不把一所免费的职业学校、旧AIMA文字或已废条款视为稳定的境外签证加居留链。",
+            "若走普通中学，也须核实学校教育项目是否符合第3(n)及第62(6)条。"
+          ],
+          "table": {
+            "headers": [
+              "材料",
+              "仍可使用的内容",
+              "不能据此推出"
+            ],
+            "rows": [
+              [
+                "现行第62条",
+                "中学项目签证与年龄、住宿条件",
+                "任意普通中学offer自动获签"
+              ],
+              [
+                "2026新第92条",
+                "中学或CITE 4居留",
+                "旧QNQ 5培训自动续居留"
+              ],
+              [
+                "AIMA旧网页",
+                "可参考材料清单",
+                "凌驾新法的课程范围"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT02",
+            "SC-PT04"
+          ]
+        },
+        {
+          "id": "pt-school-exit",
+          "title": "葡语、公校与大学出口",
+          "paragraphs": [
+            "6—18岁在葡的义务教育原则上普及且公校免学费；这里解决的是已合法在境内学生的教育收费，不替代境外签证资格。普通公校以葡语学习，教育部PLNM给母语非葡语学生作语言分级与支持，但不能理解成英语授课。转入高中前要由学校按中国成绩作年级与课程评估；上大学需要相应高中完成资格及目标专业入学考试，证书名称和考试科目应逐校核实。"
+          ],
+          "bullets": [
+            "职业课程须先问是否授予中等教育完成证书、大学报考资格、实习性质及CITE 2011层级。",
+            "中国学籍、成绩单、在读证明、监护权材料应在付费前整理；课程延长会推高第五年成本。"
+          ],
+          "table": {
+            "headers": [],
+            "rows": []
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT08",
+            "SC-PT09",
+            "SC-PT10"
+          ]
+        }
+      ],
+      "file": "south-child-portugal-route.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "portugal",
+      "keywords": "葡萄牙 portugal-route Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-PT01",
+        "southchild-SC-PT03",
+        "southchild-SC-PT04",
+        "southchild-SC-PT09",
+        "southchild-SC-PT02",
+        "southchild-SC-PT08",
+        "southchild-SC-PT10"
+      ],
+      "citeAnchors": {
+        "southchild-SC-PT01": "cite-southchild-SC-PT01-1",
+        "southchild-SC-PT03": "cite-southchild-SC-PT03-2",
+        "southchild-SC-PT04": "cite-southchild-SC-PT04-3",
+        "southchild-SC-PT09": "cite-southchild-SC-PT09-4",
+        "southchild-SC-PT02": "cite-southchild-SC-PT02-6",
+        "southchild-SC-PT08": "cite-southchild-SC-PT08-8",
+        "southchild-SC-PT10": "cite-southchild-SC-PT10-10"
+      },
+      "html": "<section id=\"sc-pt-entry\"><h2>从中国申请：一封普通录取信还不够</h2><p>《外国人法》第3条把中学生定义为参加中学交换，或个别获认可学校教育项目（projeto educativo）的第三国公民；第62(6)条要求年龄、学校接纳、寄宿家庭或合格住宿。2007年年龄规章仍列14—21岁。第62(1)条还要求一般签证条件与覆盖预定停留的健康保险。孩子在葡境内有受教育权、可报公校，不能倒推境外领馆必须发签证。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">阶段</th><th scope=\"col\">学生需要证明</th><th scope=\"col\">未解决问题</th></tr></thead><tbody><tr><td>境外签证</td><td>14—21岁、认可项目录取、住宿、保险及一般条件</td><td>普通公校是否提供可签证个别项目</td></tr><tr><td>入境后居留</td><td>第92条、在校注册、健康保障与第77条条件</td><td>一年期许可获批及续签</td></tr><tr><td>18岁转段</td><td>毕业证、后续高教录取或真实就业</td><td>新许可类别与家长身份能否维持</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>向拟报学校索取项目法律性质、官方认可、课程ISCED/CITE层级、正式offer、寄宿／家长同住是否合乎项目规则的书面文件。</li><li>向中国所属葡萄牙领馆核对未成年申请人本人、另一法定监护人同意、住宿、保险、资金及签证类别；AIMA再确认落地后的居留受理。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-1\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT03-2\" data-ref=\"southchild-SC-PT03\" href=\"#ref-southchild-SC-PT03\">[SC-PT03]</a> <a id=\"cite-southchild-SC-PT04-3\" data-ref=\"southchild-SC-PT04\" href=\"#ref-southchild-SC-PT04\">[SC-PT04]</a> <a id=\"cite-southchild-SC-PT09-4\" data-ref=\"southchild-SC-PT09\" href=\"#ref-southchild-SC-PT09\">[SC-PT09]</a></p></section>\n<section id=\"sc-pt-new-law\"><h2>9月11日生效的新第92条</h2><p>第62/2026号法于2026年9月10日公布、次日生效：第92(1)条学生居留适用中学或CITE 2011第4级课程，原第92(4)款废止。AIMA学生网页仍写旧的QNQ 4／5及更宽的培训范围；整合法第62(11)款仍留有QNQ 4／5签证措辞。签证条款和居留新条款不可自动等同，特别是职业课程须由领馆和AIMA按具体课程出具一致的书面意见。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">材料</th><th scope=\"col\">仍可使用的内容</th><th scope=\"col\">不能据此推出</th></tr></thead><tbody><tr><td>现行第62条</td><td>中学项目签证与年龄、住宿条件</td><td>任意普通中学offer自动获签</td></tr><tr><td>2026新第92条</td><td>中学或CITE 4居留</td><td>旧QNQ 5培训自动续居留</td></tr><tr><td>AIMA旧网页</td><td>可参考材料清单</td><td>凌驾新法的课程范围</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>不把一所免费的职业学校、旧AIMA文字或已废条款视为稳定的境外签证加居留链。</li><li>若走普通中学，也须核实学校教育项目是否符合第3(n)及第62(6)条。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-5\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT02-6\" data-ref=\"southchild-SC-PT02\" href=\"#ref-southchild-SC-PT02\">[SC-PT02]</a> <a id=\"cite-southchild-SC-PT04-7\" data-ref=\"southchild-SC-PT04\" href=\"#ref-southchild-SC-PT04\">[SC-PT04]</a></p></section>\n<section id=\"sc-pt-school-exit\"><h2>葡语、公校与大学出口</h2><p>6—18岁在葡的义务教育原则上普及且公校免学费；这里解决的是已合法在境内学生的教育收费，不替代境外签证资格。普通公校以葡语学习，教育部PLNM给母语非葡语学生作语言分级与支持，但不能理解成英语授课。转入高中前要由学校按中国成绩作年级与课程评估；上大学需要相应高中完成资格及目标专业入学考试，证书名称和考试科目应逐校核实。</p><ul class=\"yv-checks\"><li>职业课程须先问是否授予中等教育完成证书、大学报考资格、实习性质及CITE 2011层级。</li><li>中国学籍、成绩单、在读证明、监护权材料应在付费前整理；课程延长会推高第五年成本。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT08-8\" data-ref=\"southchild-SC-PT08\" href=\"#ref-southchild-SC-PT08\">[SC-PT08]</a> <a id=\"cite-southchild-SC-PT09-9\" data-ref=\"southchild-SC-PT09\" href=\"#ref-southchild-SC-PT09\">[SC-PT09]</a> <a id=\"cite-southchild-SC-PT10-10\" data-ref=\"southchild-SC-PT10\" href=\"#ref-southchild-SC-PT10\">[SC-PT10]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-pt-entry",
+          "title": "从中国申请：一封普通录取信还不够"
+        },
+        {
+          "id": "sc-pt-new-law",
+          "title": "9月11日生效的新第92条"
+        },
+        {
+          "id": "sc-pt-school-exit",
+          "title": "葡语、公校与大学出口"
+        }
+      ]
+    },
+    {
+      "id": "portugal-costs",
+      "label": "成本",
+      "title": "两人年度与五年净支出：只用可核数字",
+      "summary": "公校零学费不是零生活费；国际校高中官方收费可做排除测试，租金政策上限只能做敏感性参照。",
+      "sections": [
+        {
+          "id": "pt-school-fees",
+          "title": "学校收费对比",
+          "paragraphs": [
+            "公立义务教育按法规免学费及入学、上课、认证相关费用，但餐食、日常交通、校服或个人材料需按校与住址核对。Oporto British School的2026/27价目给出高中阶段可验证的英语教育代价：IGCSE Forms 9—10年付€15,315，IBDP Forms 11—12年付€17,570，另每年维护€745、学生保险€55；入学申请€160、录取后€475及一学期可退押金另计。校方未给本家庭offer。"
+          ],
+          "bullets": [
+            "IGCSE年固定项€16,115，IBDP年固定项€18,370；考试费、餐食、交通及押金不含，不能当作完整开支。",
+            "按13—17岁实际入读年级计算；不用较低的Forms 6—8收费替代高中价。"
+          ],
+          "table": {
+            "headers": [
+              "学校路径",
+              "2026/27已知年固定教育成本",
+              "费用含义"
+            ],
+            "rows": [
+              [
+                "公立义务教育",
+                "€0法定学费",
+                "不含两人生活，且不证明境外入境"
+              ],
+              [
+                "OBS IGCSE 9—10",
+                "€16,115",
+                "€15,315学费＋€800年必缴项"
+              ],
+              [
+                "OBS IBDP 11—12",
+                "€18,370",
+                "€17,570学费＋€800年必缴项"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT08",
+            "SC-PT11"
+          ]
+        },
+        {
+          "id": "pt-rent-income",
+          "title": "住房与工资：不要拿政策数字冒充报价",
+          "paragraphs": [
+            "葡萄牙住房门户的2026 T2“可接受最高租金”是特定政策的行政上限，不是实时挂牌、成交中位数或家庭一定租得到的价格：Leiria €560、Braga €671、Porto €1,118每月。2026法定最低工资为每月税前€920，只说明工资地板，不等于这名父母能获得合同或净收入。孩子学生签不会授权父母上班；无家长许可和岗位时，收入抵扣按零。"
+          ],
+          "bullets": [
+            "逐城取得可签租约，列押金、水电、网络、冬季能源、食物、医保、通勤、回国机票、监护及学校附加费。",
+            "只有真实工作许可、劳动合同、排班及税社保数据齐全，才能把父母税后工资从家庭总开支扣除。"
+          ],
+          "table": {
+            "headers": [
+              "城市",
+              "2026 T2政策上限",
+              "12个月政策参照",
+              "限制"
+            ],
+            "rows": [
+              [
+                "Leiria",
+                "€560/月",
+                "€6,720",
+                "非租房报价"
+              ],
+              [
+                "Braga",
+                "€671/月",
+                "€8,052",
+                "非租房报价"
+              ],
+              [
+                "Porto",
+                "€1,118/月",
+                "€13,416",
+                "非租房报价"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT12",
+            "SC-PT13",
+            "SC-PT07"
+          ]
+        },
+        {
+          "id": "pt-five-budget",
+          "title": "人民币净支出验算表",
+          "paragraphs": [
+            "年度目标定义为“全年两人真实总支出－家长已获准工作且实收税后工资≤人民币20万元”；五年为各年净支出合计≤100万元。欧元开支须用付款时的实际换汇成本换算人民币，另为汇率与租金变动留空间。签证要求的可用资金与家庭五年预算是两项不同审查；即使纸面净支出达标，也不能代替领馆接受的存款或持续收入证明。"
+          ],
+          "bullets": [
+            "现在只能填入公开校费、政策租金参照及工资地板，不能凭此算出完整两人生活费。",
+            "五年逐年列孩子年龄／学段、学校正式收费、租约、保险、家长许可、税后工资、年度净额与累计净额；18岁大学学费另算。"
+          ],
+          "table": {
+            "headers": [
+              "年次",
+              "必须拿到的凭据",
+              "净额规则"
+            ],
+            "rows": [
+              [
+                "第1年",
+                "孩子offer、签证、父母许可、住址、保险",
+                "含首次入学费、押金现金流"
+              ],
+              [
+                "第2—3年",
+                "续签、学校账单、正式租约",
+                "只扣已发生的税后工资"
+              ],
+              [
+                "第4—5年",
+                "18岁后学费与身份变更、居留史",
+                "汇总五年人民币净额"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT04",
+            "SC-PT07",
+            "SC-PT08",
+            "SC-PT11",
+            "SC-PT12",
+            "SC-PT13",
+            "SC-PT16"
+          ]
+        }
+      ],
+      "file": "south-child-portugal-costs.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "portugal",
+      "keywords": "葡萄牙 portugal-costs Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-PT08",
+        "southchild-SC-PT11",
+        "southchild-SC-PT12",
+        "southchild-SC-PT13",
+        "southchild-SC-PT07",
+        "southchild-SC-PT04",
+        "southchild-SC-PT16"
+      ],
+      "citeAnchors": {
+        "southchild-SC-PT08": "cite-southchild-SC-PT08-1",
+        "southchild-SC-PT11": "cite-southchild-SC-PT11-2",
+        "southchild-SC-PT12": "cite-southchild-SC-PT12-3",
+        "southchild-SC-PT13": "cite-southchild-SC-PT13-4",
+        "southchild-SC-PT07": "cite-southchild-SC-PT07-5",
+        "southchild-SC-PT04": "cite-southchild-SC-PT04-6",
+        "southchild-SC-PT16": "cite-southchild-SC-PT16-12"
+      },
+      "html": "<section id=\"sc-pt-school-fees\"><h2>学校收费对比</h2><p>公立义务教育按法规免学费及入学、上课、认证相关费用，但餐食、日常交通、校服或个人材料需按校与住址核对。Oporto British School的2026/27价目给出高中阶段可验证的英语教育代价：IGCSE Forms 9—10年付€15,315，IBDP Forms 11—12年付€17,570，另每年维护€745、学生保险€55；入学申请€160、录取后€475及一学期可退押金另计。校方未给本家庭offer。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">学校路径</th><th scope=\"col\">2026/27已知年固定教育成本</th><th scope=\"col\">费用含义</th></tr></thead><tbody><tr><td>公立义务教育</td><td>€0法定学费</td><td>不含两人生活，且不证明境外入境</td></tr><tr><td>OBS IGCSE 9—10</td><td>€16,115</td><td>€15,315学费＋€800年必缴项</td></tr><tr><td>OBS IBDP 11—12</td><td>€18,370</td><td>€17,570学费＋€800年必缴项</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>IGCSE年固定项€16,115，IBDP年固定项€18,370；考试费、餐食、交通及押金不含，不能当作完整开支。</li><li>按13—17岁实际入读年级计算；不用较低的Forms 6—8收费替代高中价。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT08-1\" data-ref=\"southchild-SC-PT08\" href=\"#ref-southchild-SC-PT08\">[SC-PT08]</a> <a id=\"cite-southchild-SC-PT11-2\" data-ref=\"southchild-SC-PT11\" href=\"#ref-southchild-SC-PT11\">[SC-PT11]</a></p></section>\n<section id=\"sc-pt-rent-income\"><h2>住房与工资：不要拿政策数字冒充报价</h2><p>葡萄牙住房门户的2026 T2“可接受最高租金”是特定政策的行政上限，不是实时挂牌、成交中位数或家庭一定租得到的价格：Leiria €560、Braga €671、Porto €1,118每月。2026法定最低工资为每月税前€920，只说明工资地板，不等于这名父母能获得合同或净收入。孩子学生签不会授权父母上班；无家长许可和岗位时，收入抵扣按零。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">城市</th><th scope=\"col\">2026 T2政策上限</th><th scope=\"col\">12个月政策参照</th><th scope=\"col\">限制</th></tr></thead><tbody><tr><td>Leiria</td><td>€560/月</td><td>€6,720</td><td>非租房报价</td></tr><tr><td>Braga</td><td>€671/月</td><td>€8,052</td><td>非租房报价</td></tr><tr><td>Porto</td><td>€1,118/月</td><td>€13,416</td><td>非租房报价</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>逐城取得可签租约，列押金、水电、网络、冬季能源、食物、医保、通勤、回国机票、监护及学校附加费。</li><li>只有真实工作许可、劳动合同、排班及税社保数据齐全，才能把父母税后工资从家庭总开支扣除。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT12-3\" data-ref=\"southchild-SC-PT12\" href=\"#ref-southchild-SC-PT12\">[SC-PT12]</a> <a id=\"cite-southchild-SC-PT13-4\" data-ref=\"southchild-SC-PT13\" href=\"#ref-southchild-SC-PT13\">[SC-PT13]</a> <a id=\"cite-southchild-SC-PT07-5\" data-ref=\"southchild-SC-PT07\" href=\"#ref-southchild-SC-PT07\">[SC-PT07]</a></p></section>\n<section id=\"sc-pt-five-budget\"><h2>人民币净支出验算表</h2><p>年度目标定义为“全年两人真实总支出－家长已获准工作且实收税后工资≤人民币20万元”；五年为各年净支出合计≤100万元。欧元开支须用付款时的实际换汇成本换算人民币，另为汇率与租金变动留空间。签证要求的可用资金与家庭五年预算是两项不同审查；即使纸面净支出达标，也不能代替领馆接受的存款或持续收入证明。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">年次</th><th scope=\"col\">必须拿到的凭据</th><th scope=\"col\">净额规则</th></tr></thead><tbody><tr><td>第1年</td><td>孩子offer、签证、父母许可、住址、保险</td><td>含首次入学费、押金现金流</td></tr><tr><td>第2—3年</td><td>续签、学校账单、正式租约</td><td>只扣已发生的税后工资</td></tr><tr><td>第4—5年</td><td>18岁后学费与身份变更、居留史</td><td>汇总五年人民币净额</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>现在只能填入公开校费、政策租金参照及工资地板，不能凭此算出完整两人生活费。</li><li>五年逐年列孩子年龄／学段、学校正式收费、租约、保险、家长许可、税后工资、年度净额与累计净额；18岁大学学费另算。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT04-6\" data-ref=\"southchild-SC-PT04\" href=\"#ref-southchild-SC-PT04\">[SC-PT04]</a> <a id=\"cite-southchild-SC-PT07-7\" data-ref=\"southchild-SC-PT07\" href=\"#ref-southchild-SC-PT07\">[SC-PT07]</a> <a id=\"cite-southchild-SC-PT08-8\" data-ref=\"southchild-SC-PT08\" href=\"#ref-southchild-SC-PT08\">[SC-PT08]</a> <a id=\"cite-southchild-SC-PT11-9\" data-ref=\"southchild-SC-PT11\" href=\"#ref-southchild-SC-PT11\">[SC-PT11]</a> <a id=\"cite-southchild-SC-PT12-10\" data-ref=\"southchild-SC-PT12\" href=\"#ref-southchild-SC-PT12\">[SC-PT12]</a> <a id=\"cite-southchild-SC-PT13-11\" data-ref=\"southchild-SC-PT13\" href=\"#ref-southchild-SC-PT13\">[SC-PT13]</a> <a id=\"cite-southchild-SC-PT16-12\" data-ref=\"southchild-SC-PT16\" href=\"#ref-southchild-SC-PT16\">[SC-PT16]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-pt-school-fees",
+          "title": "学校收费对比"
+        },
+        {
+          "id": "sc-pt-rent-income",
+          "title": "住房与工资：不要拿政策数字冒充报价"
+        },
+        {
+          "id": "sc-pt-five-budget",
+          "title": "人民币净支出验算表"
+        }
+      ]
+    },
+    {
+      "id": "portugal-residence",
+      "label": "身份与核验",
+      "title": "父母工作、成年转段与三只居留时钟",
+      "summary": "每个人从自己的许可开始计算；国家永久居留、欧盟长期居民与入籍条件不同，孩子的学年不会替父母累计。",
+      "sections": [
+        {
+          "id": "pt-parent",
+          "title": "父母不能从学生身上取得身份",
+          "paragraphs": [
+            "第99(3)条对学习居留持有人的可团聚家庭成员仅列第99(1)(a)—(c)：配偶、受抚养未成年／无行为能力子女、合格收养子女，排除父母。2026年新第122(1)(k)限定父母须有居住葡萄牙、具葡籍的未成年子女并实际履行抚养教育；中国籍在葡中学生不符合。第99(1)(f)一般受抚养直系尊亲规则不能无视学习居留特别限制。"
+          ],
+          "bullets": [
+            "D7要求父母已具可证明的自有收入；若靠孩子学签或未来当地工资解释D7，不能成立。",
+            "父母若以自身获批的长期居留入境，第83条一般赋予工作权，但真实雇佣、职业资格、税号和社保仍要落实；不得先把未批准收入抵扣。"
+          ],
+          "table": {
+            "headers": [
+              "主张",
+              "现行判断",
+              "须补证据"
+            ],
+            "rows": [
+              [
+                "中学生给父母团聚",
+                "第99(3)排除",
+                "无可用常规申请"
+              ],
+              [
+                "父母特别居留",
+                "新第122(1)(k)需葡籍孩子",
+                "本案中国籍不符"
+              ],
+              [
+                "D7自有收入",
+                "独立家长路线",
+                "已存在的收入及领馆认可"
+              ],
+              [
+                "父母本地工作",
+                "自身许可之后",
+                "批准身份、真实岗位与合同"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT02",
+            "SC-PT05",
+            "SC-PT06",
+            "SC-PT07"
+          ]
+        },
+        {
+          "id": "pt-funds-benchmark",
+          "title": "资金证明能否初筛？不要把参考公式当作D7获批线",
+          "table": {
+            "headers": [
+              "计算",
+              "参考结果",
+              "用途与限制"
+            ],
+            "rows": [
+              [
+                "一名成人100%＋一名未成年30%；2026大陆最低工资€920",
+                "€1,196/月；12个月€14,352；按规划汇率约¥11.48万/年",
+                "AIMA家庭团聚生活来源参考公式，不是本案D7已确认最低门槛"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "D7需要父母具备可证明的自有收入。上述推算仅用于准备资金问题清单，不代表存入该金额就能批准，也不等于两人的实际生活费。AIMA网页示例仍使用2025工资，故本表明确采用2026大陆工资另行演算。D7持续收入类型、金额、储蓄如何证明、孩子能否及何时随行，应由中国领区领馆书面确认；不得把未来在葡打工的工资冒充现有自有收入。"
+          ],
+          "refs": [
+            "SC-PT06",
+            "SC-PT13",
+            "SC-PT16"
+          ]
+        },
+        {
+          "id": "pt-clocks",
+          "title": "孩子与家长分别算三只钟",
+          "paragraphs": [
+            "国家永久居留（第80条）要求申请人至少持临时居留五年，并有生活来源、住所、基础葡语及无相关严重刑事障碍；孩子一年一续的中学居留须保住连续合法身份，不能直接保证满五年获批。欧盟长期居民（第125—126条）在仍持学习居留时不能取得；先转成合格居留后，已持学习居留时间仅折半计入五年，且需稳定收入、健康保障、住所、葡语与缺席限制。"
+          ],
+          "bullets": [
+            "例：孩子先读中学三年、后取得合格许可两年，欧盟长期居民计时仅约3.5年，尚未满五年；国家永久居留另按第80条独立核算。",
+            "父母若更晚才取得自身许可，其国家永久居留起算日也更晚；学生年份不能转给家长。"
+          ],
+          "table": {
+            "headers": [
+              "目标",
+              "孩子的规则",
+              "父母的规则"
+            ],
+            "rows": [
+              [
+                "国家永久居留",
+                "自己的临时居留至少五年，另审其他条件",
+                "自己的临时居留至少五年"
+              ],
+              [
+                "欧盟长期居民",
+                "仍为学生不能直接申请；转合格许可后学习期折半",
+                "看自身许可类别及五年连续合法居留"
+              ],
+              [
+                "葡萄牙国籍",
+                "普通中国籍成年人现为十年合法居留及其他条件",
+                "同样单独计算；五年非护照"
+              ]
+            ]
+          },
+          "steps": [],
+          "refs": [
+            "SC-PT01",
+            "SC-PT14",
+            "SC-PT15"
+          ]
+        },
+        {
+          "id": "pt-written-questions",
+          "title": "付费前要取得的书面答复",
+          "paragraphs": [
+            "顺序应是学校、领馆、AIMA和父母自身许可四端交叉核实。学校先确认个别境外申请者的实际录取和教育项目法律性质，再把同一项目说明交中国领区领馆询问第62条签证；入境后第92条能否续签须按2026新法问AIMA。任何口头“免费公校可读”“孩子有卡父母就能工作”都不足以承担五年迁居决定。"
+          ],
+          "bullets": [
+            "学校：13—17岁按成绩进入哪一年级？项目是否为第3(n)条认可个别教育项目？授予何证书、PLNM如何安排、是否可报大学、2026/27所有收费是多少？",
+            "领馆：该offer可否供中国境外未成年申请第62条居留签？14岁下限、另一监护人同意、住宿、保险、资金及父母陪同如何认定？",
+            "AIMA：第62(11)条与新第92(1)条课程范围如何衔接？孩子满18岁后的第122(1)(o)工作转换需要何证据？国家永居与欧盟长期居民如何逐年核算？",
+            "父母许可机关：若用D7或其他独立路线，需要何收入凭据、何时可获居留并合法工作？取得可签住房及完整两人开支账本后再测人民币上限。"
+          ],
+          "table": {
+            "headers": [],
+            "rows": []
+          },
+          "steps": [
+            {
+              "age": "13岁",
+              "step": "保留原学籍，准备葡语与成绩材料；筛学校项目。",
+              "gate": "中学签证现行14岁下限。"
+            },
+            {
+              "age": "14—17岁",
+              "step": "取得学校正式offer、领馆签证答复和父母独立许可。",
+              "gate": "三端皆有书面可行结果方能搬迁。"
+            },
+            {
+              "age": "18岁",
+              "step": "核毕业、高教或真实就业转换及父母身份。",
+              "gate": "无自动留居或工作保证。"
+            },
+            {
+              "age": "第5年",
+              "step": "分别核算两人三类资格和累计净现金流。",
+              "gate": "不可把五年在境等同双人永居或入籍。"
+            }
+          ],
+          "refs": [
+            "SC-PT01",
+            "SC-PT02",
+            "SC-PT03",
+            "SC-PT04",
+            "SC-PT14",
+            "SC-PT15"
+          ]
+        }
+      ],
+      "file": "south-child-portugal-residence.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "portugal",
+      "keywords": "葡萄牙 portugal-residence Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-PT01",
+        "southchild-SC-PT02",
+        "southchild-SC-PT05",
+        "southchild-SC-PT06",
+        "southchild-SC-PT07",
+        "southchild-SC-PT13",
+        "southchild-SC-PT16",
+        "southchild-SC-PT14",
+        "southchild-SC-PT15",
+        "southchild-SC-PT03",
+        "southchild-SC-PT04"
+      ],
+      "citeAnchors": {
+        "southchild-SC-PT01": "cite-southchild-SC-PT01-1",
+        "southchild-SC-PT02": "cite-southchild-SC-PT02-2",
+        "southchild-SC-PT05": "cite-southchild-SC-PT05-3",
+        "southchild-SC-PT06": "cite-southchild-SC-PT06-4",
+        "southchild-SC-PT07": "cite-southchild-SC-PT07-5",
+        "southchild-SC-PT13": "cite-southchild-SC-PT13-7",
+        "southchild-SC-PT16": "cite-southchild-SC-PT16-8",
+        "southchild-SC-PT14": "cite-southchild-SC-PT14-10",
+        "southchild-SC-PT15": "cite-southchild-SC-PT15-11",
+        "southchild-SC-PT03": "cite-southchild-SC-PT03-14",
+        "southchild-SC-PT04": "cite-southchild-SC-PT04-15"
+      },
+      "html": "<section id=\"sc-pt-parent\"><h2>父母不能从学生身上取得身份</h2><p>第99(3)条对学习居留持有人的可团聚家庭成员仅列第99(1)(a)—(c)：配偶、受抚养未成年／无行为能力子女、合格收养子女，排除父母。2026年新第122(1)(k)限定父母须有居住葡萄牙、具葡籍的未成年子女并实际履行抚养教育；中国籍在葡中学生不符合。第99(1)(f)一般受抚养直系尊亲规则不能无视学习居留特别限制。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">主张</th><th scope=\"col\">现行判断</th><th scope=\"col\">须补证据</th></tr></thead><tbody><tr><td>中学生给父母团聚</td><td>第99(3)排除</td><td>无可用常规申请</td></tr><tr><td>父母特别居留</td><td>新第122(1)(k)需葡籍孩子</td><td>本案中国籍不符</td></tr><tr><td>D7自有收入</td><td>独立家长路线</td><td>已存在的收入及领馆认可</td></tr><tr><td>父母本地工作</td><td>自身许可之后</td><td>批准身份、真实岗位与合同</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>D7要求父母已具可证明的自有收入；若靠孩子学签或未来当地工资解释D7，不能成立。</li><li>父母若以自身获批的长期居留入境，第83条一般赋予工作权，但真实雇佣、职业资格、税号和社保仍要落实；不得先把未批准收入抵扣。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-1\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT02-2\" data-ref=\"southchild-SC-PT02\" href=\"#ref-southchild-SC-PT02\">[SC-PT02]</a> <a id=\"cite-southchild-SC-PT05-3\" data-ref=\"southchild-SC-PT05\" href=\"#ref-southchild-SC-PT05\">[SC-PT05]</a> <a id=\"cite-southchild-SC-PT06-4\" data-ref=\"southchild-SC-PT06\" href=\"#ref-southchild-SC-PT06\">[SC-PT06]</a> <a id=\"cite-southchild-SC-PT07-5\" data-ref=\"southchild-SC-PT07\" href=\"#ref-southchild-SC-PT07\">[SC-PT07]</a></p></section>\n<section id=\"sc-pt-funds-benchmark\"><h2>资金证明能否初筛？不要把参考公式当作D7获批线</h2><p>D7需要父母具备可证明的自有收入。上述推算仅用于准备资金问题清单，不代表存入该金额就能批准，也不等于两人的实际生活费。AIMA网页示例仍使用2025工资，故本表明确采用2026大陆工资另行演算。D7持续收入类型、金额、储蓄如何证明、孩子能否及何时随行，应由中国领区领馆书面确认；不得把未来在葡打工的工资冒充现有自有收入。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">计算</th><th scope=\"col\">参考结果</th><th scope=\"col\">用途与限制</th></tr></thead><tbody><tr><td>一名成人100%＋一名未成年30%；2026大陆最低工资€920</td><td>€1,196/月；12个月€14,352；按规划汇率约¥11.48万/年</td><td>AIMA家庭团聚生活来源参考公式，不是本案D7已确认最低门槛</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT06-6\" data-ref=\"southchild-SC-PT06\" href=\"#ref-southchild-SC-PT06\">[SC-PT06]</a> <a id=\"cite-southchild-SC-PT13-7\" data-ref=\"southchild-SC-PT13\" href=\"#ref-southchild-SC-PT13\">[SC-PT13]</a> <a id=\"cite-southchild-SC-PT16-8\" data-ref=\"southchild-SC-PT16\" href=\"#ref-southchild-SC-PT16\">[SC-PT16]</a></p></section>\n<section id=\"sc-pt-clocks\"><h2>孩子与家长分别算三只钟</h2><p>国家永久居留（第80条）要求申请人至少持临时居留五年，并有生活来源、住所、基础葡语及无相关严重刑事障碍；孩子一年一续的中学居留须保住连续合法身份，不能直接保证满五年获批。欧盟长期居民（第125—126条）在仍持学习居留时不能取得；先转成合格居留后，已持学习居留时间仅折半计入五年，且需稳定收入、健康保障、住所、葡语与缺席限制。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">目标</th><th scope=\"col\">孩子的规则</th><th scope=\"col\">父母的规则</th></tr></thead><tbody><tr><td>国家永久居留</td><td>自己的临时居留至少五年，另审其他条件</td><td>自己的临时居留至少五年</td></tr><tr><td>欧盟长期居民</td><td>仍为学生不能直接申请；转合格许可后学习期折半</td><td>看自身许可类别及五年连续合法居留</td></tr><tr><td>葡萄牙国籍</td><td>普通中国籍成年人现为十年合法居留及其他条件</td><td>同样单独计算；五年非护照</td></tr></tbody></table></div><ul class=\"yv-checks\"><li>例：孩子先读中学三年、后取得合格许可两年，欧盟长期居民计时仅约3.5年，尚未满五年；国家永久居留另按第80条独立核算。</li><li>父母若更晚才取得自身许可，其国家永久居留起算日也更晚；学生年份不能转给家长。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-9\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT14-10\" data-ref=\"southchild-SC-PT14\" href=\"#ref-southchild-SC-PT14\">[SC-PT14]</a> <a id=\"cite-southchild-SC-PT15-11\" data-ref=\"southchild-SC-PT15\" href=\"#ref-southchild-SC-PT15\">[SC-PT15]</a></p></section>\n<section id=\"sc-pt-written-questions\"><h2>付费前要取得的书面答复</h2><p>顺序应是学校、领馆、AIMA和父母自身许可四端交叉核实。学校先确认个别境外申请者的实际录取和教育项目法律性质，再把同一项目说明交中国领区领馆询问第62条签证；入境后第92条能否续签须按2026新法问AIMA。任何口头“免费公校可读”“孩子有卡父母就能工作”都不足以承担五年迁居决定。</p><ol class=\"yv-flow\"><li><span>13岁</span><strong>保留原学籍，准备葡语与成绩材料；筛学校项目。</strong><p>核验：中学签证现行14岁下限。</p></li><li><span>14—17岁</span><strong>取得学校正式offer、领馆签证答复和父母独立许可。</strong><p>核验：三端皆有书面可行结果方能搬迁。</p></li><li><span>18岁</span><strong>核毕业、高教或真实就业转换及父母身份。</strong><p>核验：无自动留居或工作保证。</p></li><li><span>第5年</span><strong>分别核算两人三类资格和累计净现金流。</strong><p>核验：不可把五年在境等同双人永居或入籍。</p></li></ol><ul class=\"yv-checks\"><li>学校：13—17岁按成绩进入哪一年级？项目是否为第3(n)条认可个别教育项目？授予何证书、PLNM如何安排、是否可报大学、2026/27所有收费是多少？</li><li>领馆：该offer可否供中国境外未成年申请第62条居留签？14岁下限、另一监护人同意、住宿、保险、资金及父母陪同如何认定？</li><li>AIMA：第62(11)条与新第92(1)条课程范围如何衔接？孩子满18岁后的第122(1)(o)工作转换需要何证据？国家永居与欧盟长期居民如何逐年核算？</li><li>父母许可机关：若用D7或其他独立路线，需要何收入凭据、何时可获居留并合法工作？取得可签住房及完整两人开支账本后再测人民币上限。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-PT01-12\" data-ref=\"southchild-SC-PT01\" href=\"#ref-southchild-SC-PT01\">[SC-PT01]</a> <a id=\"cite-southchild-SC-PT02-13\" data-ref=\"southchild-SC-PT02\" href=\"#ref-southchild-SC-PT02\">[SC-PT02]</a> <a id=\"cite-southchild-SC-PT03-14\" data-ref=\"southchild-SC-PT03\" href=\"#ref-southchild-SC-PT03\">[SC-PT03]</a> <a id=\"cite-southchild-SC-PT04-15\" data-ref=\"southchild-SC-PT04\" href=\"#ref-southchild-SC-PT04\">[SC-PT04]</a> <a id=\"cite-southchild-SC-PT14-16\" data-ref=\"southchild-SC-PT14\" href=\"#ref-southchild-SC-PT14\">[SC-PT14]</a> <a id=\"cite-southchild-SC-PT15-17\" data-ref=\"southchild-SC-PT15\" href=\"#ref-southchild-SC-PT15\">[SC-PT15]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-pt-parent",
+          "title": "父母不能从学生身上取得身份"
+        },
+        {
+          "id": "sc-pt-funds-benchmark",
+          "title": "资金证明能否初筛？不要把参考公式当作D7获批线"
+        },
+        {
+          "id": "sc-pt-clocks",
+          "title": "孩子与家长分别算三只钟"
+        },
+        {
+          "id": "sc-pt-written-questions",
+          "title": "付费前要取得的书面答复"
+        }
+      ]
+    },
+    {
+      "id": "spain-overview",
+      "label": "西班牙｜先看结论",
+      "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+      "summary": "以中国大陆13—17岁孩子读普通中学、35—45岁家长同住为目标，先过身份门槛，再谈学校与年度20万元预算。",
+      "sections": [
+        {
+          "id": "es-decision",
+          "title": "三种起点，不能互换",
+          "paragraphs": [
+            "《外国人条例》把高等教育、后义务中等教育及中学生交流分别列为三类。普通Bachillerato的学习停留签证按第35(f)条须超过18岁，和一般16—18岁高中年龄明显错位；13—17岁孩子不能凭一张普通高中录取信自动获得长期学生签证。",
+            "真实的pupil mobility允许在法定中学年龄读ESO或Bachillerato，但项目须负责学生、住宿、返程并指定非父母的成年人。它是限期交换，不是自己挑一所公校、父母一同迁移五年的常规渠道。第三种是家长先取得自己的居留，孩子作为受抚养家属入境，随后申请当地学校。"
+          ],
+          "table": {
+            "headers": [
+              "起点",
+              "孩子的身份和学校",
+              "家长身份及工作",
+              "本案判定"
+            ],
+            "rows": [
+              [
+                "孩子单独报普通高中",
+                "后义务高中学习停留年龄须>18",
+                "没有由此产生的陪读",
+                "13—17岁不作主线"
+              ],
+              [
+                "正式中学交换",
+                "项目安排ESO/Bachillerato，单次≤1年",
+                "家长须另有合法身份",
+                "可体验，非五年同住"
+              ],
+              [
+                "家长非盈利居留",
+                "受抚养孩子获相应家属居留，再申请公校",
+                "同住但不得工作",
+                "仅适合已有资产/被动收入家庭"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-ES01",
+            "SC-ES02",
+            "SC-ES03",
+            "SC-ES04",
+            "SC-ES05"
+          ]
+        },
+        {
+          "id": "es-score",
+          "title": "与家庭目标逐项对照",
+          "paragraphs": [
+            "公立ESO与公立Bachillerato本身免费；教育权不能替代入境居留权。家长若没有工作许可，不得用预期西班牙打工收入做净支出公式；低学历并非非盈利签证的拒签条件，关键是持续可靠的资金、保险与文件。弱英语不一定是主要障碍，孩子在主流公校首先要跟上西班牙语，自治区还可能使用共同官方语言。"
+          ],
+          "bullets": [
+            "学校账：申请目标学区、年级、语言支持、课本/餐食/交通的书面说明；免费仅指学费。",
+            "身份账：亲子各自的签证与居留批文、有效期、续签条件必须成对核验。",
+            "资金账：先证明500% IPREM的首年资金，再用真实租约和保险报价检验每年¥200,000及五年¥1,000,000。",
+            "停止条件：无独立可持续资金、希望家长落地即工作，或希望孩子靠交换自动获得五年居留，则此方案停下。"
+          ],
+          "refs": [
+            "SC-ES04",
+            "SC-ES05",
+            "SC-ES06",
+            "SC-ES07",
+            "SC-ES08"
+          ]
+        }
+      ],
+      "file": "south-child-spain-overview.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "spain",
+      "keywords": "西班牙 spain-overview Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-ES01",
+        "southchild-SC-ES02",
+        "southchild-SC-ES03",
+        "southchild-SC-ES04",
+        "southchild-SC-ES05",
+        "southchild-SC-ES06",
+        "southchild-SC-ES07",
+        "southchild-SC-ES08"
+      ],
+      "citeAnchors": {
+        "southchild-SC-ES01": "cite-southchild-SC-ES01-1",
+        "southchild-SC-ES02": "cite-southchild-SC-ES02-2",
+        "southchild-SC-ES03": "cite-southchild-SC-ES03-3",
+        "southchild-SC-ES04": "cite-southchild-SC-ES04-4",
+        "southchild-SC-ES05": "cite-southchild-SC-ES05-5",
+        "southchild-SC-ES06": "cite-southchild-SC-ES06-8",
+        "southchild-SC-ES07": "cite-southchild-SC-ES07-9",
+        "southchild-SC-ES08": "cite-southchild-SC-ES08-10"
+      },
+      "html": "<section id=\"sc-es-decision\"><h2>三种起点，不能互换</h2><p>《外国人条例》把高等教育、后义务中等教育及中学生交流分别列为三类。普通Bachillerato的学习停留签证按第35(f)条须超过18岁，和一般16—18岁高中年龄明显错位；13—17岁孩子不能凭一张普通高中录取信自动获得长期学生签证。</p><p>真实的pupil mobility允许在法定中学年龄读ESO或Bachillerato，但项目须负责学生、住宿、返程并指定非父母的成年人。它是限期交换，不是自己挑一所公校、父母一同迁移五年的常规渠道。第三种是家长先取得自己的居留，孩子作为受抚养家属入境，随后申请当地学校。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">起点</th><th scope=\"col\">孩子的身份和学校</th><th scope=\"col\">家长身份及工作</th><th scope=\"col\">本案判定</th></tr></thead><tbody><tr><td>孩子单独报普通高中</td><td>后义务高中学习停留年龄须&gt;18</td><td>没有由此产生的陪读</td><td>13—17岁不作主线</td></tr><tr><td>正式中学交换</td><td>项目安排ESO/Bachillerato，单次≤1年</td><td>家长须另有合法身份</td><td>可体验，非五年同住</td></tr><tr><td>家长非盈利居留</td><td>受抚养孩子获相应家属居留，再申请公校</td><td>同住但不得工作</td><td>仅适合已有资产/被动收入家庭</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES01-1\" data-ref=\"southchild-SC-ES01\" href=\"#ref-southchild-SC-ES01\">[SC-ES01]</a> <a id=\"cite-southchild-SC-ES02-2\" data-ref=\"southchild-SC-ES02\" href=\"#ref-southchild-SC-ES02\">[SC-ES02]</a> <a id=\"cite-southchild-SC-ES03-3\" data-ref=\"southchild-SC-ES03\" href=\"#ref-southchild-SC-ES03\">[SC-ES03]</a> <a id=\"cite-southchild-SC-ES04-4\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES05-5\" data-ref=\"southchild-SC-ES05\" href=\"#ref-southchild-SC-ES05\">[SC-ES05]</a></p></section>\n<section id=\"sc-es-score\"><h2>与家庭目标逐项对照</h2><p>公立ESO与公立Bachillerato本身免费；教育权不能替代入境居留权。家长若没有工作许可，不得用预期西班牙打工收入做净支出公式；低学历并非非盈利签证的拒签条件，关键是持续可靠的资金、保险与文件。弱英语不一定是主要障碍，孩子在主流公校首先要跟上西班牙语，自治区还可能使用共同官方语言。</p><ul class=\"yv-checks\"><li>学校账：申请目标学区、年级、语言支持、课本/餐食/交通的书面说明；免费仅指学费。</li><li>身份账：亲子各自的签证与居留批文、有效期、续签条件必须成对核验。</li><li>资金账：先证明500% IPREM的首年资金，再用真实租约和保险报价检验每年¥200,000及五年¥1,000,000。</li><li>停止条件：无独立可持续资金、希望家长落地即工作，或希望孩子靠交换自动获得五年居留，则此方案停下。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES04-6\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES05-7\" data-ref=\"southchild-SC-ES05\" href=\"#ref-southchild-SC-ES05\">[SC-ES05]</a> <a id=\"cite-southchild-SC-ES06-8\" data-ref=\"southchild-SC-ES06\" href=\"#ref-southchild-SC-ES06\">[SC-ES06]</a> <a id=\"cite-southchild-SC-ES07-9\" data-ref=\"southchild-SC-ES07\" href=\"#ref-southchild-SC-ES07\">[SC-ES07]</a> <a id=\"cite-southchild-SC-ES08-10\" data-ref=\"southchild-SC-ES08\" href=\"#ref-southchild-SC-ES08\">[SC-ES08]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-es-decision",
+          "title": "三种起点，不能互换"
+        },
+        {
+          "id": "sc-es-score",
+          "title": "与家庭目标逐项对照"
+        }
+      ]
+    },
+    {
+      "id": "spain-route",
+      "label": "签证与学校路线",
+      "title": "未成年高中生如何合法入学，以及谁负责照护",
+      "summary": "把交换生、普通高中学习停留与居民子女入学分别核验；家长若要同住，须先解决本人身份。",
+      "sections": [
+        {
+          "id": "es-age",
+          "title": "年龄条文：第35(f)条与Hoja 1的措辞",
+          "paragraphs": [
+            "现行《外国人条例》涉及签证年龄的是第35(f)条：第52.1(a)类高等教育须“超过17岁”，第52.1(b)类Bachillerato等后义务中等教育须“超过18岁”；第52.1(c)类中学生交流则依项目所对应教育阶段的法定年龄。第53条讲录取及项目责任，并非这两个数字的所在地。",
+            "移民部Hoja 1的通用申请段落写高教“已满17岁”，但同页具体资格又写“超过17岁”，与条例的严格用词不同；它的Bachillerato具体资格也写“超过18岁”。因此恰好17岁申请高等教育，或18岁申请普通高中，必须在付款前向管辖领馆取得书面年龄解释，不能把概览用语当许可。"
+          ],
+          "refs": [
+            "SC-ES01",
+            "SC-ES02"
+          ]
+        },
+        {
+          "id": "es-exchange",
+          "title": "交换项目有具体的照护与时长限制",
+          "paragraphs": [
+            "Hoja 3要求获认可学校及正式交流项目双重录取，组织或学校承担学习、停留与返程责任；孩子住进项目筛选的寄宿家庭或附属宿舍。文件还须指定一位负责孩子的人，此人不能是父母或法定监护人，并须满足在西居留期限、无性犯罪记录及承担照护的声明等条件。",
+            "第55条把交换停留限制在项目期间、最长一年；第55.3条的通常续期清单未列交流类别(c)。所以不能把三至五个单年项目视为可自动续接的五年签证。家长可以另行持自己的居留在西班牙生活，但那不免除项目对于住宿和独立负责人的规定。"
+          ],
+          "bullets": [
+            "先核实项目名称、管理学校及学校是否在官方非大学学校登记册。",
+            "索取实际寄宿合同、负责人身份/居留/背景材料、项目承担费用与返程的文件。",
+            "索取精确开始和结束日期、是否可读满某一学年，以及毕业或转换身份的书面解释。"
+          ],
+          "refs": [
+            "SC-ES01",
+            "SC-ES03"
+          ]
+        },
+        {
+          "id": "es-parent",
+          "title": "可同住的家长方案改变了法律起点",
+          "paragraphs": [
+            "北京总领馆的非盈利居留说明允许申请人携带受抚养子女，要求主申请人400% IPREM、每名家属另加100% IPREM，另备保险及第一年生活资金。它明确不是工作许可；不能假设日后打餐馆工、线上有偿服务或通过孩子的学生身份取得劳动权。改工作许可需要另行满足真实的许可条件。",
+            "此方案的因果顺序是：家长以自有资金获居留、孩子获得家属居留、当地教育部门安排学校。学校免费来自公立教育制度，不是“交换生优惠”。若只有一位家长随行，先准备出生、监护及另一监护人同意/法院文件，并按领馆要求公证认证和翻译。"
+          ],
+          "steps": [
+            {
+              "age": "出发前6—12个月",
+              "step": "确定领馆管辖区、真实家庭资金来源、保险及孩子监护文件；选定城市和公校学区。",
+              "gate": "无500% IPREM可证明资金及持续生活来源则停止。"
+            },
+            {
+              "age": "签证获批后",
+              "step": "分别核对家长与孩子许可类别、期限，办理住所登记和当地公校申请。",
+              "gate": "未获孩子本人的合法入境/居留文件，不能以公校权利替代。"
+            },
+            {
+              "age": "入学前",
+              "step": "核对西班牙语支持、国外成绩单、ESO/Bachillerato分班和学业认证。",
+              "gate": "没有可接受的年级和语言过渡方案，不支付不可退费用。"
+            }
+          ],
+          "refs": [
+            "SC-ES04",
+            "SC-ES05",
+            "SC-ES06",
+            "SC-ES07",
+            "SC-ES08"
+          ]
+        },
+        {
+          "id": "es-school",
+          "title": "学校衔接与升学",
+          "paragraphs": [
+            "ESO通常是12—16岁、义务且免费；外国体系转入时，学校考虑年龄、知识与既有学习经历。Bachillerato通常16—18岁、两学年，公校免费，但一般须持ESO毕业资格或等效学历，并经当地录取程序。中国成绩和学历的homologación/convalidación应按教育部规则及当地学校要求准备，不能假设直接读对应年级。",
+            "13—15岁初到可争取ESO语言衔接；16—17岁进入Bachillerato则同时面对授课语言、历史文学等学科及后续大学入学要求。优先向目标自治区问清接收新移民的语言支持、当地共同官方语言、非西语成绩认证和18岁后学籍；若孩子要回中国，另存课程大纲、学分和成绩单并核对国内接收规则。"
+          ],
+          "refs": [
+            "SC-ES06",
+            "SC-ES07",
+            "SC-ES08",
+            "SC-ES12"
+          ]
+        }
+      ],
+      "file": "south-child-spain-route.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "spain",
+      "keywords": "西班牙 spain-route Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-ES01",
+        "southchild-SC-ES02",
+        "southchild-SC-ES03",
+        "southchild-SC-ES04",
+        "southchild-SC-ES05",
+        "southchild-SC-ES06",
+        "southchild-SC-ES07",
+        "southchild-SC-ES08",
+        "southchild-SC-ES12"
+      ],
+      "citeAnchors": {
+        "southchild-SC-ES01": "cite-southchild-SC-ES01-1",
+        "southchild-SC-ES02": "cite-southchild-SC-ES02-2",
+        "southchild-SC-ES03": "cite-southchild-SC-ES03-4",
+        "southchild-SC-ES04": "cite-southchild-SC-ES04-5",
+        "southchild-SC-ES05": "cite-southchild-SC-ES05-6",
+        "southchild-SC-ES06": "cite-southchild-SC-ES06-7",
+        "southchild-SC-ES07": "cite-southchild-SC-ES07-8",
+        "southchild-SC-ES08": "cite-southchild-SC-ES08-9",
+        "southchild-SC-ES12": "cite-southchild-SC-ES12-13"
+      },
+      "html": "<section id=\"sc-es-age\"><h2>年龄条文：第35(f)条与Hoja 1的措辞</h2><p>现行《外国人条例》涉及签证年龄的是第35(f)条：第52.1(a)类高等教育须“超过17岁”，第52.1(b)类Bachillerato等后义务中等教育须“超过18岁”；第52.1(c)类中学生交流则依项目所对应教育阶段的法定年龄。第53条讲录取及项目责任，并非这两个数字的所在地。</p><p>移民部Hoja 1的通用申请段落写高教“已满17岁”，但同页具体资格又写“超过17岁”，与条例的严格用词不同；它的Bachillerato具体资格也写“超过18岁”。因此恰好17岁申请高等教育，或18岁申请普通高中，必须在付款前向管辖领馆取得书面年龄解释，不能把概览用语当许可。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES01-1\" data-ref=\"southchild-SC-ES01\" href=\"#ref-southchild-SC-ES01\">[SC-ES01]</a> <a id=\"cite-southchild-SC-ES02-2\" data-ref=\"southchild-SC-ES02\" href=\"#ref-southchild-SC-ES02\">[SC-ES02]</a></p></section>\n<section id=\"sc-es-exchange\"><h2>交换项目有具体的照护与时长限制</h2><p>Hoja 3要求获认可学校及正式交流项目双重录取，组织或学校承担学习、停留与返程责任；孩子住进项目筛选的寄宿家庭或附属宿舍。文件还须指定一位负责孩子的人，此人不能是父母或法定监护人，并须满足在西居留期限、无性犯罪记录及承担照护的声明等条件。</p><p>第55条把交换停留限制在项目期间、最长一年；第55.3条的通常续期清单未列交流类别(c)。所以不能把三至五个单年项目视为可自动续接的五年签证。家长可以另行持自己的居留在西班牙生活，但那不免除项目对于住宿和独立负责人的规定。</p><ul class=\"yv-checks\"><li>先核实项目名称、管理学校及学校是否在官方非大学学校登记册。</li><li>索取实际寄宿合同、负责人身份/居留/背景材料、项目承担费用与返程的文件。</li><li>索取精确开始和结束日期、是否可读满某一学年，以及毕业或转换身份的书面解释。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES01-3\" data-ref=\"southchild-SC-ES01\" href=\"#ref-southchild-SC-ES01\">[SC-ES01]</a> <a id=\"cite-southchild-SC-ES03-4\" data-ref=\"southchild-SC-ES03\" href=\"#ref-southchild-SC-ES03\">[SC-ES03]</a></p></section>\n<section id=\"sc-es-parent\"><h2>可同住的家长方案改变了法律起点</h2><p>北京总领馆的非盈利居留说明允许申请人携带受抚养子女，要求主申请人400% IPREM、每名家属另加100% IPREM，另备保险及第一年生活资金。它明确不是工作许可；不能假设日后打餐馆工、线上有偿服务或通过孩子的学生身份取得劳动权。改工作许可需要另行满足真实的许可条件。</p><p>此方案的因果顺序是：家长以自有资金获居留、孩子获得家属居留、当地教育部门安排学校。学校免费来自公立教育制度，不是“交换生优惠”。若只有一位家长随行，先准备出生、监护及另一监护人同意/法院文件，并按领馆要求公证认证和翻译。</p><ol class=\"yv-flow\"><li><span>出发前6—12个月</span><strong>确定领馆管辖区、真实家庭资金来源、保险及孩子监护文件；选定城市和公校学区。</strong><p>核验：无500% IPREM可证明资金及持续生活来源则停止。</p></li><li><span>签证获批后</span><strong>分别核对家长与孩子许可类别、期限，办理住所登记和当地公校申请。</strong><p>核验：未获孩子本人的合法入境/居留文件，不能以公校权利替代。</p></li><li><span>入学前</span><strong>核对西班牙语支持、国外成绩单、ESO/Bachillerato分班和学业认证。</strong><p>核验：没有可接受的年级和语言过渡方案，不支付不可退费用。</p></li></ol><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES04-5\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES05-6\" data-ref=\"southchild-SC-ES05\" href=\"#ref-southchild-SC-ES05\">[SC-ES05]</a> <a id=\"cite-southchild-SC-ES06-7\" data-ref=\"southchild-SC-ES06\" href=\"#ref-southchild-SC-ES06\">[SC-ES06]</a> <a id=\"cite-southchild-SC-ES07-8\" data-ref=\"southchild-SC-ES07\" href=\"#ref-southchild-SC-ES07\">[SC-ES07]</a> <a id=\"cite-southchild-SC-ES08-9\" data-ref=\"southchild-SC-ES08\" href=\"#ref-southchild-SC-ES08\">[SC-ES08]</a></p></section>\n<section id=\"sc-es-school\"><h2>学校衔接与升学</h2><p>ESO通常是12—16岁、义务且免费；外国体系转入时，学校考虑年龄、知识与既有学习经历。Bachillerato通常16—18岁、两学年，公校免费，但一般须持ESO毕业资格或等效学历，并经当地录取程序。中国成绩和学历的homologación/convalidación应按教育部规则及当地学校要求准备，不能假设直接读对应年级。</p><p>13—15岁初到可争取ESO语言衔接；16—17岁进入Bachillerato则同时面对授课语言、历史文学等学科及后续大学入学要求。优先向目标自治区问清接收新移民的语言支持、当地共同官方语言、非西语成绩认证和18岁后学籍；若孩子要回中国，另存课程大纲、学分和成绩单并核对国内接收规则。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES06-10\" data-ref=\"southchild-SC-ES06\" href=\"#ref-southchild-SC-ES06\">[SC-ES06]</a> <a id=\"cite-southchild-SC-ES07-11\" data-ref=\"southchild-SC-ES07\" href=\"#ref-southchild-SC-ES07\">[SC-ES07]</a> <a id=\"cite-southchild-SC-ES08-12\" data-ref=\"southchild-SC-ES08\" href=\"#ref-southchild-SC-ES08\">[SC-ES08]</a> <a id=\"cite-southchild-SC-ES12-13\" data-ref=\"southchild-SC-ES12\" href=\"#ref-southchild-SC-ES12\">[SC-ES12]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-es-age",
+          "title": "年龄条文：第35(f)条与Hoja 1的措辞"
+        },
+        {
+          "id": "sc-es-exchange",
+          "title": "交换项目有具体的照护与时长限制"
+        },
+        {
+          "id": "sc-es-parent",
+          "title": "可同住的家长方案改变了法律起点"
+        },
+        {
+          "id": "sc-es-school",
+          "title": "学校衔接与升学"
+        }
+      ]
+    },
+    {
+      "id": "spain-costs",
+      "label": "两人预算",
+      "title": "每年20万元：可作筛选线，尚不是可购买报价",
+      "summary": "公校费用低，但独立陪住的非盈利居留要求充足资金且无家长劳动收入；五年上限尤其紧。",
+      "sections": [
+        {
+          "id": "es-cap",
+          "title": "把签证门槛、现金花费和净支出分开",
+          "paragraphs": [
+            "西班牙社会保障局所列IPREM月额为€600。家长400%加一名孩子100%意味着每月€3,000、按12个月为首年€36,000的资金能力门槛；该数字是必须证明可支配的资金，不代表签证费或每年固定支出。非盈利居留不得工作，因此本方案的西班牙劳动净收入按零，年度净支出就等于年度实际成本。",
+            "用€1≈¥7.70做简化压力测试，年度上限约€25,974，五年总上限约€129,870。若仅将每年€24,000机械重复五次，就是€120,000/约¥924,000，余量约¥76,000，尚未涵盖汇率波动、租金上涨、首年押金/搬迁、回国探访或孩子成年后的学费变化；不能宣称已通过五年测试。"
+          ],
+          "table": {
+            "headers": [
+              "核算项",
+              "可核数字",
+              "正确解读"
+            ],
+            "rows": [
+              [
+                "年度支出上限",
+                "¥200,000≈€25,974",
+                "以€1≈¥7.70示例，结汇前刷新"
+              ],
+              [
+                "五年支出上限",
+                "¥1,000,000≈€129,870",
+                "逐年累计，不能只看平均年"
+              ],
+              [
+                "非盈利居留首年资金",
+                "500% IPREM≈€36,000",
+                "资金证明，不是可抵扣工资"
+              ],
+              [
+                "家长当地劳动收入",
+                "€0",
+                "许可不准工作；被动收入需个案审核"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-ES04",
+            "SC-ES05",
+            "SC-ES09",
+            "SC-ES10"
+          ]
+        },
+        {
+          "id": "es-school-fees",
+          "title": "真实学校收费作对照",
+          "paragraphs": [
+            "公立ESO及Bachillerato学费为零，但书本、餐食、活动、交通、语言辅导可能另付。Puçol两所真实国际学校可显示改走英语私校的代价：Caxton 2026/27年Y10—11每月€981、按10期约€9,810，另有新生€900和每年€464资源费；ASV Grade 9—10年学费€9,516，非股东每年€1,250注册费、一次性€1,500资本费。",
+            "仅Caxton高中学费约¥75,537，ASV高中学费约¥73,273；加首年费用、租住及保险后明显侵蚀家庭上限。它们是地点与课程均不同的收费对照，不是普通西班牙公校的报价，也不证明学校愿意担任交换项目管理方。"
+          ],
+          "table": {
+            "headers": [
+              "学校/阶段",
+              "2026/27公开费用",
+              "不含或另计"
+            ],
+            "rows": [
+              [
+                "公立ESO、Bachillerato",
+                "学费€0",
+                "用品、餐食、交通和可能的语言支持"
+              ],
+              [
+                "Caxton Y10—11",
+                "€981×10≈€9,810/年",
+                "新生€900；资源€464/年；交通可另计"
+              ],
+              [
+                "ASV Grade 9—10",
+                "€9,516/年",
+                "非股东注册€1,250/年；资本费€1,500一次性"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-ES06",
+            "SC-ES07",
+            "SC-ES11",
+            "SC-ES13"
+          ]
+        },
+        {
+          "id": "es-rent",
+          "title": "住房基准与可执行预算",
+          "paragraphs": [
+            "西班牙住房部SERPAVI 2026报告的底层数据是2024年税务申报租约：Alicante市租金中位数€608/月，Elche €483，Gandia €480。它们不是2026年新到家庭可以立即租到的挂牌价，也不保证相应学区名额。按Alicante旧中位数，全年租金€7,296；其他全部支出若控制在€18,678以下，才有可能守住年度€25,974上限。",
+            "实际审查应取得两居/一居可住亲子的真实合同或书面报价、保证金、能源/网络、两人合规医疗保险、食品、交通、学校附加费、文件翻译、签证和往返机票。以“租金€700/月、其他家庭常态€1,100/月、保险/学校/旅行预备€3,000/年”为纯测试输入，年成本€24,600、约¥189,420，距年度上限仅约¥10,580；任何一项上涨都可能击穿。"
+          ],
+          "bullets": [
+            "预算表按五个学年逐年列出，首年另列押金、机票、签证、家具、语言过渡；押金虽可能退回，仍需现金流。",
+            "真正获得工作许可之前，家长收入项保持€0；不使用未获确认的远程工作抵扣。",
+            "城市选择先看合法住所、学位和语言支持，再用真实租金复算；官方旧租金只能作比较基准。"
+          ],
+          "refs": [
+            "SC-ES09",
+            "SC-ES10"
+          ]
+        }
+      ],
+      "file": "south-child-spain-costs.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "spain",
+      "keywords": "西班牙 spain-costs Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-ES04",
+        "southchild-SC-ES05",
+        "southchild-SC-ES09",
+        "southchild-SC-ES10",
+        "southchild-SC-ES06",
+        "southchild-SC-ES07",
+        "southchild-SC-ES11",
+        "southchild-SC-ES13"
+      ],
+      "citeAnchors": {
+        "southchild-SC-ES04": "cite-southchild-SC-ES04-1",
+        "southchild-SC-ES05": "cite-southchild-SC-ES05-2",
+        "southchild-SC-ES09": "cite-southchild-SC-ES09-3",
+        "southchild-SC-ES10": "cite-southchild-SC-ES10-4",
+        "southchild-SC-ES06": "cite-southchild-SC-ES06-5",
+        "southchild-SC-ES07": "cite-southchild-SC-ES07-6",
+        "southchild-SC-ES11": "cite-southchild-SC-ES11-7",
+        "southchild-SC-ES13": "cite-southchild-SC-ES13-8"
+      },
+      "html": "<section id=\"sc-es-cap\"><h2>把签证门槛、现金花费和净支出分开</h2><p>西班牙社会保障局所列IPREM月额为€600。家长400%加一名孩子100%意味着每月€3,000、按12个月为首年€36,000的资金能力门槛；该数字是必须证明可支配的资金，不代表签证费或每年固定支出。非盈利居留不得工作，因此本方案的西班牙劳动净收入按零，年度净支出就等于年度实际成本。</p><p>用€1≈¥7.70做简化压力测试，年度上限约€25,974，五年总上限约€129,870。若仅将每年€24,000机械重复五次，就是€120,000/约¥924,000，余量约¥76,000，尚未涵盖汇率波动、租金上涨、首年押金/搬迁、回国探访或孩子成年后的学费变化；不能宣称已通过五年测试。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">核算项</th><th scope=\"col\">可核数字</th><th scope=\"col\">正确解读</th></tr></thead><tbody><tr><td>年度支出上限</td><td>¥200,000≈€25,974</td><td>以€1≈¥7.70示例，结汇前刷新</td></tr><tr><td>五年支出上限</td><td>¥1,000,000≈€129,870</td><td>逐年累计，不能只看平均年</td></tr><tr><td>非盈利居留首年资金</td><td>500% IPREM≈€36,000</td><td>资金证明，不是可抵扣工资</td></tr><tr><td>家长当地劳动收入</td><td>€0</td><td>许可不准工作；被动收入需个案审核</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES04-1\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES05-2\" data-ref=\"southchild-SC-ES05\" href=\"#ref-southchild-SC-ES05\">[SC-ES05]</a> <a id=\"cite-southchild-SC-ES09-3\" data-ref=\"southchild-SC-ES09\" href=\"#ref-southchild-SC-ES09\">[SC-ES09]</a> <a id=\"cite-southchild-SC-ES10-4\" data-ref=\"southchild-SC-ES10\" href=\"#ref-southchild-SC-ES10\">[SC-ES10]</a></p></section>\n<section id=\"sc-es-school-fees\"><h2>真实学校收费作对照</h2><p>公立ESO及Bachillerato学费为零，但书本、餐食、活动、交通、语言辅导可能另付。Puçol两所真实国际学校可显示改走英语私校的代价：Caxton 2026/27年Y10—11每月€981、按10期约€9,810，另有新生€900和每年€464资源费；ASV Grade 9—10年学费€9,516，非股东每年€1,250注册费、一次性€1,500资本费。</p><p>仅Caxton高中学费约¥75,537，ASV高中学费约¥73,273；加首年费用、租住及保险后明显侵蚀家庭上限。它们是地点与课程均不同的收费对照，不是普通西班牙公校的报价，也不证明学校愿意担任交换项目管理方。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">学校/阶段</th><th scope=\"col\">2026/27公开费用</th><th scope=\"col\">不含或另计</th></tr></thead><tbody><tr><td>公立ESO、Bachillerato</td><td>学费€0</td><td>用品、餐食、交通和可能的语言支持</td></tr><tr><td>Caxton Y10—11</td><td>€981×10≈€9,810/年</td><td>新生€900；资源€464/年；交通可另计</td></tr><tr><td>ASV Grade 9—10</td><td>€9,516/年</td><td>非股东注册€1,250/年；资本费€1,500一次性</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES06-5\" data-ref=\"southchild-SC-ES06\" href=\"#ref-southchild-SC-ES06\">[SC-ES06]</a> <a id=\"cite-southchild-SC-ES07-6\" data-ref=\"southchild-SC-ES07\" href=\"#ref-southchild-SC-ES07\">[SC-ES07]</a> <a id=\"cite-southchild-SC-ES11-7\" data-ref=\"southchild-SC-ES11\" href=\"#ref-southchild-SC-ES11\">[SC-ES11]</a> <a id=\"cite-southchild-SC-ES13-8\" data-ref=\"southchild-SC-ES13\" href=\"#ref-southchild-SC-ES13\">[SC-ES13]</a></p></section>\n<section id=\"sc-es-rent\"><h2>住房基准与可执行预算</h2><p>西班牙住房部SERPAVI 2026报告的底层数据是2024年税务申报租约：Alicante市租金中位数€608/月，Elche €483，Gandia €480。它们不是2026年新到家庭可以立即租到的挂牌价，也不保证相应学区名额。按Alicante旧中位数，全年租金€7,296；其他全部支出若控制在€18,678以下，才有可能守住年度€25,974上限。</p><p>实际审查应取得两居/一居可住亲子的真实合同或书面报价、保证金、能源/网络、两人合规医疗保险、食品、交通、学校附加费、文件翻译、签证和往返机票。以“租金€700/月、其他家庭常态€1,100/月、保险/学校/旅行预备€3,000/年”为纯测试输入，年成本€24,600、约¥189,420，距年度上限仅约¥10,580；任何一项上涨都可能击穿。</p><ul class=\"yv-checks\"><li>预算表按五个学年逐年列出，首年另列押金、机票、签证、家具、语言过渡；押金虽可能退回，仍需现金流。</li><li>真正获得工作许可之前，家长收入项保持€0；不使用未获确认的远程工作抵扣。</li><li>城市选择先看合法住所、学位和语言支持，再用真实租金复算；官方旧租金只能作比较基准。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES09-9\" data-ref=\"southchild-SC-ES09\" href=\"#ref-southchild-SC-ES09\">[SC-ES09]</a> <a id=\"cite-southchild-SC-ES10-10\" data-ref=\"southchild-SC-ES10\" href=\"#ref-southchild-SC-ES10\">[SC-ES10]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-es-cap",
+          "title": "把签证门槛、现金花费和净支出分开"
+        },
+        {
+          "id": "sc-es-school-fees",
+          "title": "真实学校收费作对照"
+        },
+        {
+          "id": "sc-es-rent",
+          "title": "住房基准与可执行预算"
+        }
+      ]
+    },
+    {
+      "id": "spain-residence",
+      "label": "五年与成年节点",
+      "title": "五年居住时钟：孩子与家长必须分别记录",
+      "summary": "学生停留（estancia）、家庭居留（residencia）、国家长期居留、欧盟长期居留及国籍采用不同规则。",
+      "sections": [
+        {
+          "id": "es-clocks",
+          "title": "不要把交换的一年写成一整年永久居留",
+          "paragraphs": [
+            "国家长期居留（residencia de larga duración nacional）通常要求申请前五年合法、连续的西班牙“居留”；条例第183条未给学习或交流“停留”折算。欧盟长期居留（larga duración-UE）第176条明确：先在申请时处于西班牙居留，过去学习或交流停留时间才可按50%计入其五年；另有稳定资源和保险要求。",
+            "举例：孩子前一年交流停留，之后四年取得正式居留，到第五年末，国家长期居留通常只有四年居留；欧盟长期居留的计时约四年半，仍不足五年。家长若第一天就获非盈利居留且保持有效，家长本人的五年时钟从自己的居留开始，不能共享孩子更早的交换时间；孩子的时钟也不能借用家长年份。"
+          ],
+          "table": {
+            "headers": [
+              "身份年序示例",
+              "国家长期居留计算",
+              "欧盟长期居留计算"
+            ],
+            "rows": [
+              [
+                "孩子1年交流＋4年居留",
+                "4年居留；通常未满5年",
+                "1年×50%＋4年=4.5年，且申请时须已居留"
+              ],
+              [
+                "家长5年非盈利居留",
+                "自身5年可进入审查，须满足连续性",
+                "自身5年并另审资源、保险等"
+              ],
+              [
+                "孩子与家长同日起获家属/主申请居留",
+                "各自累计有效居留约5年",
+                "各自按自身资格单独申请"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-ES01",
+            "SC-ES14"
+          ]
+        },
+        {
+          "id": "es-adult",
+          "title": "16岁劳动规则与18岁身份断点",
+          "paragraphs": [
+            "西班牙劳动法原则上禁止16岁以下就业，对16—17岁夜工等也有限制；这并不赋予持交换停留或非盈利家属居留的孩子自动工作权。许可类别仍须单独审查。交流项目期限结束前必须取得新的合法许可或按期离境，不能把大学录取、兼职或家长在场当自动转换。",
+            "孩子接近18岁时，应逐人检查现有家属居留有效期及成年后的受抚养资格、是否需要独立居留或高等教育学习停留、学费与保险如何变化。若从居留转为学习停留，未来国家长期居留和国籍的连续居留计时可能受影响；切换前应让主管办公室按具体许可证历史书面说明。"
+          ],
+          "refs": [
+            "SC-ES01",
+            "SC-ES04",
+            "SC-ES15"
+          ]
+        },
+        {
+          "id": "es-citizenship",
+          "title": "十年国籍不是五年毕业奖",
+          "paragraphs": [
+            "《民法典》第22条对一般国籍申请规定十年合法、连续且紧邻申请的居留，中国大陆国籍不在该条两年国籍优惠名单中。停留性质的交换或学习期不宜按居留年直接计入；即使家长和孩子都获得五年长期居留申请资格，也不等于取得西班牙国籍，更不保证审批。",
+            "五年计划的最早可能成果是各自符合长期居留的申请门槛，而非护照。家庭应保存每人全部签证、TIE、续签决定、出入境记录、住所及在学证明，逐年复核离境天数。若孩子回中国升学，提前核对两国学历衔接、课程与毕业资格，并把退出成本纳入第五年预算。"
+          ],
+          "refs": [
+            "SC-ES14",
+            "SC-ES16",
+            "SC-ES08"
+          ]
+        },
+        {
+          "id": "es-checklist",
+          "title": "最终核验清单与不继续的条件",
+          "paragraphs": [
+            "在任何不可退学校费用或搬迁支出前，家长需要从主管领馆、拟居住自治区教育部门及实际学校获取与此家庭年龄、国籍和住所相符的书面答复。政策页面本身仅供参考，申请时现行法规和个案文件控制结果。以下问题若无肯定且可保存的答复，应继续筛选其他国家。"
+          ],
+          "bullets": [
+            "领馆：孩子的确切类别是非盈利家属居留，还是合法的正式交换？是否允许家长同住？各自资金、保险、监护材料与续签要求是什么？",
+            "教育部门/学校：该年龄能进入哪一级ESO或Bachillerato？中国成绩如何认证？是否有名额、何种语言支持、哪些免费之外费用？",
+            "住房与保险：取得按学区可入住的合同、押金和两人覆盖报价，重算五年逐年现金流。",
+            "18岁前：取得孩子成年后许可及就业权的个案解释；若需换为学习停留，核算各长期居留与国籍时钟。",
+            "停止：依赖家长无许可打工、假交换项目、游客转身份、假合同或逾期滞留才能使预算成立。"
+          ],
+          "refs": [
+            "SC-ES02",
+            "SC-ES03",
+            "SC-ES04",
+            "SC-ES06",
+            "SC-ES14"
+          ]
+        }
+      ],
+      "file": "south-child-spain-residence.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "spain",
+      "keywords": "西班牙 spain-residence Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-ES01",
+        "southchild-SC-ES14",
+        "southchild-SC-ES04",
+        "southchild-SC-ES15",
+        "southchild-SC-ES16",
+        "southchild-SC-ES08",
+        "southchild-SC-ES02",
+        "southchild-SC-ES03",
+        "southchild-SC-ES06"
+      ],
+      "citeAnchors": {
+        "southchild-SC-ES01": "cite-southchild-SC-ES01-1",
+        "southchild-SC-ES14": "cite-southchild-SC-ES14-2",
+        "southchild-SC-ES04": "cite-southchild-SC-ES04-4",
+        "southchild-SC-ES15": "cite-southchild-SC-ES15-5",
+        "southchild-SC-ES16": "cite-southchild-SC-ES16-7",
+        "southchild-SC-ES08": "cite-southchild-SC-ES08-8",
+        "southchild-SC-ES02": "cite-southchild-SC-ES02-9",
+        "southchild-SC-ES03": "cite-southchild-SC-ES03-10",
+        "southchild-SC-ES06": "cite-southchild-SC-ES06-12"
+      },
+      "html": "<section id=\"sc-es-clocks\"><h2>不要把交换的一年写成一整年永久居留</h2><p>国家长期居留（residencia de larga duración nacional）通常要求申请前五年合法、连续的西班牙“居留”；条例第183条未给学习或交流“停留”折算。欧盟长期居留（larga duración-UE）第176条明确：先在申请时处于西班牙居留，过去学习或交流停留时间才可按50%计入其五年；另有稳定资源和保险要求。</p><p>举例：孩子前一年交流停留，之后四年取得正式居留，到第五年末，国家长期居留通常只有四年居留；欧盟长期居留的计时约四年半，仍不足五年。家长若第一天就获非盈利居留且保持有效，家长本人的五年时钟从自己的居留开始，不能共享孩子更早的交换时间；孩子的时钟也不能借用家长年份。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">身份年序示例</th><th scope=\"col\">国家长期居留计算</th><th scope=\"col\">欧盟长期居留计算</th></tr></thead><tbody><tr><td>孩子1年交流＋4年居留</td><td>4年居留；通常未满5年</td><td>1年×50%＋4年=4.5年，且申请时须已居留</td></tr><tr><td>家长5年非盈利居留</td><td>自身5年可进入审查，须满足连续性</td><td>自身5年并另审资源、保险等</td></tr><tr><td>孩子与家长同日起获家属/主申请居留</td><td>各自累计有效居留约5年</td><td>各自按自身资格单独申请</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES01-1\" data-ref=\"southchild-SC-ES01\" href=\"#ref-southchild-SC-ES01\">[SC-ES01]</a> <a id=\"cite-southchild-SC-ES14-2\" data-ref=\"southchild-SC-ES14\" href=\"#ref-southchild-SC-ES14\">[SC-ES14]</a></p></section>\n<section id=\"sc-es-adult\"><h2>16岁劳动规则与18岁身份断点</h2><p>西班牙劳动法原则上禁止16岁以下就业，对16—17岁夜工等也有限制；这并不赋予持交换停留或非盈利家属居留的孩子自动工作权。许可类别仍须单独审查。交流项目期限结束前必须取得新的合法许可或按期离境，不能把大学录取、兼职或家长在场当自动转换。</p><p>孩子接近18岁时，应逐人检查现有家属居留有效期及成年后的受抚养资格、是否需要独立居留或高等教育学习停留、学费与保险如何变化。若从居留转为学习停留，未来国家长期居留和国籍的连续居留计时可能受影响；切换前应让主管办公室按具体许可证历史书面说明。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES01-3\" data-ref=\"southchild-SC-ES01\" href=\"#ref-southchild-SC-ES01\">[SC-ES01]</a> <a id=\"cite-southchild-SC-ES04-4\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES15-5\" data-ref=\"southchild-SC-ES15\" href=\"#ref-southchild-SC-ES15\">[SC-ES15]</a></p></section>\n<section id=\"sc-es-citizenship\"><h2>十年国籍不是五年毕业奖</h2><p>《民法典》第22条对一般国籍申请规定十年合法、连续且紧邻申请的居留，中国大陆国籍不在该条两年国籍优惠名单中。停留性质的交换或学习期不宜按居留年直接计入；即使家长和孩子都获得五年长期居留申请资格，也不等于取得西班牙国籍，更不保证审批。</p><p>五年计划的最早可能成果是各自符合长期居留的申请门槛，而非护照。家庭应保存每人全部签证、TIE、续签决定、出入境记录、住所及在学证明，逐年复核离境天数。若孩子回中国升学，提前核对两国学历衔接、课程与毕业资格，并把退出成本纳入第五年预算。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES14-6\" data-ref=\"southchild-SC-ES14\" href=\"#ref-southchild-SC-ES14\">[SC-ES14]</a> <a id=\"cite-southchild-SC-ES16-7\" data-ref=\"southchild-SC-ES16\" href=\"#ref-southchild-SC-ES16\">[SC-ES16]</a> <a id=\"cite-southchild-SC-ES08-8\" data-ref=\"southchild-SC-ES08\" href=\"#ref-southchild-SC-ES08\">[SC-ES08]</a></p></section>\n<section id=\"sc-es-checklist\"><h2>最终核验清单与不继续的条件</h2><p>在任何不可退学校费用或搬迁支出前，家长需要从主管领馆、拟居住自治区教育部门及实际学校获取与此家庭年龄、国籍和住所相符的书面答复。政策页面本身仅供参考，申请时现行法规和个案文件控制结果。以下问题若无肯定且可保存的答复，应继续筛选其他国家。</p><ul class=\"yv-checks\"><li>领馆：孩子的确切类别是非盈利家属居留，还是合法的正式交换？是否允许家长同住？各自资金、保险、监护材料与续签要求是什么？</li><li>教育部门/学校：该年龄能进入哪一级ESO或Bachillerato？中国成绩如何认证？是否有名额、何种语言支持、哪些免费之外费用？</li><li>住房与保险：取得按学区可入住的合同、押金和两人覆盖报价，重算五年逐年现金流。</li><li>18岁前：取得孩子成年后许可及就业权的个案解释；若需换为学习停留，核算各长期居留与国籍时钟。</li><li>停止：依赖家长无许可打工、假交换项目、游客转身份、假合同或逾期滞留才能使预算成立。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-ES02-9\" data-ref=\"southchild-SC-ES02\" href=\"#ref-southchild-SC-ES02\">[SC-ES02]</a> <a id=\"cite-southchild-SC-ES03-10\" data-ref=\"southchild-SC-ES03\" href=\"#ref-southchild-SC-ES03\">[SC-ES03]</a> <a id=\"cite-southchild-SC-ES04-11\" data-ref=\"southchild-SC-ES04\" href=\"#ref-southchild-SC-ES04\">[SC-ES04]</a> <a id=\"cite-southchild-SC-ES06-12\" data-ref=\"southchild-SC-ES06\" href=\"#ref-southchild-SC-ES06\">[SC-ES06]</a> <a id=\"cite-southchild-SC-ES14-13\" data-ref=\"southchild-SC-ES14\" href=\"#ref-southchild-SC-ES14\">[SC-ES14]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-es-clocks",
+          "title": "不要把交换的一年写成一整年永久居留"
+        },
+        {
+          "id": "sc-es-adult",
+          "title": "16岁劳动规则与18岁身份断点"
+        },
+        {
+          "id": "sc-es-citizenship",
+          "title": "十年国籍不是五年毕业奖"
+        },
+        {
+          "id": "sc-es-checklist",
+          "title": "最终核验清单与不继续的条件"
+        }
+      ]
+    },
+    {
+      "id": "greece-overview",
+      "label": "希腊｜结论",
+      "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+      "summary": "以大陆13—17岁孩子读普通高中、一位35—45岁低学历且希腊语较弱家长同住为基准。希腊应列作受限比较对象，而非可售卖的‘免费公校＋父母陪读打工＋五年永居’方案。",
+      "sections": [
+        {
+          "id": "gr-decision",
+          "title": "先看四道门",
+          "paragraphs": [
+            "希腊教育法保障已经在境内的第三国未成年子女进入学校；教育部2026年页面还明示未规范居留者的教育参与权。这个权利不能倒推成境外签证、父母居留或工作的许可。需要先取得一个能覆盖父母与孩子多年居留的合法基础，随后才谈公校接纳。",
+            "对本家庭最接近的合法路径是资金充足家长作为 I.8 主申请人、未成年孩子获个人家属卡、依居住地和学历材料申请公校。它由家长资金资格驱动，并非孩子入学驱动。若家长必须靠希腊当地低技能收入补贴预算，该路径不合用。"
+          ],
+          "bullets": [
+            "有学校、可申请学校、获学校录取、获 D 签、获居留卡，是五个不同状态。本文只确认前两项在特定情形下存在；没有此家庭的录取与签证批准。",
+            "H.7 特定交流需国家间协议、欧盟资助合作或法定奖学金及项目方证明；不能把普通私校 offer 包装为交流。",
+            "不以虚构雇主、假监护、庇护申请或短期旅游入境转长期读书来填制度缺口。"
+          ],
+          "refs": [
+            "SC-GR01",
+            "SC-GR02",
+            "SC-GR03",
+            "SC-GR04",
+            "SC-GR06"
+          ]
+        },
+        {
+          "id": "gr-actions",
+          "title": "可核实的下一步",
+          "paragraphs": [
+            "在支付学校押金和跨境搬迁成本以前，应让拟就读学校、居住地教育主管部门与中国领区希腊领馆分别以书面确认学校接收、年级安置、D签/居留类别及监护文件。学校招生团队只能解释学校条件，不能替移民机关承诺居留。",
+            "即使三方答复积极，也须按家庭真实资产来源、私人保险、住房合同与孩子语言基础复核资金和毕业节点；若家长只有在希腊工作才能达成净支出上限，则停止把 I.8 当作可行方案。"
+          ],
+          "steps": [
+            {
+              "age": "13—17岁，出境前",
+              "step": "取得学校对既往成绩、中文文件翻译认证、年级、希腊语支持及考试路径的书面答复。",
+              "gate": "实际录取与可完成课程，非营销简介。"
+            },
+            {
+              "age": "签证前",
+              "step": "由领馆核对父母 I.8 与子女个人签证、资金来源和保险；若主张 H.7，提交真实项目方证书。",
+              "gate": "两人各自合法入境、居留权与禁止工作边界。"
+            },
+            {
+              "age": "18岁前一年",
+              "step": "核对孩子成年后的居留类别、大学入学资格和资金；保留回国衔接备选。",
+              "gate": "不中断居留与学籍，避免把升学当自动续签。"
+            }
+          ],
+          "refs": [
+            "SC-GR01",
+            "SC-GR03",
+            "SC-GR04",
+            "SC-GR07",
+            "SC-GR08"
+          ]
+        }
+      ],
+      "file": "south-child-greece-overview.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "greece",
+      "keywords": "希腊 greece-overview Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-GR01",
+        "southchild-SC-GR02",
+        "southchild-SC-GR03",
+        "southchild-SC-GR04",
+        "southchild-SC-GR06",
+        "southchild-SC-GR07",
+        "southchild-SC-GR08"
+      ],
+      "citeAnchors": {
+        "southchild-SC-GR01": "cite-southchild-SC-GR01-1",
+        "southchild-SC-GR02": "cite-southchild-SC-GR02-2",
+        "southchild-SC-GR03": "cite-southchild-SC-GR03-3",
+        "southchild-SC-GR04": "cite-southchild-SC-GR04-4",
+        "southchild-SC-GR06": "cite-southchild-SC-GR06-5",
+        "southchild-SC-GR07": "cite-southchild-SC-GR07-9",
+        "southchild-SC-GR08": "cite-southchild-SC-GR08-10"
+      },
+      "html": "<section id=\"sc-gr-decision\"><h2>先看四道门</h2><p>希腊教育法保障已经在境内的第三国未成年子女进入学校；教育部2026年页面还明示未规范居留者的教育参与权。这个权利不能倒推成境外签证、父母居留或工作的许可。需要先取得一个能覆盖父母与孩子多年居留的合法基础，随后才谈公校接纳。</p><p>对本家庭最接近的合法路径是资金充足家长作为 I.8 主申请人、未成年孩子获个人家属卡、依居住地和学历材料申请公校。它由家长资金资格驱动，并非孩子入学驱动。若家长必须靠希腊当地低技能收入补贴预算，该路径不合用。</p><ul class=\"yv-checks\"><li>有学校、可申请学校、获学校录取、获 D 签、获居留卡，是五个不同状态。本文只确认前两项在特定情形下存在；没有此家庭的录取与签证批准。</li><li>H.7 特定交流需国家间协议、欧盟资助合作或法定奖学金及项目方证明；不能把普通私校 offer 包装为交流。</li><li>不以虚构雇主、假监护、庇护申请或短期旅游入境转长期读书来填制度缺口。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-1\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR02-2\" data-ref=\"southchild-SC-GR02\" href=\"#ref-southchild-SC-GR02\">[SC-GR02]</a> <a id=\"cite-southchild-SC-GR03-3\" data-ref=\"southchild-SC-GR03\" href=\"#ref-southchild-SC-GR03\">[SC-GR03]</a> <a id=\"cite-southchild-SC-GR04-4\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR06-5\" data-ref=\"southchild-SC-GR06\" href=\"#ref-southchild-SC-GR06\">[SC-GR06]</a></p></section>\n<section id=\"sc-gr-actions\"><h2>可核实的下一步</h2><p>在支付学校押金和跨境搬迁成本以前，应让拟就读学校、居住地教育主管部门与中国领区希腊领馆分别以书面确认学校接收、年级安置、D签/居留类别及监护文件。学校招生团队只能解释学校条件，不能替移民机关承诺居留。</p><p>即使三方答复积极，也须按家庭真实资产来源、私人保险、住房合同与孩子语言基础复核资金和毕业节点；若家长只有在希腊工作才能达成净支出上限，则停止把 I.8 当作可行方案。</p><ol class=\"yv-flow\"><li><span>13—17岁，出境前</span><strong>取得学校对既往成绩、中文文件翻译认证、年级、希腊语支持及考试路径的书面答复。</strong><p>核验：实际录取与可完成课程，非营销简介。</p></li><li><span>签证前</span><strong>由领馆核对父母 I.8 与子女个人签证、资金来源和保险；若主张 H.7，提交真实项目方证书。</strong><p>核验：两人各自合法入境、居留权与禁止工作边界。</p></li><li><span>18岁前一年</span><strong>核对孩子成年后的居留类别、大学入学资格和资金；保留回国衔接备选。</strong><p>核验：不中断居留与学籍，避免把升学当自动续签。</p></li></ol><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-6\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR03-7\" data-ref=\"southchild-SC-GR03\" href=\"#ref-southchild-SC-GR03\">[SC-GR03]</a> <a id=\"cite-southchild-SC-GR04-8\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR07-9\" data-ref=\"southchild-SC-GR07\" href=\"#ref-southchild-SC-GR07\">[SC-GR07]</a> <a id=\"cite-southchild-SC-GR08-10\" data-ref=\"southchild-SC-GR08\" href=\"#ref-southchild-SC-GR08\">[SC-GR08]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-gr-decision",
+          "title": "先看四道门"
+        },
+        {
+          "id": "sc-gr-actions",
+          "title": "可核实的下一步"
+        }
+      ]
+    },
+    {
+      "id": "greece-route",
+      "label": "希腊｜路径",
+      "title": "法律类别与公校入学是两张不同的地图",
+      "summary": "5038/2023号《移民法》在2026年经5275/2026号法修订。其 E 类是受雇就业许可类别；教育居留主要为 H 类，并不存在可直接套用的普通高中‘E类学生签’。",
+      "sections": [
+        {
+          "id": "gr-permit-map",
+          "title": "跨境申请人的类别对照",
+          "paragraphs": [
+            "5038/2023号法第9条类别和第106条 H.1 明确将普通学习许可锚定高等教育机构录取。2026年第5275号法虽扩大某些大学、college 和特定奖学金项目的学习与兼职安排，没有创设普通境外中学生附带一位家长陪读且可工作的通用类别。以 E 类雇佣作为本案前提，会变成家长先获得真实雇主工作的另一种项目，与孩子先行需求不符。"
+          ],
+          "table": {
+            "headers": [
+              "法定轨道",
+              "孩子13—17岁普通中学",
+              "家长能否同住／工作",
+              "本案判断"
+            ],
+            "rows": [
+              [
+                "H.1 高教学习，第106条",
+                "要求希腊高等教育机构录取，不能凭普通高中 offer 申请",
+                "不构成未成年孩子向上担保家长",
+                "不适用"
+              ],
+              [
+                "H.7 特定交流／奖学金，第130条，2026修订",
+                "只有真实双边交流、欧盟资助合作或列明奖学金且有项目方证明时可再核具体年龄和课程",
+                "条款未给普通家长派生陪读卡；2026兼职只写符合条件的获资助者本人≤20小时／周",
+                "条件极窄，非五年普通高中通道"
+              ],
+              [
+                "I.8 足额资金居留，第163(8)条",
+                "孩子以主申请人未成年家属取得个人卡，再申请学校",
+                "家长可同住，双方均不得在希腊受雇或自营",
+                "法律结构可见，预算与资金门槛不合"
+              ],
+              [
+                "E 类受雇就业，第26条起",
+                "孩子可能通过合法工作家长作为家属入学",
+                "需真实雇主与独立就业准入；不是陪读工作许可",
+                "另案，不作为孩子先行方案"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-GR01",
+            "SC-GR02",
+            "SC-GR03",
+            "SC-GR04",
+            "SC-GR05"
+          ]
+        },
+        {
+          "id": "gr-public-school",
+          "title": "公立 Gymnasio／Lykeio：入学不等于签证",
+          "paragraphs": [
+            "希腊教育部说明第三国未成年学生即使居留手续未完全规范，仍有学校活动参与权；政府的2026—27学年 e-εγγραφές 页面接收公立普通高中 GEL、职业高中 EPAL 的年度报名与续报。教育部2026年通告显示首轮申请为6月30日至7月8日，随后须看分配与学校材料核验。境外新来者应由地区中等教育局确认实际入读时点、成绩单等值与年级，不把线上登记窗口当签证资格。",
+            "公校通常为希腊语课程，免费学费及课本。教育部接待班 T.Y. I 面向零基础，最多约每周15小时希腊语、通常一学年；T.Y. II 为基础希腊语学生提供后续支持。这是并入希腊语主班的过渡，不能理解为全英文高中；16—17岁起步尤其要评估能否及时达到毕业和升学所需水平。"
+          ],
+          "bullets": [
+            "若只是私立英语学校发 offer：向学校问清录取、语言评估、是否要求监护人与合法居留；再独立向领馆确认每人的 D 签依据。",
+            "若考虑低费公校：先确认父母合法居住、居住地学区和孩子学业衔接；免费教育不能修补没有父母合法居留的缺口。"
+          ],
+          "refs": [
+            "SC-GR01",
+            "SC-GR06",
+            "SC-GR07",
+            "SC-GR08",
+            "SC-GR16"
+          ]
+        }
+      ],
+      "file": "south-child-greece-route.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "greece",
+      "keywords": "希腊 greece-route Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-GR01",
+        "southchild-SC-GR02",
+        "southchild-SC-GR03",
+        "southchild-SC-GR04",
+        "southchild-SC-GR05",
+        "southchild-SC-GR06",
+        "southchild-SC-GR07",
+        "southchild-SC-GR08",
+        "southchild-SC-GR16"
+      ],
+      "citeAnchors": {
+        "southchild-SC-GR01": "cite-southchild-SC-GR01-1",
+        "southchild-SC-GR02": "cite-southchild-SC-GR02-2",
+        "southchild-SC-GR03": "cite-southchild-SC-GR03-3",
+        "southchild-SC-GR04": "cite-southchild-SC-GR04-4",
+        "southchild-SC-GR05": "cite-southchild-SC-GR05-5",
+        "southchild-SC-GR06": "cite-southchild-SC-GR06-7",
+        "southchild-SC-GR07": "cite-southchild-SC-GR07-8",
+        "southchild-SC-GR08": "cite-southchild-SC-GR08-9",
+        "southchild-SC-GR16": "cite-southchild-SC-GR16-10"
+      },
+      "html": "<section id=\"sc-gr-permit-map\"><h2>跨境申请人的类别对照</h2><p>5038/2023号法第9条类别和第106条 H.1 明确将普通学习许可锚定高等教育机构录取。2026年第5275号法虽扩大某些大学、college 和特定奖学金项目的学习与兼职安排，没有创设普通境外中学生附带一位家长陪读且可工作的通用类别。以 E 类雇佣作为本案前提，会变成家长先获得真实雇主工作的另一种项目，与孩子先行需求不符。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">法定轨道</th><th scope=\"col\">孩子13—17岁普通中学</th><th scope=\"col\">家长能否同住／工作</th><th scope=\"col\">本案判断</th></tr></thead><tbody><tr><td>H.1 高教学习，第106条</td><td>要求希腊高等教育机构录取，不能凭普通高中 offer 申请</td><td>不构成未成年孩子向上担保家长</td><td>不适用</td></tr><tr><td>H.7 特定交流／奖学金，第130条，2026修订</td><td>只有真实双边交流、欧盟资助合作或列明奖学金且有项目方证明时可再核具体年龄和课程</td><td>条款未给普通家长派生陪读卡；2026兼职只写符合条件的获资助者本人≤20小时／周</td><td>条件极窄，非五年普通高中通道</td></tr><tr><td>I.8 足额资金居留，第163(8)条</td><td>孩子以主申请人未成年家属取得个人卡，再申请学校</td><td>家长可同住，双方均不得在希腊受雇或自营</td><td>法律结构可见，预算与资金门槛不合</td></tr><tr><td>E 类受雇就业，第26条起</td><td>孩子可能通过合法工作家长作为家属入学</td><td>需真实雇主与独立就业准入；不是陪读工作许可</td><td>另案，不作为孩子先行方案</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-1\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR02-2\" data-ref=\"southchild-SC-GR02\" href=\"#ref-southchild-SC-GR02\">[SC-GR02]</a> <a id=\"cite-southchild-SC-GR03-3\" data-ref=\"southchild-SC-GR03\" href=\"#ref-southchild-SC-GR03\">[SC-GR03]</a> <a id=\"cite-southchild-SC-GR04-4\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR05-5\" data-ref=\"southchild-SC-GR05\" href=\"#ref-southchild-SC-GR05\">[SC-GR05]</a></p></section>\n<section id=\"sc-gr-public-school\"><h2>公立 Gymnasio／Lykeio：入学不等于签证</h2><p>希腊教育部说明第三国未成年学生即使居留手续未完全规范，仍有学校活动参与权；政府的2026—27学年 e-εγγραφές 页面接收公立普通高中 GEL、职业高中 EPAL 的年度报名与续报。教育部2026年通告显示首轮申请为6月30日至7月8日，随后须看分配与学校材料核验。境外新来者应由地区中等教育局确认实际入读时点、成绩单等值与年级，不把线上登记窗口当签证资格。</p><p>公校通常为希腊语课程，免费学费及课本。教育部接待班 T.Y. I 面向零基础，最多约每周15小时希腊语、通常一学年；T.Y. II 为基础希腊语学生提供后续支持。这是并入希腊语主班的过渡，不能理解为全英文高中；16—17岁起步尤其要评估能否及时达到毕业和升学所需水平。</p><ul class=\"yv-checks\"><li>若只是私立英语学校发 offer：向学校问清录取、语言评估、是否要求监护人与合法居留；再独立向领馆确认每人的 D 签依据。</li><li>若考虑低费公校：先确认父母合法居住、居住地学区和孩子学业衔接；免费教育不能修补没有父母合法居留的缺口。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-6\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR06-7\" data-ref=\"southchild-SC-GR06\" href=\"#ref-southchild-SC-GR06\">[SC-GR06]</a> <a id=\"cite-southchild-SC-GR07-8\" data-ref=\"southchild-SC-GR07\" href=\"#ref-southchild-SC-GR07\">[SC-GR07]</a> <a id=\"cite-southchild-SC-GR08-9\" data-ref=\"southchild-SC-GR08\" href=\"#ref-southchild-SC-GR08\">[SC-GR08]</a> <a id=\"cite-southchild-SC-GR16-10\" data-ref=\"southchild-SC-GR16\" href=\"#ref-southchild-SC-GR16\">[SC-GR16]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-gr-permit-map",
+          "title": "跨境申请人的类别对照"
+        },
+        {
+          "id": "sc-gr-public-school",
+          "title": "公立 Gymnasio／Lykeio：入学不等于签证"
+        }
+      ]
+    },
+    {
+      "id": "greece-costs",
+      "label": "希腊｜费用",
+      "title": "两人住五年的现金流与资金证明分开计算",
+      "summary": "私校收费可查，但英语授课价格远高于亲子全年20万元上限。公校能省学费，不能保证租金、保险、语言补习与居留门槛。",
+      "sections": [
+        {
+          "id": "gr-fee-check",
+          "title": "可核的2026—27学校价格",
+          "paragraphs": [
+            "学校官网学费是课程标价，未包含家庭住宿或身份申请，更不代表有空位、录取或签证。Pinewood 塞萨洛尼基 Grades 6—12 学费€14,120；Athens 的 ISA Grades 10为€14,500、Grades 11—12为€15,000，另有新生一次性€1,700、校车€2,100—2,800、IB考试费等；ACS Athens Grades 9—12 总学费和列示杂费合计€16,348，另有入学注册费与可能的语言支持费。按统一规划汇率€1=¥8.00，仅€15,000学费即¥120,000（12万），还未付两人的任何生活成本。"
+          ],
+          "table": {
+            "headers": [
+              "学校／轨道",
+              "2026—27公开价格",
+              "未计成本／条件"
+            ],
+            "rows": [
+              [
+                "公立 GEL／EPAL",
+                "学费€0；公校教材免费",
+                "必须先解决合法长期居留、希腊语、住房和年级安置"
+              ],
+              [
+                "Pinewood，Grades 6—12",
+                "€14,120/年；IBDP €14,300",
+                "书本等费用及家庭生活另计"
+              ],
+              [
+                "ISA，Grades 10／11—12",
+                "€14,500／€15,000/年",
+                "新生€1,700；巴士、考试及支持服务另计"
+              ],
+              [
+                "ACS Athens，Grades 9—12",
+                "€16,348/年总学费及列示费用",
+                "新生注册€963；IB／ESL等另计"
+              ]
+            ]
+          },
+          "refs": [
+            "SC-GR09",
+            "SC-GR10",
+            "SC-GR11",
+            "SC-GR16"
+          ]
+        },
+        {
+          "id": "gr-cash-model",
+          "title": "家庭现金流：这只是有假设的压力测试",
+          "paragraphs": [
+            "希腊统计局2024家庭预算调查显示全国家庭平均消费€1,724.54/月；这个均值并非2026年雅典两人租屋报价，也未按新移民家庭筛选。本模型因而显式设定：适中地段家庭租屋€750/月、两人食品€500、公用事业与网络€250、两人私人医保€220、公交€60、衣物与学习杂项€200，共€1,980/月、€23,760/年；每年再预留€2,000用于返乡交通、签证卡片、翻译、语言与搬迁摊销，总计€25,760/年＝¥206,080（20.608万），已经超过¥20万上限。房租、保险和机票须用实际报价替换；€2,000绝非重大医疗缓冲。",
+            "同等成本静态五年为€128,800＝¥1,030,400（103.04万），尚未算通胀、汇率波动或大学阶段。若月租每增加€100，全年多¥9,600，并进一步扩大超支。私校用同一生活模型，Pinewood 合计€39,880＝¥319,040（31.904万）/年；ISA Grades 11—12 €40,760＝¥326,080（32.608万）/年，首年另加注册费。此处没有用未来打工收入冲减，因为 I.8 禁止希腊本地工作。"
+          ],
+          "bullets": [
+            "真实家庭须拿具体学区附近长期租约、押金、中介费、两人可接受的私保报价和学校通勤报价复核；全国统计均值不能替代。",
+            "所有人民币值按€1=¥8.00规划假设计算；它不是市场报价。银行换汇、汇款手续费和下一年度汇率会不同。"
+          ],
+          "refs": [
+            "SC-GR04",
+            "SC-GR09",
+            "SC-GR10",
+            "SC-GR11",
+            "SC-GR12"
+          ]
+        },
+        {
+          "id": "gr-funds",
+          "title": "I.8 资格门槛不是花费预测",
+          "paragraphs": [
+            "2024年联合部长决定225679依5038/2023第163(8)条，把主要申请人的足额生活资源定为至少€3,500/月；携一名孩子增加15%，即€4,025/月、€48,300/年，按€1=¥8.00规划汇率为¥386,400（38.64万）/年。可通过境外养老金、银行账户、可说明合法来源的自有资金等证明；可按定期月收入或其他来源的年度资源评估。资本形式不等于每年必须花掉€48,300，但申请人须真实拥有并能举证，且不会在希腊就业或经商。若家庭五年可用净资金仅¥100万且没有其他合格收入，不能据此断定每次申请和续期均满足资金资格。",
+            "某些希腊行政网页仍载旧法4251/2014的€2,000/月、两年期信息；本案使用5038/2023第163(8)条及更新的2024年资金决定，不能拿旧页面降低现行门槛。"
+          ],
+          "refs": [
+            "SC-GR04",
+            "SC-GR05",
+            "SC-GR18"
+          ]
+        }
+      ],
+      "file": "south-child-greece-costs.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "greece",
+      "keywords": "希腊 greece-costs Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-GR09",
+        "southchild-SC-GR10",
+        "southchild-SC-GR11",
+        "southchild-SC-GR16",
+        "southchild-SC-GR04",
+        "southchild-SC-GR12",
+        "southchild-SC-GR05",
+        "southchild-SC-GR18"
+      ],
+      "citeAnchors": {
+        "southchild-SC-GR09": "cite-southchild-SC-GR09-1",
+        "southchild-SC-GR10": "cite-southchild-SC-GR10-2",
+        "southchild-SC-GR11": "cite-southchild-SC-GR11-3",
+        "southchild-SC-GR16": "cite-southchild-SC-GR16-4",
+        "southchild-SC-GR04": "cite-southchild-SC-GR04-5",
+        "southchild-SC-GR12": "cite-southchild-SC-GR12-9",
+        "southchild-SC-GR05": "cite-southchild-SC-GR05-11",
+        "southchild-SC-GR18": "cite-southchild-SC-GR18-12"
+      },
+      "html": "<section id=\"sc-gr-fee-check\"><h2>可核的2026—27学校价格</h2><p>学校官网学费是课程标价，未包含家庭住宿或身份申请，更不代表有空位、录取或签证。Pinewood 塞萨洛尼基 Grades 6—12 学费€14,120；Athens 的 ISA Grades 10为€14,500、Grades 11—12为€15,000，另有新生一次性€1,700、校车€2,100—2,800、IB考试费等；ACS Athens Grades 9—12 总学费和列示杂费合计€16,348，另有入学注册费与可能的语言支持费。按统一规划汇率€1=¥8.00，仅€15,000学费即¥120,000（12万），还未付两人的任何生活成本。</p><div class=\"yv-table\" role=\"region\" aria-label=\"可横向滚动的对照表\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">学校／轨道</th><th scope=\"col\">2026—27公开价格</th><th scope=\"col\">未计成本／条件</th></tr></thead><tbody><tr><td>公立 GEL／EPAL</td><td>学费€0；公校教材免费</td><td>必须先解决合法长期居留、希腊语、住房和年级安置</td></tr><tr><td>Pinewood，Grades 6—12</td><td>€14,120/年；IBDP €14,300</td><td>书本等费用及家庭生活另计</td></tr><tr><td>ISA，Grades 10／11—12</td><td>€14,500／€15,000/年</td><td>新生€1,700；巴士、考试及支持服务另计</td></tr><tr><td>ACS Athens，Grades 9—12</td><td>€16,348/年总学费及列示费用</td><td>新生注册€963；IB／ESL等另计</td></tr></tbody></table></div><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR09-1\" data-ref=\"southchild-SC-GR09\" href=\"#ref-southchild-SC-GR09\">[SC-GR09]</a> <a id=\"cite-southchild-SC-GR10-2\" data-ref=\"southchild-SC-GR10\" href=\"#ref-southchild-SC-GR10\">[SC-GR10]</a> <a id=\"cite-southchild-SC-GR11-3\" data-ref=\"southchild-SC-GR11\" href=\"#ref-southchild-SC-GR11\">[SC-GR11]</a> <a id=\"cite-southchild-SC-GR16-4\" data-ref=\"southchild-SC-GR16\" href=\"#ref-southchild-SC-GR16\">[SC-GR16]</a></p></section>\n<section id=\"sc-gr-cash-model\"><h2>家庭现金流：这只是有假设的压力测试</h2><p>希腊统计局2024家庭预算调查显示全国家庭平均消费€1,724.54/月；这个均值并非2026年雅典两人租屋报价，也未按新移民家庭筛选。本模型因而显式设定：适中地段家庭租屋€750/月、两人食品€500、公用事业与网络€250、两人私人医保€220、公交€60、衣物与学习杂项€200，共€1,980/月、€23,760/年；每年再预留€2,000用于返乡交通、签证卡片、翻译、语言与搬迁摊销，总计€25,760/年＝¥206,080（20.608万），已经超过¥20万上限。房租、保险和机票须用实际报价替换；€2,000绝非重大医疗缓冲。</p><p>同等成本静态五年为€128,800＝¥1,030,400（103.04万），尚未算通胀、汇率波动或大学阶段。若月租每增加€100，全年多¥9,600，并进一步扩大超支。私校用同一生活模型，Pinewood 合计€39,880＝¥319,040（31.904万）/年；ISA Grades 11—12 €40,760＝¥326,080（32.608万）/年，首年另加注册费。此处没有用未来打工收入冲减，因为 I.8 禁止希腊本地工作。</p><ul class=\"yv-checks\"><li>真实家庭须拿具体学区附近长期租约、押金、中介费、两人可接受的私保报价和学校通勤报价复核；全国统计均值不能替代。</li><li>所有人民币值按€1=¥8.00规划假设计算；它不是市场报价。银行换汇、汇款手续费和下一年度汇率会不同。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR04-5\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR09-6\" data-ref=\"southchild-SC-GR09\" href=\"#ref-southchild-SC-GR09\">[SC-GR09]</a> <a id=\"cite-southchild-SC-GR10-7\" data-ref=\"southchild-SC-GR10\" href=\"#ref-southchild-SC-GR10\">[SC-GR10]</a> <a id=\"cite-southchild-SC-GR11-8\" data-ref=\"southchild-SC-GR11\" href=\"#ref-southchild-SC-GR11\">[SC-GR11]</a> <a id=\"cite-southchild-SC-GR12-9\" data-ref=\"southchild-SC-GR12\" href=\"#ref-southchild-SC-GR12\">[SC-GR12]</a></p></section>\n<section id=\"sc-gr-funds\"><h2>I.8 资格门槛不是花费预测</h2><p>2024年联合部长决定225679依5038/2023第163(8)条，把主要申请人的足额生活资源定为至少€3,500/月；携一名孩子增加15%，即€4,025/月、€48,300/年，按€1=¥8.00规划汇率为¥386,400（38.64万）/年。可通过境外养老金、银行账户、可说明合法来源的自有资金等证明；可按定期月收入或其他来源的年度资源评估。资本形式不等于每年必须花掉€48,300，但申请人须真实拥有并能举证，且不会在希腊就业或经商。若家庭五年可用净资金仅¥100万且没有其他合格收入，不能据此断定每次申请和续期均满足资金资格。</p><p>某些希腊行政网页仍载旧法4251/2014的€2,000/月、两年期信息；本案使用5038/2023第163(8)条及更新的2024年资金决定，不能拿旧页面降低现行门槛。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR04-10\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR05-11\" data-ref=\"southchild-SC-GR05\" href=\"#ref-southchild-SC-GR05\">[SC-GR05]</a> <a id=\"cite-southchild-SC-GR18-12\" data-ref=\"southchild-SC-GR18\" href=\"#ref-southchild-SC-GR18\">[SC-GR18]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-gr-fee-check",
+          "title": "可核的2026—27学校价格"
+        },
+        {
+          "id": "sc-gr-cash-model",
+          "title": "家庭现金流：这只是有假设的压力测试"
+        },
+        {
+          "id": "sc-gr-funds",
+          "title": "I.8 资格门槛不是花费预测"
+        }
+      ]
+    },
+    {
+      "id": "greece-residence",
+      "label": "希腊｜五年以后",
+      "title": "18岁、大学与长期居留：三个新的申请节点",
+      "summary": "希腊高中毕业不自动续居留；五年住满不自动变欧盟长期居民；国籍另受更长居留、合格许可与语言融入条件约束。",
+      "sections": [
+        {
+          "id": "gr-age18",
+          "title": "孩子满18岁前必须重新排法定身份",
+          "paragraphs": [
+            "I.8 家属许可依主申请人的居留而存在；资料条款明确随同未成年子女个人卡，但不能据此保证成年后仍能按同样家属资格续签。孩子应在18岁前至少一年确定：是否完成相应高中、获得大学或其他法律列明教育机构录取、能否以自身条件申请相应许可，以及若未录取如何合法离境或转换。希腊移民法第18条允许在希腊完成中学者按本国人同等条件进入高教申请程序，但这是考试与录取准入，不等于保送大学、学费豁免或自动 H.1 居留。",
+            "普通家长的监护义务到成年可能变化，但家长 I.8 的居留仍受自己的资金及其他许可条件约束。两人的许可、保险和续期时间应分别建档；大学后的打工规则仅在大学学习许可本身获批时讨论，不能倒灌到高中家长。"
+          ],
+          "refs": [
+            "SC-GR01",
+            "SC-GR04",
+            "SC-GR06",
+            "SC-GR13"
+          ]
+        },
+        {
+          "id": "gr-long-term",
+          "title": "EU long-term resident 与十年 M.2 不是五年保证",
+          "paragraphs": [
+            "5038/2023第143—144条的欧盟长期居民 M.1 原则上要求申请前连续、合法在希腊五年，同时有足够且稳定的家庭收入、全面医疗保险及希腊社会融入证明；离境通常不能连续满六个月或五年累计超过十个月。教育或职业培训居留期间即使未来可计，也仅按一半计入，且该类别持有人在该类别本身不能直接依长期居民章申请。故‘孩子上五年学就拿欧盟永居’并无依据。对于 I.8 主申请人，是否满足具体个案 M.1 收入、保险、整合、在境日期与文件，需在届时按现行行政规则核定；法律并未把五年 I.8 自动换卡。",
+            "2026年第5275号法第38条改写第161条：十年 M.2 一般路线为十年连续合法居留加融入条件；另有在希腊出生或23岁前成功完成六个希腊学校年级的人可按该款申请。旧版条文关于‘作为无人陪伴未成年人入境、完成三年中学’的单独款已在2026新文本中删去，尤其不适用于由家长同行的本案。13岁入读并不能预先承诺六个年级都能成功完成，更不能在第5年就按六年条件申请。"
+          ],
+          "bullets": [
+            "M.1 语言途径在2026修法后包括希腊课程学校的规定毕业证明、B1语言证书、指定语言历史文化考试等；法律还新增连续合法居住12年的证明途径。孩子的英语国际学校文凭不应自动视为希腊课程证明。",
+            "持有某种长期居留身份与获得希腊护照并非同一回事；不能把可申请日期说成获批日期。"
+          ],
+          "refs": [
+            "SC-GR01",
+            "SC-GR02",
+            "SC-GR13",
+            "SC-GR14"
+          ]
+        },
+        {
+          "id": "gr-citizenship",
+          "title": "国籍与回国选项",
+          "paragraphs": [
+            "希腊内政部国籍法材料列普通归化通常需连续七年合法居留、合资格居留文件，以及希腊语、历史社会与经济融入；部分持有效但非临时居留文件者可能适用十二年路径。不能把家庭在公校读五年转换为自动入籍。另有以希腊学校九年或中学六年等特定完成年数为基础的国籍规则，13—17岁到达者不能先假定满足；申请时间、法定居留和毕业证明都要逐项核。",
+            "如果孩子的希腊语进展或学校安置不符合预期，应保留中国原成绩单、课程大纲、每年学校正式成绩、疫苗与学籍证明，以便回国或转往其他受认可课程。希腊公校免费本身不足以覆盖孩子的语言适应成本，也不能替代最终的升学出口设计。"
+          ],
+          "refs": [
+            "SC-GR14",
+            "SC-GR15",
+            "SC-GR08"
+          ]
+        }
+      ],
+      "file": "south-child-greece-residence.html",
+      "report": "southchild",
+      "reportLabel": "南欧孩子先行",
+      "category": "southchild",
+      "categoryLabel": "南欧亲子",
+      "countryId": "greece",
+      "keywords": "希腊 greece-residence Portugal Spain Greece 南欧 孩子 高中 陪读 五年 居住 永居 入籍",
+      "refs": [
+        "southchild-SC-GR01",
+        "southchild-SC-GR04",
+        "southchild-SC-GR06",
+        "southchild-SC-GR13",
+        "southchild-SC-GR02",
+        "southchild-SC-GR14",
+        "southchild-SC-GR15",
+        "southchild-SC-GR08"
+      ],
+      "citeAnchors": {
+        "southchild-SC-GR01": "cite-southchild-SC-GR01-1",
+        "southchild-SC-GR04": "cite-southchild-SC-GR04-2",
+        "southchild-SC-GR06": "cite-southchild-SC-GR06-3",
+        "southchild-SC-GR13": "cite-southchild-SC-GR13-4",
+        "southchild-SC-GR02": "cite-southchild-SC-GR02-6",
+        "southchild-SC-GR14": "cite-southchild-SC-GR14-8",
+        "southchild-SC-GR15": "cite-southchild-SC-GR15-10",
+        "southchild-SC-GR08": "cite-southchild-SC-GR08-11"
+      },
+      "html": "<section id=\"sc-gr-age18\"><h2>孩子满18岁前必须重新排法定身份</h2><p>I.8 家属许可依主申请人的居留而存在；资料条款明确随同未成年子女个人卡，但不能据此保证成年后仍能按同样家属资格续签。孩子应在18岁前至少一年确定：是否完成相应高中、获得大学或其他法律列明教育机构录取、能否以自身条件申请相应许可，以及若未录取如何合法离境或转换。希腊移民法第18条允许在希腊完成中学者按本国人同等条件进入高教申请程序，但这是考试与录取准入，不等于保送大学、学费豁免或自动 H.1 居留。</p><p>普通家长的监护义务到成年可能变化，但家长 I.8 的居留仍受自己的资金及其他许可条件约束。两人的许可、保险和续期时间应分别建档；大学后的打工规则仅在大学学习许可本身获批时讨论，不能倒灌到高中家长。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-1\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR04-2\" data-ref=\"southchild-SC-GR04\" href=\"#ref-southchild-SC-GR04\">[SC-GR04]</a> <a id=\"cite-southchild-SC-GR06-3\" data-ref=\"southchild-SC-GR06\" href=\"#ref-southchild-SC-GR06\">[SC-GR06]</a> <a id=\"cite-southchild-SC-GR13-4\" data-ref=\"southchild-SC-GR13\" href=\"#ref-southchild-SC-GR13\">[SC-GR13]</a></p></section>\n<section id=\"sc-gr-long-term\"><h2>EU long-term resident 与十年 M.2 不是五年保证</h2><p>5038/2023第143—144条的欧盟长期居民 M.1 原则上要求申请前连续、合法在希腊五年，同时有足够且稳定的家庭收入、全面医疗保险及希腊社会融入证明；离境通常不能连续满六个月或五年累计超过十个月。教育或职业培训居留期间即使未来可计，也仅按一半计入，且该类别持有人在该类别本身不能直接依长期居民章申请。故‘孩子上五年学就拿欧盟永居’并无依据。对于 I.8 主申请人，是否满足具体个案 M.1 收入、保险、整合、在境日期与文件，需在届时按现行行政规则核定；法律并未把五年 I.8 自动换卡。</p><p>2026年第5275号法第38条改写第161条：十年 M.2 一般路线为十年连续合法居留加融入条件；另有在希腊出生或23岁前成功完成六个希腊学校年级的人可按该款申请。旧版条文关于‘作为无人陪伴未成年人入境、完成三年中学’的单独款已在2026新文本中删去，尤其不适用于由家长同行的本案。13岁入读并不能预先承诺六个年级都能成功完成，更不能在第5年就按六年条件申请。</p><ul class=\"yv-checks\"><li>M.1 语言途径在2026修法后包括希腊课程学校的规定毕业证明、B1语言证书、指定语言历史文化考试等；法律还新增连续合法居住12年的证明途径。孩子的英语国际学校文凭不应自动视为希腊课程证明。</li><li>持有某种长期居留身份与获得希腊护照并非同一回事；不能把可申请日期说成获批日期。</li></ul><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR01-5\" data-ref=\"southchild-SC-GR01\" href=\"#ref-southchild-SC-GR01\">[SC-GR01]</a> <a id=\"cite-southchild-SC-GR02-6\" data-ref=\"southchild-SC-GR02\" href=\"#ref-southchild-SC-GR02\">[SC-GR02]</a> <a id=\"cite-southchild-SC-GR13-7\" data-ref=\"southchild-SC-GR13\" href=\"#ref-southchild-SC-GR13\">[SC-GR13]</a> <a id=\"cite-southchild-SC-GR14-8\" data-ref=\"southchild-SC-GR14\" href=\"#ref-southchild-SC-GR14\">[SC-GR14]</a></p></section>\n<section id=\"sc-gr-citizenship\"><h2>国籍与回国选项</h2><p>希腊内政部国籍法材料列普通归化通常需连续七年合法居留、合资格居留文件，以及希腊语、历史社会与经济融入；部分持有效但非临时居留文件者可能适用十二年路径。不能把家庭在公校读五年转换为自动入籍。另有以希腊学校九年或中学六年等特定完成年数为基础的国籍规则，13—17岁到达者不能先假定满足；申请时间、法定居留和毕业证明都要逐项核。</p><p>如果孩子的希腊语进展或学校安置不符合预期，应保留中国原成绩单、课程大纲、每年学校正式成绩、疫苗与学籍证明，以便回国或转往其他受认可课程。希腊公校免费本身不足以覆盖孩子的语言适应成本，也不能替代最终的升学出口设计。</p><p class=\"sc-evidence-line\">本节证据 <a id=\"cite-southchild-SC-GR14-9\" data-ref=\"southchild-SC-GR14\" href=\"#ref-southchild-SC-GR14\">[SC-GR14]</a> <a id=\"cite-southchild-SC-GR15-10\" data-ref=\"southchild-SC-GR15\" href=\"#ref-southchild-SC-GR15\">[SC-GR15]</a> <a id=\"cite-southchild-SC-GR08-11\" data-ref=\"southchild-SC-GR08\" href=\"#ref-southchild-SC-GR08\">[SC-GR08]</a></p></section>",
+      "localToc": [
+        {
+          "id": "sc-gr-age18",
+          "title": "孩子满18岁前必须重新排法定身份"
+        },
+        {
+          "id": "sc-gr-long-term",
+          "title": "EU long-term resident 与十年 M.2 不是五年保证"
+        },
+        {
+          "id": "sc-gr-citizenship",
+          "title": "国籍与回国选项"
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "公校＋节制生活（纯假设）",
+      "annualEUR": 21000,
+      "setupEUR": 2000,
+      "inflation": 0.03,
+      "result": {
+        "rows": [
+          {
+            "year": 1,
+            "grossEUR": 23000,
+            "incomeEUR": 0,
+            "netRMB": 184000
+          },
+          {
+            "year": 2,
+            "grossEUR": 21630,
+            "incomeEUR": 0,
+            "netRMB": 173040
+          },
+          {
+            "year": 3,
+            "grossEUR": 22278.899999999998,
+            "incomeEUR": 0,
+            "netRMB": 178231
+          },
+          {
+            "year": 4,
+            "grossEUR": 22947.267,
+            "incomeEUR": 0,
+            "netRMB": 183578
+          },
+          {
+            "year": 5,
+            "grossEUR": 23635.685010000005,
+            "incomeEUR": 0,
+            "netRMB": 189085
+          }
+        ],
+        "totalRMB": 907934,
+        "annualPass": true,
+        "totalPass": true,
+        "incomeUsedEUR": 0,
+        "legalReady": false,
+        "executable": false
+      }
+    },
+    {
+      "name": "上项：人民币贬值10%压力",
+      "annualEUR": 21000,
+      "setupEUR": 2000,
+      "inflation": 0.03,
+      "fx": 8.8,
+      "result": {
+        "rows": [
+          {
+            "year": 1,
+            "grossEUR": 23000,
+            "incomeEUR": 0,
+            "netRMB": 202400
+          },
+          {
+            "year": 2,
+            "grossEUR": 21630,
+            "incomeEUR": 0,
+            "netRMB": 190344
+          },
+          {
+            "year": 3,
+            "grossEUR": 22278.899999999998,
+            "incomeEUR": 0,
+            "netRMB": 196054
+          },
+          {
+            "year": 4,
+            "grossEUR": 22947.267,
+            "incomeEUR": 0,
+            "netRMB": 201936
+          },
+          {
+            "year": 5,
+            "grossEUR": 23635.685010000005,
+            "incomeEUR": 0,
+            "netRMB": 207994
+          }
+        ],
+        "totalRMB": 998728,
+        "annualPass": false,
+        "totalPass": true,
+        "incomeUsedEUR": 0,
+        "legalReady": false,
+        "executable": false
+      }
+    },
+    {
+      "name": "英语国际校＋同档生活",
+      "annualEUR": 31000,
+      "setupEUR": 2000,
+      "inflation": 0.03,
+      "result": {
+        "rows": [
+          {
+            "year": 1,
+            "grossEUR": 33000,
+            "incomeEUR": 0,
+            "netRMB": 264000
+          },
+          {
+            "year": 2,
+            "grossEUR": 31930,
+            "incomeEUR": 0,
+            "netRMB": 255440
+          },
+          {
+            "year": 3,
+            "grossEUR": 32887.9,
+            "incomeEUR": 0,
+            "netRMB": 263103
+          },
+          {
+            "year": 4,
+            "grossEUR": 33874.537,
+            "incomeEUR": 0,
+            "netRMB": 270996
+          },
+          {
+            "year": 5,
+            "grossEUR": 34890.77311,
+            "incomeEUR": 0,
+            "netRMB": 279126
+          }
+        ],
+        "totalRMB": 1332665,
+        "annualPass": false,
+        "totalPass": false,
+        "incomeUsedEUR": 0,
+        "legalReady": false,
+        "executable": false
+      }
+    },
+    {
+      "name": "独立可工作身份、年净工资€6,000",
+      "annualEUR": 26000,
+      "setupEUR": 2000,
+      "inflation": 0.03,
+      "annualNetIncomeEUR": 6000,
+      "incomeAuthorized": true,
+      "result": {
+        "rows": [
+          {
+            "year": 1,
+            "grossEUR": 28000,
+            "incomeEUR": 6000,
+            "netRMB": 176000
+          },
+          {
+            "year": 2,
+            "grossEUR": 26780,
+            "incomeEUR": 6000,
+            "netRMB": 166240
+          },
+          {
+            "year": 3,
+            "grossEUR": 27583.399999999998,
+            "incomeEUR": 6000,
+            "netRMB": 172667
+          },
+          {
+            "year": 4,
+            "grossEUR": 28410.902000000002,
+            "incomeEUR": 6000,
+            "netRMB": 179287
+          },
+          {
+            "year": 5,
+            "grossEUR": 29263.229060000005,
+            "incomeEUR": 6000,
+            "netRMB": 186106
+          }
+        ],
+        "totalRMB": 880300,
+        "annualPass": true,
+        "totalPass": true,
+        "incomeUsedEUR": 6000,
+        "legalReady": false,
+        "executable": false
+      }
+    }
+  ],
+  "budgetAssumptions": {
+    "fx": 8,
+    "inflation": 0.03,
+    "annualNetCeilingRMB": 200000,
+    "totalCeilingRMB": 1000000,
+    "legalReady": false
+  }
+}

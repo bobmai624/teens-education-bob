@@ -1,0 +1,4 @@
+@import url('youth-vet-style.css');
+.sc-links{display:flex;flex-wrap:wrap;gap:.7rem 1rem;margin:1rem 0}.sc-links a{padding:.4rem .7rem;background:#eef3ec;border:1px solid #d5e2d8;border-radius:6px}.sc-evidence-line{font-size:.88rem;line-height:2;color:#597368}.sc-evidence-line a{white-space:nowrap}.sc-content .yv-table td{min-width:130px}.sc-content .yv-table th{min-width:130px}.sc-content .yv-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.sc-content .yv-card p{font-size:.98rem}.sc-content section{scroll-margin-top:100px}
+@media(max-width:1000px){.sc-content .yv-grid{grid-template-columns:1fr}.sc-content .yv-table td,.sc-content .yv-table th{min-width:125px}}
+@media print{.sc-links a{background:none}.sc-content .yv-table{overflow:visible}.sc-content table{font-size:9pt}.sc-content .yv-table td,.sc-content .yv-table th{min-width:0}.sc-content .yv-flow{display:block}.sc-content .yv-flow li{break-inside:avoid;margin-bottom:8pt}}

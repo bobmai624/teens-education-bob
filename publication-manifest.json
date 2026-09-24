@@ -48,9 +48,9 @@
       "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
     }
   ],
-  "siteVersion": "4.0",
-  "readingPages": 169,
-  "referenceRecords": 971,
+  "siteVersion": "5.0",
+  "readingPages": 185,
+  "referenceRecords": 1042,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -63,5 +63,8 @@
   "youthVocationalReport": "youth-vet-overview.html",
   "youthVocationalResearchDate": "2026-09-24",
   "youthVocationalCountries": 37,
-  "youthVocationalSources": 146
+  "youthVocationalSources": 146,
+  "southernChildFirstReport": "south-child-overview.html",
+  "southernChildFirstResearchDate": "2026-09-24",
+  "southernChildFirstSources": 71
 }

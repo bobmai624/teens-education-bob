@@ -20545,5 +20545,1840 @@
       }
     ],
     "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT01",
+    "code": "SC-PT01",
+    "key": "southchild-SC-PT01",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "第23/2007号外国人法现行整合文本：第3、62、80、83、92、97、99、122、125—126条",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67564445",
+    "note": "核查 2026-09-24 · Diário da República。支持：中学项目签证条件、学生工作和家庭边界、三类居留规则。 边界：页面第92和122条可能残留旧整合文字；两条以SC-PT02新法优先。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT01-1"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT01-1"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT01-1"
+      },
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT01-1"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT02",
+    "code": "SC-PT02",
+    "key": "southchild-SC-PT02",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Lei n.º 62/2026，修订第92及122条",
+    "url": "https://diariodarepublica.pt/dr/detalhe/lei/62-2026-1168979170",
+    "note": "核查 2026-09-24 · Diário da República。支持：2026-09-11生效；第92(1)改中学或CITE 2011第4级、废第4款；第122(1)(k)限定葡籍未成年子女。 边界：并未替个案确认具体学校、课程或签证。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT02-2"
+      },
+      {
+        "file": "south-child-evidence.html",
+        "title": "从官方规则到家庭可执行方案，还差哪些证据？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT02-1"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT02-2"
+      },
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT02-6"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT02-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT03",
+    "code": "SC-PT03",
+    "key": "southchild-SC-PT03",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Portaria n.º 1079/2007，中学居留签年龄",
+    "url": "https://diariodarepublica.pt/dr/detalhe/portaria/1079-2007-1883077",
+    "note": "核查 2026-09-24 · Diário da República。支持：第62条中学签申请时年龄至少14岁、不超过21岁。 边界：年龄合格仅为一项条件。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT03-3"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT03-3"
+      },
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT03-2"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT03-14"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT04",
+    "code": "SC-PT04",
+    "key": "southchild-SC-PT04",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "AIMA学生居留第92条操作页",
+    "url": "https://aima.gov.pt/pt/estudar/autorizacao-de-residencia-para-estudantes-art-92-o",
+    "note": "核查 2026-09-24 · AIMA。支持：列申请材料、注册、地址、生活来源与健康保障。 边界：仍写旧QNQ4/5与培训范围，不能覆盖2026新第92条。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT04-3"
+      },
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT04-6"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT04-15"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT05",
+    "code": "SC-PT05",
+    "key": "southchild-SC-PT05",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "AIMA家庭团聚第98条操作页",
+    "url": "https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-em-territorio-nacional-art-98-o-n-o-2",
+    "note": "核查 2026-09-24 · AIMA。支持：学生家庭团聚列配偶与子女，不列父母。 边界：页面对一般家庭成员另列受抚养父母，须结合外国人法第99(3)特殊限制。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT05-4"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT05-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-PT06",
+    "code": "SC-PT06",
+    "key": "southchild-SC-PT06",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "自有收入人士居留签证政府服务页",
+    "url": "https://www2.gov.pt/en/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios/-/asset_publisher/01mjqjlm1jP0/content/1842-srv-ces-fds_lead",
+    "note": "核查 2026-09-24 · gov.pt。支持：D7服务对象包括退休人士与靠自有收入生活者，向领事机构申请。 边界：不证明本家庭有自有收入或获批。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT06-12"
+      },
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT06-1"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT06-8"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT06-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT07",
+    "code": "SC-PT07",
+    "key": "southchild-SC-PT07",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "葡萄牙政府移民就业指南",
+    "url": "https://www.gov.pt/guias/migrantes-trabalhar-e-criar-um-negocio-em-portugal",
+    "note": "核查 2026-09-24 · gov.pt。支持：第三国公民就业须有允许就业的居留；劳动签申请需真实合同或承诺。 边界：一般指南不能替代家长具体许可与岗位核验。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT07-13"
+      },
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT07-7"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT07-5"
+      },
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT07-5"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT07-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT08",
+    "code": "SC-PT08",
+    "key": "southchild-SC-PT08",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Decreto-Lei n.º 176/2012，6—18岁义务教育和公校收费",
+    "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057",
+    "note": "核查 2026-09-24 · Diário da República。支持：义务教育普及且公校免学费、注册及认证费用。 边界：境内教育权不是境外居留签资格；其他生活开支另计。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT08-12"
+      },
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT08-8"
+      },
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT08-1"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-PT09",
+    "code": "SC-PT09",
+    "key": "southchild-SC-PT09",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "葡萄牙教育局PLNM政策",
+    "url": "https://www.dge.mec.pt/node/5089",
+    "note": "核查 2026-09-24 · DGE。支持：中学母语非葡语学生可作语言分级及PLNM支持。 边界：不承诺英语授课或特定学校的支持名额。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT09-4"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-PT10",
+    "code": "SC-PT10",
+    "key": "southchild-SC-PT10",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "2026高等教育申请及入学考试官方问答",
+    "url": "https://www.dges.gov.pt/pt/faq/condicoes-de-acesso-e-ingresso-no-ensino-superior",
+    "note": "核查 2026-09-24 · DGES。支持：大学申请需中学完成资格及院校指定入学考试；具体课程逐年公布。 边界：国际学生与居留年数的申请类别还须按申请年度核对。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-route.html",
+        "title": "中学签证、2026新法与18岁出口",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT10-10"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "SC-PT11",
+    "code": "SC-PT11",
+    "key": "southchild-SC-PT11",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Oporto British School 2026/27官方学费",
+    "url": "https://www.obs.edu.pt/school-fees/",
+    "note": "核查 2026-09-24 · Oporto British School。支持：IGCSE年付€15,315、IBDP €17,570，另维护€745及保险€55，并有入学、押金及考试费用。 边界：公开标价非offer；实际年级、考试、餐食与交通另计。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT11-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-PT12",
+    "code": "SC-PT12",
+    "key": "southchild-SC-PT12",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Portal da Habitação：2026 municipal T2最高可接受租金",
+    "url": "https://www.portaldahabitacao.pt/documents/20126/35882/RendasMaximas_2026.pdf/6c3a95b2-2358-65b5-f29e-6104fdefdda4?download=true&t=1773914188716&version=1.0",
+    "note": "核查 2026-09-24 · Portal da Habitação。支持：政策T2上限Leiria €560、Braga €671、Porto €1,118。 边界：仅为政策上限，非市场租金或可获得房源。",
+    "usedBy": [
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT12-3"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-PT13",
+    "code": "SC-PT13",
+    "key": "southchild-SC-PT13",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "2026最低工资€920",
+    "url": "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+    "note": "核查 2026-09-24 · DGERT。支持：法定每月最低毛工资€920。 边界：非家庭可获岗位、税后工资或签证收入。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT13-2"
+      },
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT13-4"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT13-7"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-PT14",
+    "code": "SC-PT14",
+    "key": "southchild-SC-PT14",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "2026国籍法修订，Lei Orgânica n.º 1/2026",
+    "url": "https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996",
+    "note": "核查 2026-09-24 · Diário da República。支持：普通中国籍成年人入籍居留门槛为10年，并有语言、文化、生活来源等条件。 边界：未成年人及过渡申请须另按个案和现行法律审查；不等于十年自动入籍。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT14-4"
+      },
+      {
+        "file": "south-child-portugal-overview.html",
+        "title": "葡萄牙｜孩子先读高中，父母能否陪住工作？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT14-6"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT14-10"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT15",
+    "code": "SC-PT15",
+    "key": "southchild-SC-PT15",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "AIMA国家永久居留第80条",
+    "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+    "note": "核查 2026-09-24 · AIMA。支持：至少五年临时居留、住所、生计与基础葡语等。 边界：国家永居与欧盟长期居民、国籍是不同审查。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT15-2"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT15-11"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-PT16",
+    "code": "SC-PT16",
+    "key": "southchild-SC-PT16",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "AIMA生活来源证明公式",
+    "url": "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+    "note": "核查 2026-09-24 · AIMA。支持：签证及居留资金核验有独立的生活来源证明规则。 边界：页面示例工资仍写2025；具体2026数额与证据形式须向领馆核实。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT16-3"
+      },
+      {
+        "file": "south-child-portugal-costs.html",
+        "title": "两人年度与五年净支出：只用可核数字",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT16-12"
+      },
+      {
+        "file": "south-child-portugal-residence.html",
+        "title": "父母工作、成年转段与三只居留时钟",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-PT16-8"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-ES01",
+    "code": "SC-ES01",
+    "key": "southchild-SC-ES01",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Real Decreto 1155/2024，现行整合文本，第35、52—57、176、183条",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099",
+    "note": "核查 2026-09-24 · 西班牙官方公报 BOE。支持：签证年龄、交流项目责任/时长、学生家属范围、工作限制及两类长期居留计时的首要法源。 边界：依申请时生效版本；具体个案仍由主管机关裁定。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES01-5"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES01-23"
+      },
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES01-1"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES01-1"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES01-1"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES02",
+    "code": "SC-ES02",
+    "key": "southchild-SC-ES02",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Hoja 1：高教或后义务中等教育长期学习停留",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/es/web/migraciones/w/estancia-por-estudios",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：列高教与Bachillerato条件；通用段落高教“满17”与具体条件“超过17”有措辞差异；Bachillerato写超过18。 边界：页面自称指导性；年龄以条例第35(f)条及领馆书面判断为准。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES02-2"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES02-2"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES02-9"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-ES03",
+    "code": "SC-ES03",
+    "key": "southchild-SC-ES03",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Hoja 3：中学生交流长期停留",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/autorizacion-de-estancia-por-movilidad-de-alumnos",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：正式项目、学校录取、指定非监护人负责人、寄宿或项目宿舍及最长一年。 边界：未证明有可供此家庭报名的具体项目、费用或学校。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES03-6"
+      },
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES03-3"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES03-4"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES03-10"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES04",
+    "code": "SC-ES04",
+    "key": "southchild-SC-ES04",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "北京总领馆：Non-working residence visa",
+    "url": "https://www.exteriores.gob.es/Consulados/pekin/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+    "note": "核查 2026-09-24 · 西班牙驻北京总领馆。支持：可带受抚养子女；主申请人400% IPREM、每名家属100%，须有保险，不构成工作许可。 边界：其他领区程序可能不同；最终审查以实际管辖领馆为准。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-7"
+      },
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-4"
+      },
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-4"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-5"
+      },
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-1"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES04-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES05",
+    "code": "SC-ES05",
+    "key": "southchild-SC-ES05",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Hoja 6：初次非盈利居留",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/en/web/migraciones/w/autorizacion-inicial-de-residencia-temporal-no-lucrativa",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：资金、保险及无需劳动活动条件。 边界：资金计算以申请年度IPREM和个人财务证据为准。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES05-5"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES05-6"
+      },
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES05-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES06",
+    "code": "SC-ES06",
+    "key": "southchild-SC-ES06",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "外国人组织法4/2000，第9条教育权",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544",
+    "note": "核查 2026-09-24 · 西班牙官方公报 BOE。支持：未成年人接受基础及后义务教育的权利；不自动生成签证或指定学校席位。 边界：必须另核实入境身份和当地学校分配。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES06-8"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES06-7"
+      },
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES06-5"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES06-12"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-ES07",
+    "code": "SC-ES07",
+    "key": "southchild-SC-ES07",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "教育部：ESO入学与免费义务教育",
+    "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/secundaria/informacion-general/acceso.html",
+    "note": "核查 2026-09-24 · 西班牙教育、职业培训和体育部。支持：ESO一般12—16岁且免费；外国体系学生按年龄、知识及成绩等分班。 边界：具体学位及语言支持由自治区落实。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES07-9"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES07-8"
+      },
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES07-6"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "SC-ES08",
+    "code": "SC-ES08",
+    "key": "southchild-SC-ES08",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "教育部：Bachillerato入学要求",
+    "url": "https://educagob.educacionfpydeportes.gob.es/eu/ensenanzas/bachillerato/informacion-general/acceso.html",
+    "note": "核查 2026-09-24 · 西班牙教育、职业培训和体育部。支持：公立Bachillerato免费，须满足ESO毕业或其他入学资格。 边界：免费不等于非居民未成年人可藉录取获得签证，也不保证学位。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES08-13"
+      },
+      {
+        "file": "south-child-spain-overview.html",
+        "title": "西班牙：免费公校成立，亲子陪读签证链并不成立",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES08-10"
+      },
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES08-9"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES08-8"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "SC-ES09",
+    "code": "SC-ES09",
+    "key": "southchild-SC-ES09",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "SERPAVI 2026住房部租金统计（基于2024年租约）",
+    "url": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4078",
+    "note": "核查 2026-09-24 · 西班牙住房与城市议程部。支持：Alicante、Elche、Gandia等市历史租金中位数，用作住房压力测试。 边界：2024年申报合同统计，非2026实时挂牌价或新移民可租价格。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES09-3"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-ES10",
+    "code": "SC-ES10",
+    "key": "southchild-SC-ES10",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "社会保障局：IPREM金额表",
+    "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/730",
+    "note": "核查 2026-09-24 · 西班牙社会保障局。支持：当前IPREM月额€600，可推算两人非盈利居留500%门槛。 边界：申请当年数额及适用年度须在递交前刷新；金额表不能替代领馆的资金文件审核。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES10-5"
+      },
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES10-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES11",
+    "code": "SC-ES11",
+    "key": "southchild-SC-ES11",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Caxton College官方收费表",
+    "url": "https://caxtoncollege.com/en/admissions/fees",
+    "note": "核查 2026-09-24 · Caxton College。支持：2026/27 Y10—11月学费€981，按十期；新生、资源和交通费用另列。 边界：英国课程私校，只作公开费用对照，不代表西班牙公校或可用签证项目。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES11-7"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-ES12",
+    "code": "SC-ES12",
+    "key": "southchild-SC-ES12",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "教育部：外国非大学学历的认证与换算",
+    "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/bachillerato/gestion-titulos.html",
+    "note": "核查 2026-09-24 · 西班牙教育、职业培训和体育部。支持：国外学业的homologación/convalidación需要依适用程序办理。 边界：此页未裁定特定中国成绩单可入哪个年级。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-route.html",
+        "title": "未成年高中生如何合法入学，以及谁负责照护",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES12-13"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "SC-ES13",
+    "code": "SC-ES13",
+    "key": "southchild-SC-ES13",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "American School of Valencia：2026/27 Tuition and Fees",
+    "url": "https://asvalencia.org/admissions/tuition-fees/",
+    "note": "核查 2026-09-24 · American School of Valencia。支持：Grade 9—10学费€9,516；另列非股东注册及一次性资本费。 边界：国际私校报价对照，未核学位或签证担保。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-costs.html",
+        "title": "每年20万元：可作筛选线，尚不是可购买报价",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES13-8"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-ES14",
+    "code": "SC-ES14",
+    "key": "southchild-SC-ES14",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "RD 1155/2024第176与183条及Hoja 49长期居留",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/49.-autorizacion-de-residencia-de-larga-duracion-nacional",
+    "note": "核查 2026-09-24 · 西班牙融入、社保及移民部。支持：国家长期居留通常五年合法连续居留；欧盟长期居留对停留期仅在已处居留时折半计入。 边界：计时细节、离境天数及申请时许可需按本人纪录审核；欧盟长期居留折半法源见SC-ES01。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES14-24"
+      },
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES14-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES15",
+    "code": "SC-ES15",
+    "key": "southchild-SC-ES15",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Estatuto de los Trabajadores第6条及学习停留工作规则",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
+    "note": "核查 2026-09-24 · 西班牙官方公报 BOE。支持：16岁以下原则上不能劳动，16—17岁有特殊限制；移民工作权仍须看持有的许可。 边界：劳动年龄不等于移民许可，移民工作规则见SC-ES01。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES15-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-ES16",
+    "code": "SC-ES16",
+    "key": "southchild-SC-ES16",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Código Civil第22条：居留归化",
+    "url": "https://boe.es/eli/es/rd/1889/07/24/%281%29/con",
+    "note": "核查 2026-09-24 · 西班牙官方公报 BOE。支持：一般国籍申请需十年合法、连续且紧接申请的居留；两年优惠名单不含中国。 边界：达到年限仅有申请资格，仍需满足其他条件及获批。",
+    "usedBy": [
+      {
+        "file": "south-child-spain-residence.html",
+        "title": "五年居住时钟：孩子与家长必须分别记录",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-ES16-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR01",
+    "code": "SC-GR01",
+    "key": "southchild-SC-GR01",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Migration Code Law 5038/2023, official Gazette text",
+    "url": "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+    "note": "核查 2026-09-24 · 希腊政府公报。支持：第9条许可分类；第18条教育权；第106条H.1高教；第130条H.7特殊项目；第143—144条长期居民；第163(8)条I.8许可。 边界：原始2023文本须结合2026修法阅读，特别是第130、160、161条。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR01-8"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR01-30"
+      },
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR01-1"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR01-1"
+      },
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR01-1"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR02",
+    "code": "SC-GR02",
+    "key": "southchild-SC-GR02",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Law 5275/2026 amending the Migration Code, Gazette A17",
+    "url": "https://migration.gov.gr/wp-content/uploads/2026/02/%CE%A6%CE%95%CE%9A%CE%9117_6.2.2025.pdf",
+    "note": "核查 2026-09-24 · 希腊政府公报／移民及庇护部。支持：2026年第34条修订H.7；第37条修订长期居民语言证明；第38条重写十年M.2许可第161条。 边界：网址文件名末尾写2025，PDF正文明确为2026-02-06第5275号法；须按正文与后续有效修订适用。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-9"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-31"
+      },
+      {
+        "file": "south-child-evidence.html",
+        "title": "从官方规则到家庭可执行方案，还差哪些证据？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-2"
+      },
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-2"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-2"
+      },
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR02-6"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR03",
+    "code": "SC-GR03",
+    "key": "southchild-SC-GR03",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Migration Code: study and exchange categories in Gazette",
+    "url": "https://migration.gov.gr/en/nomothesia-1-2/kodikas-metanasteysis/",
+    "note": "核查 2026-09-24 · 希腊移民及庇护部。支持：主管部发布5038/2023法律入口；所列H.1及H.7并未构成普通中学儿童加陪读父母的普遍申请类别。 边界：缺乏该家庭的领馆书面回复和特定合格交流项目；‘未发现通道’不是所有个案例外均不可能。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR03-3"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR03-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR04",
+    "code": "SC-GR04",
+    "key": "southchild-SC-GR04",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Migration Code article 163(8), sufficient-resources residence I.8",
+    "url": "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+    "note": "核查 2026-09-24 · 希腊政府公报。支持：I.8主申请人可携家属；许可原则上三年可续；主申请人和家属均不得在希腊受雇或自营。 边界：个人批准仍取决于D签、来源可核的资金、保险与主管机关审理；不是儿童陪读签。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-10"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-32"
+      },
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-4"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-4"
+      },
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-5"
+      },
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR04-2"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR05",
+    "code": "SC-GR05",
+    "key": "southchild-SC-GR05",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Joint Ministerial Decision 225679/2024, Gazette B5223",
+    "url": "https://issu.uoa.gr/fileadmin/depts/uoa.gr/issu/uploads/yp-apofasi_225679_2024_GIA_YPSOS_KOSTOYS_DIABIOSIS_FEK_5223.pdf",
+    "note": "核查 2026-09-24 · 希腊政府公报／雅典大学法规资料库。支持：第1条规定I.8主申请人€3,500/月，配偶+20%、每子女+15%；允许按月或按年度审查合法来源资源。 边界：有资金证明不等于签证已批，且资金门槛不是家庭实际必须花出的金额。",
+    "usedBy": [
+      {
+        "file": "south-child-overview.html",
+        "title": "南欧孩子先行：葡萄牙、西班牙、希腊能复制新西兰吗？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR05-11"
+      },
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR05-6"
+      },
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR05-33"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR05-5"
+      },
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR05-11"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR06",
+    "code": "SC-GR06",
+    "key": "southchild-SC-GR06",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Legal status of pupils, 15 July 2026",
+    "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/nomiko-kathestos-ton-mathiton-trion-ekpaidefsi-prosfygon-kai-metanaston",
+    "note": "核查 2026-09-24 · 希腊教育部。支持：5038/2023第18条保障境内第三国未成年学生教育活动权，包含居留未规范者。 边界：此为境内受教育权，不能当作境外入境签证或父母工作权。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR06-5"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR06-7"
+      },
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR06-3"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR07",
+    "code": "SC-GR07",
+    "key": "southchild-SC-GR07",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "2026—27 General and Vocational Lyceum e-enrolment",
+    "url": "https://www.gov.gr/ipiresies/ekpaideuse/eggraphe-se-skholeio/eggraphe-ananeose-eggraphes-se-geniko-kai-epaggelmatiko-lukeio",
+    "note": "核查 2026-09-24 · 希腊政府／教育部。支持：公布2026—27公立GEL与EPAL报名、续报、材料及结果程序。 边界：报名窗口与学校分配不保证境外学生移民资格、年级等值或录取。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR07-9"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR07-8"
+      }
+    ],
+    "topic": "入学与学籍"
+  },
+  {
+    "id": "SC-GR08",
+    "code": "SC-GR08",
+    "key": "southchild-SC-GR08",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Reception Classes I and II ZEP, 15 July 2026",
+    "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/takseis-ypodoxis-t-y-i-kai-ii-zep-ekpaidefsi-prosfygon-kai-metanaston",
+    "note": "核查 2026-09-24 · 希腊教育部。支持：对希腊语不足学生提供接待班；I类可至每周15小时希腊语，II类有后续支持。 边界：资源按学校与学生情况实施；不能推断特定学校有名额或全英文教学。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-overview.html",
+        "title": "亲子先行：学校有入口，跨境居留缺口仍在",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR08-10"
+      },
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR08-9"
+      },
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR08-11"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR09",
+    "code": "SC-GR09",
+    "key": "southchild-SC-GR09",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Pinewood Tuition 2026—2027",
+    "url": "https://www.pinewood.gr/admissions/tuition",
+    "note": "核查 2026-09-24 · Pinewood International School of Thessaloniki。支持：Grades 6—12年度学费€14,120，IBDP €14,300。 边界：学费不是录取、寄宿、保险、父母住房或签证报价。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR09-1"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-GR10",
+    "code": "SC-GR10",
+    "key": "southchild-SC-GR10",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "International School of Athens Tuition and Fees 2026—2027",
+    "url": "https://isa.edu.gr/uploads/files/698f0e2dcf6b8/ISA%20Tuition%20and%20Fees%202026-2027.pdf",
+    "note": "核查 2026-09-24 · International School of Athens。支持：Grade 10 €14,500，11—12 €15,000，新生注册€1,700及校车等另列。 边界：须实问具体学位、语言与课程是否适合；此文件并非签证文件。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR10-2"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-GR11",
+    "code": "SC-GR11",
+    "key": "southchild-SC-GR11",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "ACS Athens Tuition and Fees 2026—2027",
+    "url": "https://www.acs.gr/admissions_financial_tuition_fees/",
+    "note": "核查 2026-09-24 · ACS Athens。支持：Grades 9—12公布总额€16,348及注册、EFL/ESL和IB等附加费用。 边界：不是家庭总花费或批准就读的证明。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR11-3"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-GR12",
+    "code": "SC-GR12",
+    "key": "southchild-SC-GR12",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Household Budget Survey 2024",
+    "url": "https://lms.statistics.gr/documents/20181/18678055/DT_eop_2024_EN.pdf/d33a2eda-0a74-7516-6cfe-75cfae8c4b40",
+    "note": "核查 2026-09-24 · 希腊统计局 ELSTAT。支持：2024全国家庭平均月消费€1,724.54。 边界：2024全国平均非2026新移民两人雅典／塞萨洛尼基可租房报价；预算表是本研究明确假设。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR12-9"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-GR13",
+    "code": "SC-GR13",
+    "key": "southchild-SC-GR13",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Framework for refugee and migrant pupil education",
+    "url": "https://www.minedu.gov.gr/protovathmia-defterovathmia/thesmiko-plaisio-ekpaidefsi-prosfygon-kai-metanaston",
+    "note": "核查 2026-09-24 · 希腊教育部。支持：解释第18条中学毕业者进入高教申请原则；同时列2024中学招生规则。 边界：高中毕业准入原则不等于大学录取、免学费或自动学生居留。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR13-4"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR14",
+    "code": "SC-GR14",
+    "key": "southchild-SC-GR14",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Greek Citizenship Code",
+    "url": "https://www.ypes.gr/kodikas-ellinikis-ithageneias/",
+    "note": "核查 2026-09-24 · 希腊内政部。支持：一般归化合法居留、许可、语言和社会经济融入标准；含七年与特定十二年规则。 边界：国籍审查独立于移民许可；须依申请时有效法和具体居留种类。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR14-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-GR15",
+    "code": "SC-GR15",
+    "key": "southchild-SC-GR15",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Citizenship through birth or school attendance",
+    "url": "https://www.ypes.gr/diadikasies-ktisis-e-i/gennisi-foitisi/",
+    "note": "核查 2026-09-24 · 希腊内政部。支持：列九年希腊学校或六年中学等受教育取得国籍的具体程序。 边界：仅是法定申请途径；本案起始年龄不能直接推定满足完成年数与持续合法居留。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-residence.html",
+        "title": "18岁、大学与长期居留：三个新的申请节点",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR15-10"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR16",
+    "code": "SC-GR16",
+    "key": "southchild-SC-GR16",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Strategic plan for primary and secondary education 2025—2029",
+    "url": "https://www.minedu.gov.gr/publications/docs2026/%CE%A3%CE%A4%CE%A1%CE%91%CE%A4%CE%97%CE%93%CE%99%CE%9A%CE%9F%CE%A3_%CE%A3%CE%A7%CE%95%CE%94%CE%99%CE%91%CE%A3%CE%9C%CE%9F%CE%A3_%CE%A4%CE%9F%CE%9C%CE%95%CE%91_%CE%A0%CE%91%CE%99%CE%94%CE%95%CE%99%CE%91%CE%A3_final_07042026.pdf",
+    "note": "核查 2026-09-24 · 希腊教育部。支持：说明公立教育及教材免费。 边界：免费学费仍不解决居留、语言或全部家庭生活费。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-route.html",
+        "title": "法律类别与公校入学是两张不同的地图",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR16-10"
+      },
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR16-4"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-GR17",
+    "code": "SC-GR17",
+    "key": "southchild-SC-GR17",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Euro foreign exchange reference rate, CNY",
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-cny.et.html",
+    "note": "核查 2026-09-24 · 欧洲中央银行。支持：欧洲央行发布人民币参考汇率；本报告所有预算换算统一另取€1=¥8.00作为审慎规划假设。 边界：€1=¥8.00不是欧洲央行或银行的实时成交报价；实际汇率会变化。",
+    "usedBy": [
+      {
+        "file": "south-child-budget.html",
+        "title": "两人五年100万元：算得下，与走得通，是两次检验",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR17-9"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-GR18",
+    "code": "SC-GR18",
+    "key": "southchild-SC-GR18",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "Legacy financially independent persons guidance under Law 4251/2014",
+    "url": "https://apdattikis.gov.gr/en/process/2-2-1-financially-independent-individuals-article-20-paragraph-1-law-4251-14-issuance/",
+    "note": "核查 2026-09-24 · 阿提卡地方行政机关。支持：旧页面仍显示€2,000/月和两年许可，可作为识别过时引用的反例。 边界：此页依据旧法，不用于2026 I.8门槛或许可期限。",
+    "usedBy": [
+      {
+        "file": "south-child-greece-costs.html",
+        "title": "两人住五年的现金流与资金证明分开计算",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-GR18-12"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-W01",
+    "code": "SC-W01",
+    "key": "southchild-SC-W01",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "英国：10年合法居留资格",
+    "url": "https://www.gov.uk/long-residence/eligibility",
+    "note": "核查 2026-09-24 · GOV.UK。支持：多数合法许可可累计；访客、短期学习等排除，连续性及语言等另审。 边界：不是所有入境时间都算，也不赋予父母随行身份。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W01-3"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W02",
+    "code": "SC-W02",
+    "key": "southchild-SC-W02",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "英国移民规则：Appendix Long Residence",
+    "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-long-residence",
+    "note": "核查 2026-09-24 · Home Office。支持：LR各项规定十年、排除类别、当前许可及其他定居要求。 边界：按申请时规则审核；不能锁定未来十年政策。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W02-4"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W03",
+    "code": "SC-W03",
+    "key": "southchild-SC-W03",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "英国陪读家长签：审理指南",
+    "url": "https://www.gov.uk/government/publications/parent-of-a-child-student-caseworker-guidance/parent-of-a-child-student-caseworker-guidance-accessible",
+    "note": "核查 2026-09-24 · Home Office。支持：Parent of a Child Student陪同4—11岁孩子；不能工作或学习。 边界：不是高中生父母的一般长期陪读入口。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W03-5"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W04",
+    "code": "SC-W04",
+    "key": "southchild-SC-W04",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "英国：定居改革咨询",
+    "url": "https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible",
+    "note": "核查 2026-09-24 · Home Office。支持：讨论改变定居体系，现行长期居留与改革提议须区分。 边界：咨询不是已实施的全部新规则；申请前复查生效法规。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W04-6"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W05",
+    "code": "SC-W05",
+    "key": "southchild-SC-W05",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "卢森堡：归化取得国籍",
+    "url": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/naturalisation.html",
+    "note": "核查 2026-09-24 · Guichet.lu。支持：成年人五年合法居住、最后一年连续、卢语及公民知识、良好品行。 边界：网页未逐类裁定学生记录；对学习许可计时的判断须国籍处书面确认。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W05-7"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W06",
+    "code": "SC-W06",
+    "key": "southchild-SC-W06",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "卢森堡：第三国高教学生居留",
+    "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html",
+    "note": "核查 2026-09-24 · Guichet.lu。支持：高教学生必须满足认可课程、资金与保险等入境条件。 边界：不是普通境外中学生携父母的许可。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W06-8"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W07",
+    "code": "SC-W07",
+    "key": "southchild-SC-W07",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "芬兰：现行国籍居住年限",
+    "url": "https://migri.fi/en/period-of-residence",
+    "note": "核查 2026-09-24 · Migri。支持：通常八年，满足语言条件可五年；连续合法居住和出境另算。 边界：2024-10-01后申请规则；不得套旧四年说法。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W07-9"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W08",
+    "code": "SC-W08",
+    "key": "southchild-SC-W08",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "芬兰：国籍常见问题",
+    "url": "https://migri.fi/faq-finnish-citizenship",
+    "note": "核查 2026-09-24 · Migri。支持：A许可时间计入；B许可时间折半，另审许可转换及实际居住。 边界：持学生身份不代表每个学年都全额计入。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W08-10"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W09",
+    "code": "SC-W09",
+    "key": "southchild-SC-W09",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "芬兰：学生A与B许可",
+    "url": "https://migri.fi/en/study-in-finland",
+    "note": "核查 2026-09-24 · Migri。支持：高教学位学习通常为A，其他学习通常B。 边界：具体课程及家庭成员许可须单独核准。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W09-11"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-W10",
+    "code": "SC-W10",
+    "key": "southchild-SC-W10",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "芬兰：国籍生活来源要求",
+    "url": "https://migri.fi/en/citizenship-application/means-of-support",
+    "note": "核查 2026-09-24 · Migri。支持：2025-12-17后生活来源要求；可申报合法储蓄及家庭资金，不限本人工资。 边界：近两年失业福利／社会救济超过合计三个月有影响；资金必须能溯源。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W10-12"
+      }
+    ],
+    "topic": "费用与汇率"
+  },
+  {
+    "id": "SC-W11",
+    "code": "SC-W11",
+    "key": "southchild-SC-W11",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "荷兰：归化条件",
+    "url": "https://ind.nl/en/dutch-citizenship/becoming-a-dutch-national-through-naturalisation",
+    "note": "核查 2026-09-24 · IND。支持：一般五年有效连续居留，申请及审理等阶段须符合许可要求。 边界：学习时间和申请当日的许可性质是两道门。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W11-25"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W12",
+    "code": "SC-W12",
+    "key": "southchild-SC-W12",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "荷兰：临时与非临时居留目的",
+    "url": "https://ind.nl/en/becoming-a-dutch-national-temporary-and-non-temporary-purposes-of-residence",
+    "note": "核查 2026-09-24 · IND。支持：学习与求职年属临时目的；须转合格非临时目的才可按条件申请国籍。 边界：不一定只能工作转换，也可真实符合其他资格；不能虚构家庭关系。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W12-26"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W13",
+    "code": "SC-W13",
+    "key": "southchild-SC-W13",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "爱尔兰：取得公民身份指南",
+    "url": "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/",
+    "note": "核查 2026-09-24 · Irish Immigration。支持：一般学生时间不算；特定随家人合法入境的受抚养青年另有酌情考虑。 边界：不是所有国际学生的例外，18—23岁及就学／依赖条件须逐项审核。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W13-27"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W14",
+    "code": "SC-W14",
+    "key": "southchild-SC-W14",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "加拿大：公民资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+    "note": "核查 2026-09-24 · IRCC。支持：先有PR；此前临时居民天数可按半天、最多365天抵入公民居住要求。 边界：学签时间折算不创造PR申请资格。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W14-28"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-W15",
+    "code": "SC-W15",
+    "key": "southchild-SC-W15",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "新西兰：Permanent Resident Visa",
+    "url": "https://www.immigration.govt.nz/visas/permanent-resident-visa/",
+    "note": "核查 2026-09-24 · Immigration New Zealand。支持：通常先持Resident Visa至少两年，再满足条件及联系要求。 边界：Student Visa不是Resident Visa。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W15-34"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W16",
+    "code": "SC-W16",
+    "key": "southchild-SC-W16",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "澳洲：永久居民资格概览",
+    "url": "https://immi.homeaffairs.gov.au/visas/permanent-resident/overview",
+    "note": "核查 2026-09-24 · Department of Home Affairs。支持：先符合某类永久签证资格，不是读书年数自动转PR。 边界：未穷尽所有家庭、职业或人道类别；不把例外当常规学生路线。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W16-35"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W17",
+    "code": "SC-W17",
+    "key": "southchild-SC-W17",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "美国：入籍资格官方指南",
+    "url": "https://www.uscis.gov/sites/default/files/document/guides/M-1122.pdf",
+    "note": "核查 2026-09-24 · USCIS。支持：通常入籍居住要求建立在先取得绿卡的基础上。 边界：不能把F-1学生五年等同绿卡五年；具体绿卡类别另审。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W17-36"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-W18",
+    "code": "SC-W18",
+    "key": "southchild-SC-W18",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "日本：永住许可条件概览",
+    "url": "https://www.moj.go.jp/isa/content/001425346.pdf",
+    "note": "核查 2026-09-24 · 日本出入国在留管理厅。支持：一般十年连续在留内，须有合格工作或居住身份累计所需阶段及其他条件。 边界：不是十年纯留学自动永住；部分身份、特例有不同规则。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W18-29"
+      }
+    ],
+    "topic": "学校与研究资料"
+  },
+  {
+    "id": "SC-W19",
+    "code": "SC-W19",
+    "key": "southchild-SC-W19",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "阿根廷：归化取得国籍",
+    "url": "https://www.argentina.gob.ar/servicio/obtener-ciudadania-argentina-por-naturalizacion",
+    "note": "核查 2026-09-24 · 阿根廷政府。支持：成年人临时／永久居民连续合法两年且期间不离境；合法职业或生活来源等另审。 边界：非发达英语国家；短期停留不等同正式临时居留，未成年计时须确认。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W19-37"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W20",
+    "code": "SC-W20",
+    "key": "southchild-SC-W20",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "阿根廷：正式学生临时居留",
+    "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-estudiante",
+    "note": "核查 2026-09-24 · 阿根廷政府。支持：认可中学、高教等正式学习可申请学生临时居留。 边界：与非正式短课的过境式身份不同；结合归化规则只是候选链，不是获批保证。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W20-38"
+      }
+    ],
+    "topic": "签证与监护"
+  },
+  {
+    "id": "SC-W21",
+    "code": "SC-W21",
+    "key": "southchild-SC-W21",
+    "report": "southchild",
+    "reportLabel": "南欧孩子先行",
+    "title": "中国国籍法",
+    "url": "https://www.nia.gov.cn/n741440/n741547/c1013967/content.html",
+    "note": "核查 2026-09-24 · 国家移民管理局。支持：第三条不承认双重国籍；第九条规定定居外国并自愿取得外国国籍的中国公民丧失中国国籍。 边界：永居与入籍不同；个人国籍认定及未成年情形应专门核实。",
+    "usedBy": [
+      {
+        "file": "south-child-residence-clock.html",
+        "title": "不一定要工作：哪些地方能把留学年限用于长期身份？",
+        "category": "southchild",
+        "anchor": "cite-southchild-SC-W21-39"
+      }
+    ],
+    "topic": "签证与监护"
   }
 ]
