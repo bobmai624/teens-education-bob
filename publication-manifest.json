@@ -48,9 +48,9 @@
       "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
     }
   ],
-  "siteVersion": "5.0",
-  "readingPages": 185,
-  "referenceRecords": 1042,
+  "siteVersion": "6.0",
+  "readingPages": 193,
+  "referenceRecords": 1199,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -66,5 +66,48 @@
   "youthVocationalSources": 146,
   "southernChildFirstReport": "south-child-overview.html",
   "southernChildFirstResearchDate": "2026-09-24",
-  "southernChildFirstSources": 71
+  "southernChildFirstSources": 71,
+  "familyDeepReports": {
+    "publishedDate": "2026-09-28",
+    "index": "family-projects.html",
+    "canadaComparison": "canada-projects.html",
+    "sourceRecords": 157,
+    "reports": [
+      {
+        "file": "quebec-child-public-school.html",
+        "rechecked": "2026-09-28",
+        "sources": 24,
+        "bytes": 59433,
+        "sha256": "c3b77d5683717f28e8ec9ab9ff142dc0ca6e36c133c6b1f8a36d30b872f3c0b8"
+      },
+      {
+        "file": "canada-parent-study-child.html",
+        "rechecked": "2026-09-28",
+        "sources": 37,
+        "bytes": 82917,
+        "sha256": "b14fcfcfedbad7bdcf7d451ce058678741dd554714f709dd5c644dfa85c7efad"
+      },
+      {
+        "file": "spain-student-family.html",
+        "rechecked": "2026-09-28",
+        "sources": 22,
+        "bytes": 88580,
+        "sha256": "2ac742b78dd4f5316f38a049def1cf6c59ac75f733db5c3d754e7d5804653484"
+      },
+      {
+        "file": "portugal-student-family-residence.html",
+        "rechecked": "2026-09-28",
+        "sources": 28,
+        "bytes": 105838,
+        "sha256": "74e89b590689adabdc14b917e86a0b1529d17d76701f892f11600f3e399113f6"
+      },
+      {
+        "file": "singapore-student-family.html",
+        "rechecked": "2026-09-28",
+        "sources": 46,
+        "bytes": 718040,
+        "sha256": "40bfe613f4bbb4b0f465400b4804bf79665588ab0215ca79faf0bcbbd788a70a"
+      }
+    ]
+  }
 }
