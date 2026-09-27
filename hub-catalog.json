@@ -47,7 +47,8 @@
         "deepquebec-S21",
         "deepquebec-S22",
         "deepquebec-S23",
-        "deepquebec-S24"
+        "deepquebec-S24",
+        "deepquebec-S25"
       ]
     },
     {
@@ -95,7 +96,8 @@
         "deepcanada-S34",
         "deepcanada-S35",
         "deepcanada-S36",
-        "deepcanada-S37"
+        "deepcanada-S37",
+        "deepcanada-S38"
       ]
     },
     {
@@ -128,7 +130,9 @@
         "deepspain-S19",
         "deepspain-S20",
         "deepspain-S21",
-        "deepspain-S22"
+        "deepspain-S22",
+        "deepspain-S23",
+        "deepspain-S24"
       ]
     },
     {
@@ -167,7 +171,10 @@
         "deepportugal-S25",
         "deepportugal-S26",
         "deepportugal-S27",
-        "deepportugal-S28"
+        "deepportugal-S28",
+        "deepportugal-S29",
+        "deepportugal-S30",
+        "deepportugal-S31"
       ]
     },
     {
@@ -224,7 +231,8 @@
         "deepsingapore-S43",
         "deepsingapore-S44",
         "deepsingapore-S45",
-        "deepsingapore-S46"
+        "deepsingapore-S46",
+        "deepsingapore-S47"
       ]
     },
     {

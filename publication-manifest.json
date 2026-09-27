@@ -50,7 +50,7 @@
   ],
   "siteVersion": "6.0",
   "readingPages": 193,
-  "referenceRecords": 1199,
+  "referenceRecords": 1207,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -71,42 +71,42 @@
     "publishedDate": "2026-09-28",
     "index": "family-projects.html",
     "canadaComparison": "canada-projects.html",
-    "sourceRecords": 157,
+    "sourceRecords": 165,
     "reports": [
       {
         "file": "quebec-child-public-school.html",
         "rechecked": "2026-09-28",
-        "sources": 24,
-        "bytes": 59433,
-        "sha256": "c3b77d5683717f28e8ec9ab9ff142dc0ca6e36c133c6b1f8a36d30b872f3c0b8"
+        "sources": 25,
+        "bytes": 64655,
+        "sha256": "fab0d1c269c5374345492fd0234d48c40e314b1cae66402ebe2959e612d4af02"
       },
       {
         "file": "canada-parent-study-child.html",
         "rechecked": "2026-09-28",
-        "sources": 37,
-        "bytes": 82917,
-        "sha256": "b14fcfcfedbad7bdcf7d451ce058678741dd554714f709dd5c644dfa85c7efad"
+        "sources": 38,
+        "bytes": 88584,
+        "sha256": "bde65680a8e9915c3730ea3ac1ed7298b9bb5559d51e2fbd28c838542698b094"
       },
       {
         "file": "spain-student-family.html",
         "rechecked": "2026-09-28",
-        "sources": 22,
-        "bytes": 88580,
-        "sha256": "2ac742b78dd4f5316f38a049def1cf6c59ac75f733db5c3d754e7d5804653484"
+        "sources": 24,
+        "bytes": 97936,
+        "sha256": "617416ab60eab932e31cdd4b20469cb419d625ad43c883f8399edb2fe76b99ec"
       },
       {
         "file": "portugal-student-family-residence.html",
         "rechecked": "2026-09-28",
-        "sources": 28,
-        "bytes": 105838,
-        "sha256": "74e89b590689adabdc14b917e86a0b1529d17d76701f892f11600f3e399113f6"
+        "sources": 31,
+        "bytes": 120244,
+        "sha256": "4b33f167d59c2e96edf29e9ca938ce1ccc630d330ed395ca750775aded434103"
       },
       {
         "file": "singapore-student-family.html",
         "rechecked": "2026-09-28",
-        "sources": 46,
-        "bytes": 718040,
-        "sha256": "40bfe613f4bbb4b0f465400b4804bf79665588ab0215ca79faf0bcbbd788a70a"
+        "sources": 47,
+        "bytes": 727768,
+        "sha256": "8311e419dd575eaca0a1724f624595aad9209d48459ed4695749f6ab013cae2d"
       }
     ]
   }

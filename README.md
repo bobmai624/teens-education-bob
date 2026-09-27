@@ -8,16 +8,20 @@
 
 
 
+
+
+
+
 <!-- FAMILY DEEP REPORTS -->
 ## 最新家庭专项 / 2026-09-28
 
 [专项总入口](family-projects.html) · [加拿大两项目比较](canada-projects.html)
 
-- [魁北克：孩子公校与家长陪伴](quebec-child-public-school.html) — 24项来源；核验公校学费豁免、家长访客身份、医疗与儿童福利；免学费不带来家长工作权。
-- [加拿大：家长留学带娃](canada-parent-study-child.html) — 37项来源；语言课、真硕士、PGWP与孩子免费资格逐段核查；0.5＋1＋3年不是完整五年。
-- [西班牙：教育、陪伴与长期居留](spain-student-family.html) — 22项来源；孩子学习停留、家长非盈利居留、远程工作等合法分支；区分教育权与居留权。
-- [葡萄牙：中学、大学与永居规划](portugal-student-family-residence.html) — 28项来源；五种年龄路径、D4与AR、语言门槛、五年国家永居及2026国籍新规；父母身份另审。
-- [新加坡：孩子入学与家庭身份](singapore-student-family.html) — 46项来源；入学考试、家长工作、五年现金流、学生PR、父母衔接与男孩兵役；附官方页面截图。
+- [魁北克：孩子公校与家长陪伴](quebec-child-public-school.html) — 25项来源；核验公校学费豁免、家长访客身份、医疗与儿童福利；免学费不带来家长工作权。
+- [加拿大：家长留学带娃](canada-parent-study-child.html) — 38项来源；语言课、真硕士、PGWP与孩子免费资格逐段核查；0.5＋1＋3年不是完整五年。
+- [西班牙：教育、陪伴与长期居留](spain-student-family.html) — 24项来源；孩子学习停留、家长非盈利居留、远程工作等合法分支；区分教育权与居留权。
+- [葡萄牙：中学、大学与永居规划](portugal-student-family-residence.html) — 31项来源；五种年龄路径、学习签证与居留许可、语言、五年国家永居及2026国籍新规；父母另审。
+- [新加坡：孩子入学与家庭身份](singapore-student-family.html) — 47项来源；入学考试、家长工作、五年现金流、学生PR、父母衔接与男孩兵役；附官方页面截图。
 
 五份报告的预算是条件式模型，未取得个人学校／身份／工作批准。公开版不转载用户原始直播人物截图。原有国家、专题和下载链接保留。
 <!-- END FAMILY DEEP REPORTS -->
@@ -67,7 +71,7 @@ Static HTML hosted through GitHub Pages. No account, analytics, or server-side p
 
 - [Index / 总入口](https://bobmai624.github.io/teens-education-bob/) — 8 个专题、章节检索及完整报告下载。
 - [国家与地区](https://bobmai624.github.io/teens-education-bob/countries.html) — 37 个独立案例页面。
-- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1199 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
+- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1207 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
 - 193 个目录与阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
 - 五国基准研究2026-09-15；降费与学生工作增补2026-09-16。原37地资料未全部重新核验，原研究日期保留。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
 - [Core report / 核心报告](https://bobmai624.github.io/teens-education-bob/family-report.html) — 前文主要结论、教育目标 → 总成本 → 回国衔接，以及23章完整阅读导引。
