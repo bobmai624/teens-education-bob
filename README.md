@@ -4,14 +4,6 @@
 
 **Read online / 在线阅读：[Teens Education Bob](https://bobmai624.github.io/teens-education-bob/)**
 
-
-
-
-
-
-
-
-
 <!-- FAMILY DEEP REPORTS -->
 ## 最新家庭专项 / 2026-09-28
 
@@ -47,24 +39,6 @@
 ## Publication
 
 Static HTML hosted through GitHub Pages. No account, analytics, or server-side personal-data collection is added by this publication. Only finished reports are included; local work files, prior drafts, and browser history are excluded.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- HUB NAVIGATION -->
 ## Classified reading / 分类导览
