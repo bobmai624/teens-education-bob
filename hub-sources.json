@@ -26598,5 +26598,214 @@
         "anchor": "ref-47-1"
       }
     ]
+  },
+  {
+    "id": "S48",
+    "code": "[S48]",
+    "title": "英华自主中学｜IP综合直通课程",
+    "url": "https://www.acsindep.moe.edu.sg/the-acs-independent-experience/integrated-programme/integrated-programme-1/",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S48",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-48-1"
+      }
+    ]
+  },
+  {
+    "id": "S49",
+    "code": "[S49]",
+    "title": "莱佛士书院｜招生入口",
+    "url": "https://www.ri.edu.sg/admissions/",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S49",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-49-1"
+      }
+    ]
+  },
+  {
+    "id": "S50",
+    "code": "[S50]",
+    "title": "莱佛士书院｜2026学校费用",
+    "url": "https://www.ri.edu.sg/admissions/fees-and-financial-aid/",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S50",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-50-1"
+      }
+    ]
+  },
+  {
+    "id": "S51",
+    "code": "[S51]",
+    "title": "SMU｜大学学费与Tuition Grant",
+    "url": "https://admissions.smu.edu.sg/financial-matters/tuition-fees-grant",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S51",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-51-1"
+      }
+    ]
+  },
+  {
+    "id": "S52",
+    "code": "[S52]",
+    "title": "MHA｜2024年10月16日学生PR国会答复",
+    "url": "https://www.mha.gov.sg/media-room/newsroom/written-reply-to-pq-on-number-average-age-and-median-age-of-student-s-pass-holders-who-applied-for-and-were-granted-permanent-resident-status-since-2020/",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S52",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-52-1"
+      }
+    ]
+  },
+  {
+    "id": "S53",
+    "code": "[S53]",
+    "title": "Fragomen｜2024年学生与监护政策变化通报",
+    "url": "https://www.fragomen.com/insights/singapore-polices-for-student-pass-holders-and-their-guardians-relaxed.html",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S53",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "住宿与保护",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-53-1"
+      }
+    ]
+  },
+  {
+    "id": "S54",
+    "code": "[S54]",
+    "title": "ICA｜REP有效性及境外身份保留",
+    "url": "https://www.ica.gov.sg/enter-depart/for-PR/check-REP-validity",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S54",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-54-1"
+      }
+    ]
+  },
+  {
+    "id": "S55",
+    "code": "[S55]",
+    "title": "ICA｜2025年12月REP新流程官方问答",
+    "url": "https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S55",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-55-1"
+      }
+    ]
+  },
+  {
+    "id": "S56",
+    "code": "[S56]",
+    "title": "ICA官方FAQ｜PR类别与国民服役",
+    "url": "https://ask.gov.sg/ica/questions/clxwhkiyp00hsdsoty0spmyv2",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S56",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-56-1"
+      }
+    ]
+  },
+  {
+    "id": "S57",
+    "code": "[S57]",
+    "title": "SEAB｜AEIS考试内容",
+    "url": "https://www.seab.gov.sg/aeis/test-details/",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S57",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-57-1"
+      }
+    ]
+  },
+  {
+    "id": "S58",
+    "code": "[S58]",
+    "title": "MOE｜Express及IP课程说明",
+    "url": "https://www.moe.gov.sg/secondary/courses/express/electives/?subterm=Foreign+Language+Programme%3A+French%2C+German+or+Spanish&term=Language",
+    "note": "新加坡深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepsingapore-S58",
+    "report": "deepsingapore",
+    "reportLabel": "新加坡深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "singapore-student-family.html",
+        "title": "新加坡：孩子入学与家庭身份",
+        "category": "planning",
+        "anchor": "ref-58-1"
+      }
+    ]
   }
 ]
