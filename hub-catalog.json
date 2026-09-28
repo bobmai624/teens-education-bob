@@ -22,7 +22,7 @@
       "reportLabel": "魁北克深查",
       "category": "planning",
       "categoryLabel": "家庭专项深度报告",
-      "keywords": "加拿大 Quebec 魁北克 法语 免费 公校 访客 RAMQ CCB 牛奶金",
+      "keywords": "加拿大 Quebec 魁北克 法语 英语 免费 公校 访客 TRV 经营者 低学历 RAMQ CCB 牛奶金",
       "refs": [
         "deepquebec-S1",
         "deepquebec-S2",
@@ -48,7 +48,13 @@
         "deepquebec-S22",
         "deepquebec-S23",
         "deepquebec-S24",
-        "deepquebec-S25"
+        "deepquebec-S25",
+        "deepquebec-S26",
+        "deepquebec-S27",
+        "deepquebec-S28",
+        "deepquebec-S29",
+        "deepquebec-S30",
+        "deepquebec-S31"
       ]
     },
     {
