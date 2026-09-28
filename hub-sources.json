@@ -24246,7 +24246,7 @@
   {
     "id": "S12",
     "code": "[S12]",
-    "title": "驻华使馆随行家属清单",
+    "title": "葡萄牙使馆随行家属清单（中国申请地区）",
     "url": "https://www.vfsglobal.com/one-pager/portugal/china/english/pdf/d-visa-for-accompanying-family-member.pdf",
     "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
     "key": "deepportugal-S12",
@@ -24379,7 +24379,7 @@
   {
     "id": "S19",
     "code": "[S19]",
-    "title": "葡萄牙驻华签证服务商VFS：D类类别及申请目的",
+    "title": "葡萄牙签证服务商VFS（中国申请地区）：D类类别及申请目的",
     "url": "https://www.vfsglobal.com/one-pager/portugal/china/english/index.html",
     "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
     "key": "deepportugal-S19",
@@ -24620,6 +24620,25 @@
         "title": "葡萄牙：中学、大学与永居规划",
         "category": "planning",
         "anchor": "ref-31-1"
+      }
+    ]
+  },
+  {
+    "id": "S32",
+    "code": "[S32]",
+    "title": "第84/2007号实施规章现行第64条：国家永久居留申请材料与五年证件",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2007-116373592",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S32",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-32-1"
       }
     ]
   },
