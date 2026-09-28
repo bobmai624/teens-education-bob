@@ -50,7 +50,7 @@
   ],
   "siteVersion": "6.0",
   "readingPages": 193,
-  "referenceRecords": 1255,
+  "referenceRecords": 1256,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -71,14 +71,14 @@
     "publishedDate": "2026-09-28",
     "index": "family-projects.html",
     "canadaComparison": "canada-projects.html",
-    "sourceRecords": 213,
+    "sourceRecords": 214,
     "reports": [
       {
         "file": "quebec-child-public-school.html",
         "rechecked": "2026-09-28",
-        "sources": 52,
-        "bytes": 134489,
-        "sha256": "4458d4c9f13fecf3f911eed2814baf5c68c94aa2a1208b4a300a50bba0e91112"
+        "sources": 53,
+        "bytes": 149403,
+        "sha256": "a5723c6b850a80720610a83b9a15de61ddfa8832411dc51bf2e98f8dcf3d322f"
       },
       {
         "file": "canada-parent-study-child.html",

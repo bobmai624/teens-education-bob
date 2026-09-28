@@ -23370,6 +23370,25 @@
     ]
   },
   {
+    "id": "S53",
+    "code": "[S53]",
+    "title": "IRCC：学习许可申请与所需入境签证一并办理",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html",
+    "note": "魁北克深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepquebec-S53",
+    "report": "deepquebec",
+    "reportLabel": "魁北克深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "quebec-child-public-school.html",
+        "title": "魁北克：孩子公校与家长陪伴",
+        "category": "planning",
+        "anchor": "ref-53-1"
+      }
+    ]
+  },
+  {
     "id": "S1",
     "code": "[S1]",
     "title": "IRCC：学生校外工作资格与24小时限制",
