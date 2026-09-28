@@ -9,7 +9,7 @@
 
 [专项总入口](family-projects.html) · [加拿大两项目比较](canada-projects.html)
 
-- [魁北克：孩子公校与家长陪伴](quebec-child-public-school.html) — 47项来源；通常居住的材料、天数、离境与审核；TRV不等于免费凭证。另附加拿大十省访客／工作／学习家长路线分类。
+- [魁北克：孩子公校与家长陪伴](quebec-child-public-school.html) — 52项来源；访客家长的境外远程收入、2026年材料要求及税务；通常居住、出入境与十省分类。TRV不等于本地工作许可。
 - [加拿大：家长留学带娃](canada-parent-study-child.html) — 38项来源；语言课、真硕士、PGWP与孩子免费资格逐段核查；0.5＋1＋3年不是完整五年。
 - [西班牙：教育、陪伴与长期居留](spain-student-family.html) — 24项来源；孩子学习停留、家长非盈利居留、远程工作等合法分支；区分教育权与居留权。
 - [葡萄牙：中学、大学与永居规划](portugal-student-family-residence.html) — 40项来源；高中AR与本科两年门槛、波尔图学费、在读转PR及硕士分类；新增永居五改十传言的官方文件溯源，父母陪伴另审。
@@ -45,7 +45,7 @@ Static HTML hosted through GitHub Pages. No account, analytics, or server-side p
 
 - [Index / 总入口](https://bobmai624.github.io/teens-education-bob/) — 8 个专题、章节检索及完整报告下载。
 - [国家与地区](https://bobmai624.github.io/teens-education-bob/countries.html) — 37 个独立案例页面。
-- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1238 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
+- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1243 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
 - 193 个目录与阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
 - 五国基准研究2026-09-15；降费与学生工作增补2026-09-16。原37地资料未全部重新核验，原研究日期保留。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
 - [Core report / 核心报告](https://bobmai624.github.io/teens-education-bob/family-report.html) — 前文主要结论、教育目标 → 总成本 → 回国衔接，以及23章完整阅读导引。
