@@ -24871,6 +24871,44 @@
     ]
   },
   {
+    "id": "S39",
+    "code": "[S39]",
+    "title": "第25届宪政政府2025施政纲领：印刷页67—68国籍改革方向",
+    "url": "https://portugal.gov.pt/api/media/edge/Project/Portal-do-Governo/Portal-do-Governo/gc25/Files/Governo/programa-do-governo/ProgramaXXVGovernoConstitucional2025.pdf#page=67",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S39",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-39-1"
+      }
+    ]
+  },
+  {
+    "id": "S40",
+    "code": "[S40]",
+    "title": "2025年6月23日部长会议公告：第3项国籍七年／十年提案、第5项外国人法另列",
+    "url": "https://portugal.gov.pt/gc25/governo/comunicados-do-conselho-de-ministros/674",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S40",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-40-1"
+      }
+    ]
+  },
+  {
     "id": "S1",
     "code": "[S1]",
     "title": "MOE｜2024—2026非公民政府学校费率",
