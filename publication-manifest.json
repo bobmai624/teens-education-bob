@@ -50,7 +50,7 @@
   ],
   "siteVersion": "6.0",
   "readingPages": 193,
-  "referenceRecords": 1260,
+  "referenceRecords": 1262,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -71,7 +71,7 @@
     "publishedDate": "2026-09-28",
     "index": "family-projects.html",
     "canadaComparison": "canada-projects.html",
-    "sourceRecords": 218,
+    "sourceRecords": 220,
     "reports": [
       {
         "file": "quebec-child-public-school.html",
@@ -97,9 +97,9 @@
       {
         "file": "portugal-student-family-residence.html",
         "rechecked": "2026-09-28",
-        "sources": 40,
-        "bytes": 176526,
-        "sha256": "fa9742f748ddfc746bcd0a08d0db480cb02a83889d6a6aead4d6f14064fcb265"
+        "sources": 42,
+        "bytes": 185831,
+        "sha256": "2a2b6472e69fae9961b130b04a10a9ce84294419dce5d47ccd73a2f145f7e168"
       },
       {
         "file": "singapore-student-family.html",

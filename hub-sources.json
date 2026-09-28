@@ -25631,6 +25631,44 @@
     ]
   },
   {
+    "id": "S41",
+    "code": "[S41]",
+    "title": "第36/2014号法令合并文本：第3条身份分类、第9条国际生学费",
+    "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-115919453",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S41",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-41-1"
+      }
+    ]
+  },
+  {
+    "id": "S42",
+    "code": "[S42]",
+    "title": "波尔图大学FEP正式学费表：2026/27本科及硕士分类金额",
+    "url": "https://sigarra.up.pt/fep/en/WEB_BASE.GERA_PAGINA?p_pagina=1025931",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S42",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-42-1"
+      }
+    ]
+  },
+  {
     "id": "S1",
     "code": "[S1]",
     "title": "MOE｜2024—2026非公民政府学校费率",
