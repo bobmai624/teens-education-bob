@@ -1,0 +1,50 @@
+{
+  "capturedDate": "2026-09-28",
+  "sourceUrl": "https://www.boe.es/buscar/pdf/2024/BOE-A-2024-24099-consolidado.pdf",
+  "sourceLastModifiedLabel": "2026-09-22",
+  "sourcePageCount": 187,
+  "pdf": {
+    "file": "BOE-A-2024-24099-consolidado-2026-09-28.pdf",
+    "sha256": "5e253284d7a0dcd891453c2a791416c703da692a432941d5834815fb08478d0c"
+  },
+  "method": "Full official PDF pages rendered by pdftoppm -scale-to 1800 -png. No cropping, redrawing, text edits or annotations.",
+  "legalCaveat": "BOE consolidated text is informational; published enactments and amendments govern.",
+  "images": [
+    {
+      "file": "article-176-study-half.png",
+      "page": 128,
+      "articles": "176(a)",
+      "sha256": "31cade3ca0e37ed22c401940dd0b1b61c923a1ef5c8570563a00c2d939e6a346"
+    },
+    {
+      "file": "article-176-funds.png",
+      "page": 129,
+      "articles": "176(b),(c)",
+      "sha256": "77a2c4fa58a91bf597eee21a89c4af92ffed984a7bae72909a25cd7f7711af88"
+    },
+    {
+      "file": "article-182-183-national.png",
+      "page": 133,
+      "articles": "182,183(1),(2)",
+      "sha256": "3a61b91c171d5b6e4ad2610352ada685ea8e5222aaf9cf3c8879b6a10c5b60ea"
+    },
+    {
+      "file": "article-61-62-nlv.png",
+      "page": 51,
+      "articles": "61,62",
+      "sha256": "f1caa96915aa5eabdb62836850dcb34577fe85a0b0a96a28c4a8e427de2fe4fa"
+    },
+    {
+      "file": "article-64-renewal.png",
+      "page": 53,
+      "articles": "64(2)",
+      "sha256": "05b50d16452429a99b5d3156eb31d19a0f0653f405234f42419be29030fc3faa"
+    },
+    {
+      "file": "article-64-two-year-renewal.png",
+      "page": 54,
+      "articles": "64(7)",
+      "sha256": "128dc61209bd7a8fe3d9c5e4f117b1169c2c3ebf3f816230f1967da445607a24"
+    }
+  ]
+}

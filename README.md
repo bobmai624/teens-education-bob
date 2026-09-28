@@ -11,7 +11,7 @@
 
 - [魁北克：孩子公校与家长陪伴](quebec-child-public-school.html) — 53项来源；先办家长TRV还是孩子学签？境外接收、分别递签、入境生活与免费核定完整流程；首学期收费、远程工作和通常居住分开核查。
 - [加拿大：家长留学带娃](canada-parent-study-child.html) — 50项来源；家长与孩子各自学签可同时提交；十省公校免费与语言条件分开核查，四地正常学费及五年毛节省对照。
-- [西班牙：教育、陪伴与长期居留](spain-student-family.html) — 28项来源；家长非盈利＋孩子随行公校：竖向流程、完整清单、存款与被动收入；解释初次财力、续签与有条件转工作。
+- [西班牙：教育、陪伴与长期居留](spain-student-family.html) — 30项来源；家长非营利＋孩子随行公校，五年分别申请长期居留；对照学生停留50%折算，附六张BOE原页证据与完整财力清单。
 - [葡萄牙：中学、大学与永居规划](portugal-student-family-residence.html) — 42项来源；高中学生AR符合条件可计本科两年门槛；非国际分类、一般招生与较低学费的关联，不等于免学费。保留在读PR、硕士、居留中断、父母与政策传言核查。
 - [新加坡：孩子入学与家庭身份](singapore-student-family.html) — 47项来源；入学考试、家长工作、五年现金流、学生PR、父母衔接与男孩兵役；附官方页面截图。
 
@@ -51,7 +51,7 @@ After regenerating reports, run `node tools/apply-navigation.cjs` to restore thi
 
 - [Index / 总入口](https://bobmai624.github.io/teens-education-bob/) — 8 个专题、章节检索及完整报告下载。
 - [国家与地区](https://bobmai624.github.io/teens-education-bob/countries.html) — 37 个独立案例页面。
-- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1262 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
+- [参考来源库](https://bobmai624.github.io/teens-education-bob/references.html) — 1264 条分别编号的来源记录，支持报告、类型、引用章节及关键词筛选。
 - 193 个目录与阅读页面，保留原报告正文；点击来源编号可预览原文信息并返回引用位置。
 - 五国基准研究2026-09-15；降费与学生工作增补2026-09-16。原37地资料未全部重新核验，原研究日期保留。完整研究版 HTML、PDF 和 Markdown 链接保持不变。
 - [Core report / 核心报告](https://bobmai624.github.io/teens-education-bob/family-report.html) — 前文主要结论、教育目标 → 总成本 → 回国衔接，以及23章完整阅读导引。
