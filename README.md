@@ -40,6 +40,12 @@
 
 Static HTML hosted through GitHub Pages. No account, analytics, or server-side personal-data collection is added by this publication. Only finished reports are included; local work files, prior drafts, and browser history are excluded.
 
+### Shared return navigation / 统一返回导航
+
+Every HTML page includes a static Home / Reports control: a dedicated desktop side lane and a mobile bottom bar, hidden when printing. It works without JavaScript. The report directory includes the original country/topic collections and newer family reports.
+
+After regenerating reports, run `node tools/apply-navigation.cjs` to restore this idempotent navigation layer and refresh the publication manifest hashes. Verify with `node --test tests/navigation.test.cjs`; with Playwright and Chrome available, run `node tests/navigation-browser.cjs` for responsive and link round-trip checks.
+
 <!-- HUB NAVIGATION -->
 ## Classified reading / 分类导览
 

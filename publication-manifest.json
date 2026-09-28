@@ -4,8 +4,8 @@
   "reports": [
     {
       "file": "world-k12-pathways-zh.html",
-      "bytes": 1523076,
-      "sha256": "28a3ccf4b1040781d888d7b2a871603bd0aff6dcbd6a380bb9893280a5fd44ba"
+      "bytes": 1523430,
+      "sha256": "3715ae65b75db84566e4ec280f254f50436a2d5348cd237529ee3478bb71c843"
     },
     {
       "file": "world-k12-pathways-zh.pdf",
@@ -14,8 +14,8 @@
     },
     {
       "file": "family-needs-return-pathways-zh.html",
-      "bytes": 90824,
-      "sha256": "616007e2b56d85c30ad32d7107ef567db6e963a1ba59cc09475657d3c9ef8b7d"
+      "bytes": 91178,
+      "sha256": "8a3c00dac70695b75e09931ef0bcb15753ac10c2def20162ef12ce3101676e68"
     },
     {
       "file": "family-needs-return-pathways-zh.md",
@@ -29,8 +29,8 @@
     },
     {
       "file": "guardian-accommodation-review-zh.html",
-      "bytes": 71589,
-      "sha256": "26ab1837256e21265b98b56bb0f7846a8f12a24fb16505b7f7cb8235df25a15d"
+      "bytes": 71943,
+      "sha256": "bb64a52796be45c777ea9f40b757d46a3938882c9fd2e8b7e2daefa0aeecb326"
     },
     {
       "file": "guardian-accommodation-review-zh.md",
@@ -44,8 +44,8 @@
     },
     {
       "file": "australia-k12-research-zh.html",
-      "bytes": 55171,
-      "sha256": "b9a46ee966bccf7ed694f7c971e277ed3e3fe41bb1b317e93b50548c05c957b3"
+      "bytes": 55525,
+      "sha256": "7a2d3f4f114cf907852399403fbac6c10ee9749b9e85afe506f22e68049c7b56"
     }
   ],
   "siteVersion": "6.0",
@@ -77,37 +77,42 @@
         "file": "quebec-child-public-school.html",
         "rechecked": "2026-09-28",
         "sources": 52,
-        "bytes": 134135,
-        "sha256": "ad18cd5193d80a950bc783b8b84e04e5d47e1e7a47e6ea427c700013dc30752e"
+        "bytes": 134489,
+        "sha256": "4458d4c9f13fecf3f911eed2814baf5c68c94aa2a1208b4a300a50bba0e91112"
       },
       {
         "file": "canada-parent-study-child.html",
         "rechecked": "2026-09-28",
         "sources": 38,
-        "bytes": 88584,
-        "sha256": "bde65680a8e9915c3730ea3ac1ed7298b9bb5559d51e2fbd28c838542698b094"
+        "bytes": 88938,
+        "sha256": "e80453662bc61ccb11aae5cc19407285a5c873fc00dd4caf2e31036cff21c2eb"
       },
       {
         "file": "spain-student-family.html",
         "rechecked": "2026-09-28",
         "sources": 24,
-        "bytes": 97936,
-        "sha256": "617416ab60eab932e31cdd4b20469cb419d625ad43c883f8399edb2fe76b99ec"
+        "bytes": 98290,
+        "sha256": "d63dfba21efeedf7c1dbd26c58d89539f5bda9976227f509315ca316a90d5379"
       },
       {
         "file": "portugal-student-family-residence.html",
         "rechecked": "2026-09-28",
         "sources": 40,
-        "bytes": 176172,
-        "sha256": "0a8a3bb9f4e1a19d8c1aed5f4dd5a6b6a3cf199f680e8b253a1b94832009bae1"
+        "bytes": 176526,
+        "sha256": "fa9742f748ddfc746bcd0a08d0db480cb02a83889d6a6aead4d6f14064fcb265"
       },
       {
         "file": "singapore-student-family.html",
         "rechecked": "2026-09-28",
         "sources": 47,
-        "bytes": 727768,
-        "sha256": "8311e419dd575eaca0a1724f624595aad9209d48459ed4695749f6ab013cae2d"
+        "bytes": 728122,
+        "sha256": "cfad0e640f3bae792fd1cfa0b7e36c52c4ab3a2af63e95599c1dbc534100cf88"
       }
     ]
+  },
+  "navigation": {
+    "version": 1,
+    "pages": 208,
+    "directory": "index.html#report-directory"
   }
 }

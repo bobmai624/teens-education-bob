@@ -1,0 +1,53 @@
+/* Independent navigation shared by old and new report templates. */
+@media screen {
+  .site-return-nav {
+    position: fixed;
+    top: 104px;
+    right: 16px;
+    z-index: 40;
+    width: 120px;
+    display: grid;
+    gap: 8px;
+    padding: 10px;
+    border: 1px solid #cedbd3;
+    border-radius: 12px;
+    background: #f7f7f2;
+    box-shadow: 0 4px 18px #173c3514;
+    font: 14px/1.4 -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .site-return-nav a {
+    display: flex;
+    min-height: 48px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 3px;
+    padding: 9px 4px;
+    border: 1px solid #cbd9d1;
+    border-radius: 7px;
+    background: #fff;
+    color: #173c35;
+    text-decoration: none;
+    font-weight: 650;
+    letter-spacing: 0;
+  }
+  .site-return-nav a:first-child { background: #173c35; color: #fff; border-color: #173c35; }
+  .site-return-nav small { font-size: 11px; font-weight: 400; }
+  .site-return-nav a:hover { box-shadow: inset 0 0 0 2px #b59251; }
+  .site-return-nav a:focus-visible { outline: 3px solid #b59251; outline-offset: 3px; }
+  body[data-site-navigation] { padding-right: 152px !important; }
+  #report-directory { scroll-margin-top: 100px; }
+  .site-report-directory-links { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 10px; }
+  .site-report-directory-links a { display: block; padding: 14px 16px; border: 1px solid #dce5dc; background: #fff; color: #173c35; text-decoration: none; font-size: 14px; }
+  @media (max-width: 1100px) {
+    body[data-site-navigation] { padding-right: 0 !important; padding-bottom: calc(106px + env(safe-area-inset-bottom, 0px)) !important; }
+    html { scroll-padding-bottom: 110px; }
+    .site-return-nav { top: auto; bottom: 0; right: 0; left: 0; width: auto; grid-template-columns: 1fr 1fr; gap: 10px; padding: 9px 16px calc(9px + env(safe-area-inset-bottom, 0px)); border-radius: 12px 12px 0 0; }
+    .site-return-nav a { min-height: 48px; flex-direction: row; gap: 7px; }
+    .site-report-directory-links { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  }
+  @media (max-width: 430px) {
+    .site-report-directory-links { grid-template-columns: 1fr; }
+  }
+}
+@media print { .site-return-nav { display: none !important; } }
