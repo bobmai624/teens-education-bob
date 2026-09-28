@@ -24757,6 +24757,120 @@
     ]
   },
   {
+    "id": "S33",
+    "code": "[S33]",
+    "title": "波尔图大学：国际学生与本国／同等类别申请区分",
+    "url": "https://www.up.pt/portal/pt/estudar/estudantes-internacionais/candidatura-a-ciclo-de-estudos/",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S33",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-33-1"
+      }
+    ]
+  },
+  {
+    "id": "S34",
+    "code": "[S34]",
+    "title": "波尔图大学FEP：经济学本科、英文授课、三年与2026/27学费",
+    "url": "https://programmes.fep.up.pt/bachelors/economics/",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S34",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-34-1"
+      }
+    ]
+  },
+  {
+    "id": "S35",
+    "code": "[S35]",
+    "title": "波尔图大学FDUP：法律本科、八学期与2026/27学费",
+    "url": "https://www.up.pt/portal/pt/estudar/licenciaturas-e-mestrados-integrados/oferta-formativa/fdup/593/",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S35",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-35-1"
+      }
+    ]
+  },
+  {
+    "id": "S36",
+    "code": "[S36]",
+    "title": "波尔图大学FEUP：信息与计算工程本科、六学期与2026/27学费",
+    "url": "https://www.up.pt/portal/pt/estudar/licenciaturas-e-mestrados-integrados/oferta-formativa/feup/22841/",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S36",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-36-1"
+      }
+    ]
+  },
+  {
+    "id": "S37",
+    "code": "[S37]",
+    "title": "DGE：高中教育10—12年级课程框架",
+    "url": "https://www.dge.mec.pt/aprendizagens-essenciais-ensino-secundario",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S37",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-37-1"
+      }
+    ]
+  },
+  {
+    "id": "S38",
+    "code": "[S38]",
+    "title": "DGES：本科与硕士学费规则的适用区别",
+    "url": "https://www.dges.gov.pt/pt/pagina/propinas",
+    "note": "葡萄牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepportugal-S38",
+    "report": "deepportugal",
+    "reportLabel": "葡萄牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "portugal-student-family-residence.html",
+        "title": "葡萄牙：中学、大学与永居规划",
+        "category": "planning",
+        "anchor": "ref-38-1"
+      }
+    ]
+  },
+  {
     "id": "S1",
     "code": "[S1]",
     "title": "MOE｜2024—2026非公民政府学校费率",
