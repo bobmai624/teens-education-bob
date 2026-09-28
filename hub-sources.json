@@ -24600,7 +24600,7 @@
         "file": "spain-student-family.html",
         "title": "西班牙：教育、陪伴与长期居留",
         "category": "planning",
-        "anchor": "ref-14-1"
+        "anchor": "source-14"
       }
     ]
   },
@@ -24791,6 +24791,82 @@
         "title": "西班牙：教育、陪伴与长期居留",
         "category": "planning",
         "anchor": "ref-24-1"
+      }
+    ]
+  },
+  {
+    "id": "S25",
+    "code": "[S25]",
+    "title": "西班牙移民部｜Hoja 55 bis：原不授权工作的居留转工作居留",
+    "url": "https://www.inclusion.gob.es/web/migraciones/w/55-bis.-modificaciones-desde-situaciones-de-residencia-que-no-habilitaban-a-trabajar",
+    "note": "西班牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S25",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-25-1"
+      }
+    ]
+  },
+  {
+    "id": "S26",
+    "code": "[S26]",
+    "title": "西班牙移民部｜国际远程工作官方问答，第13问",
+    "url": "https://ciudadaniaexterior.inclusion.gob.es/documents/d/unidadgrandesempresas/digital-nomad-faqs-english",
+    "note": "西班牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S26",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-26-1"
+      }
+    ]
+  },
+  {
+    "id": "S27",
+    "code": "[S27]",
+    "title": "西班牙税务局｜个人税务居民判断",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/no-residentes/residencia-personas-fisicas-juridicas/persona-fisica-residente-espana.html",
+    "note": "西班牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S27",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-27-1"
+      }
+    ]
+  },
+  {
+    "id": "S28",
+    "code": "[S28]",
+    "title": "BOE｜个人所得税法35/2006，第2、9条",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764",
+    "note": "西班牙深查 · 发布复核：2026-09-28 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S28",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-28-1"
       }
     ]
   },

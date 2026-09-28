@@ -147,7 +147,7 @@
       "reportLabel": "西班牙深查",
       "category": "planning",
       "categoryLabel": "家庭专项深度报告",
-      "keywords": "西班牙 Spain NLV 非盈利 远程工作 ESO Bachillerato IPREM 长期居留 社区",
+      "keywords": "西班牙 Spain NLV 非盈利 非营利 随行 家庭清单 流程图 存款 被动收入 远程工作 ESO Bachillerato IPREM 长期居留 社区",
       "refs": [
         "deepspain-S1",
         "deepspain-S2",
@@ -172,7 +172,11 @@
         "deepspain-S21",
         "deepspain-S22",
         "deepspain-S23",
-        "deepspain-S24"
+        "deepspain-S24",
+        "deepspain-S25",
+        "deepspain-S26",
+        "deepspain-S27",
+        "deepspain-S28"
       ]
     },
     {
