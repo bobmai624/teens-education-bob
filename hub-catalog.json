@@ -245,7 +245,7 @@
       "reportLabel": "新加坡深查",
       "category": "planning",
       "categoryLabel": "家庭专项深度报告",
-      "keywords": "新加坡 Singapore AEIS S-AEIS LTVP WP 学生 PR NS 兵役 五年100万 IP Integrated Programme PSLE 12岁 15岁 18岁 Singpass 分数 成绩 大学 REP Tuition Grant TG 三年 工作",
+      "keywords": "新加坡 Singapore AEIS S-AEIS LTVP WP EP DP Dependant Pass 家属准证 雇主 兼职 IPA Notification Letter SGWorkPass 本地学费 18120 PR 父母 担保 21岁 失业 续签 NS 兵役 五年100万 IP Integrated Programme PSLE 12岁 15岁 18岁 Singpass 大学 REP Tuition Grant TG",
       "refs": [
         "deepsingapore-S1",
         "deepsingapore-S2",
@@ -304,7 +304,12 @@
         "deepsingapore-S55",
         "deepsingapore-S56",
         "deepsingapore-S57",
-        "deepsingapore-S58"
+        "deepsingapore-S58",
+        "deepsingapore-S59",
+        "deepsingapore-S60",
+        "deepsingapore-S61",
+        "deepsingapore-S62",
+        "deepsingapore-S63"
       ]
     },
     {

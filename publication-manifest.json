@@ -50,7 +50,7 @@
   ],
   "siteVersion": "6.0",
   "readingPages": 193,
-  "referenceRecords": 1279,
+  "referenceRecords": 1284,
   "coreReport": "family-report.html",
   "focusReport": "five-country-focus.html",
   "focusResearchDate": "2026-09-16",
@@ -71,7 +71,7 @@
     "publishedDate": "2026-09-28",
     "index": "family-projects.html",
     "canadaComparison": "canada-projects.html",
-    "sourceRecords": 237,
+    "sourceRecords": 242,
     "reports": [
       {
         "file": "quebec-child-public-school.html",
@@ -103,10 +103,10 @@
       },
       {
         "file": "singapore-student-family.html",
-        "rechecked": "2026-09-28",
-        "sources": 58,
-        "bytes": 755861,
-        "sha256": "029b3acf47589c158c7cc6859306b4e5e48917a3ca95f86b9e391476aef8d4ff"
+        "rechecked": "2026-09-30",
+        "sources": 63,
+        "bytes": 774933,
+        "sha256": "7013e34e90091baa8308e892b98352cde164c561c771c3af2704171fcfbb6389"
       }
     ]
   },
