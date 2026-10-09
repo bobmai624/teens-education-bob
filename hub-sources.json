@@ -25232,6 +25232,177 @@
     ]
   },
   {
+    "id": "S35",
+    "code": "[S35]",
+    "title": "UCM｜外国学生的居民收费与材料调整",
+    "url": "https://www.ucm.es/estudiantes-internacionales-y-pagos",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S35",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-35-1"
+      }
+    ]
+  },
+  {
+    "id": "S36",
+    "code": "[S36]",
+    "title": "UCM｜2026—2027本科学费表",
+    "url": "https://www.ucm.es/informacion/precios-de-grado",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S36",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "费用与汇率",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-36-1"
+      }
+    ]
+  },
+  {
+    "id": "S37",
+    "code": "[S37]",
+    "title": "UC3M｜缴费与居留身份认定日期",
+    "url": "https://www.uc3m.es/ss/Satellite/SecretariaVirtual/en/TextoDosColumnas/1371211804391/?d=Touch",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S37",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "签证与监护",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-37-1"
+      }
+    ]
+  },
+  {
+    "id": "S38",
+    "code": "[S38]",
+    "title": "BOE｜RD 534/2024大学入学与招生现行合并文本",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11858",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S38",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-38-1"
+      }
+    ]
+  },
+  {
+    "id": "S39",
+    "code": "[S39]",
+    "title": "UCM｜PAU 2026报名与考试日历",
+    "url": "https://www.ucm.es/pau-2026",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S39",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-39-1"
+      }
+    ]
+  },
+  {
+    "id": "S40",
+    "code": "[S40]",
+    "title": "UCM｜外国教育体系申请人的西语B2要求",
+    "url": "https://www.ucm.es/requisito-de-idioma-estudiantes-sistemas-educativos-extranjeros",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S40",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-40-1"
+      }
+    ]
+  },
+  {
+    "id": "S41",
+    "code": "[S41]",
+    "title": "西班牙教育部｜Bachillerato普通高中",
+    "url": "https://educagob.educacionfpydeportes.gob.es/ensenanzas/bachillerato.html",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S41",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "学校与研究资料",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-41-1"
+      }
+    ]
+  },
+  {
+    "id": "S42",
+    "code": "[S42]",
+    "title": "UCM｜本科招生常见问题",
+    "url": "https://www.ucm.es/faqs-1",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S42",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-42-1"
+      }
+    ]
+  },
+  {
+    "id": "S43",
+    "code": "[S43]",
+    "title": "UCM｜国际文凭IB的不同入学通道",
+    "url": "https://www.ucm.es/bachillerato-internacional",
+    "note": "西班牙深查 · 10.09专项复核非营利与家庭团聚；其余见正文原核查日期 · 各条适用期及证据限制见报告正文；模型不是个案报价",
+    "key": "deepspain-S43",
+    "report": "deepspain",
+    "reportLabel": "西班牙深查",
+    "topic": "入学与学籍",
+    "usedBy": [
+      {
+        "file": "spain-student-family.html",
+        "title": "西班牙：教育、陪伴与长期居留",
+        "category": "planning",
+        "anchor": "ref-43-1"
+      }
+    ]
+  },
+  {
     "id": "S1",
     "code": "[S1]",
     "title": "AIMA国家永久居留，第80条",

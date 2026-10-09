@@ -8,7 +8,7 @@ const html=fs.readFileSync(path.join(root,'spain-student-family.html'),'utf8');
 test('published Spain report contains complete deep-link, evidence and source sections',()=>{
  for(const id of ['age12-residence-route','study-half-clock','residence-evidence','nlv-checklist','nlv-work-options','funds-timeline','passive-income'])assert(html.includes(`id="${id}"`),id);
  assert.equal((html.match(/<details class="law-proof"/g)||[]).length,6);
- assert.equal((html.match(/<li id="source-/g)||[]).length,34);
+ assert.equal((html.match(/<li id="source-/g)||[]).length,43);
 });
 test('Chinese emphasis renders as formatting rather than visible markdown markers',()=>{
  const text=html.slice(html.indexOf('<body')).replace(/<script[\s\S]*?<\/script>/g,'').replace(/<[^>]*>/g,'');
@@ -33,9 +33,9 @@ test('official evidence PDF and six unmodified page images match the provenance 
 });
 test('report, reference library, publication manifest and home cards agree',()=>{
  const refs=JSON.parse(fs.readFileSync(path.join(root,'hub-sources.json'))).filter(s=>s.report==='deepspain');
- assert.equal(refs.length,34);
+ assert.equal(refs.length,43);
  const report=JSON.parse(fs.readFileSync(path.join(root,'publication-manifest.json'))).familyDeepReports.reports.find(r=>r.file==='spain-student-family.html');
- assert.equal(report.sources,34);
+ assert.equal(report.sources,43);
  assert.equal(report.sha256,crypto.createHash('sha256').update(html).digest('hex'));
  for(const f of ['index.html','family-projects.html'])assert(fs.readFileSync(path.join(root,f),'utf8').includes('12岁→17岁路线'));
 });
@@ -54,4 +54,12 @@ test('NLV conditions and student/family transitions have separate evidence-backe
  for(const text of ['€36,000','€72,000','第68.9条','EX-11','申请新的家庭团聚时已经18岁','2026年10月9日专项补充'])assert(html.includes(text),text);
  for(const cls of ['application-route','student-switch-route','family-pr-route'])assert(html.includes(`nlv-route ${cls}`),cls);
  assert(html.includes('La posterior autorización de residencia de la persona reagrupada será de larga duración.'));
+});
+test('school-to-university section distinguishes admission, resident fees and NLV continuity',()=>{
+ for(const id of ['school-to-university','university-admission-route','university-resident-fees','university-fee-example','university-timeline','university-status-continuity','nlv-eligibility-check'])assert(html.includes(`id="${id}"`),id);
+ for(const text of ['高中平均分60%＋PAU成绩40%','€1,015.20','€6,822.60','€5,807.40','2026年9月7日','不会因本人正在读大学而自动获得','三种文件不要混','两条线都过关'])assert(html.includes(text),text);
+ for(const term of ['Prueba de Acceso a la Universidad','European Credit Transfer and Accumulation System','Universidad Complutense de Madrid'])assert(html.includes(term),term);
+ const refs=JSON.parse(fs.readFileSync(path.join(root,'hub-sources.json'))).filter(s=>s.report==='deepspain');
+ assert(refs.some(r=>r.url==='https://www.ucm.es/estudiantes-internacionales-y-pagos'));
+ assert.equal((113.71-16.92)*60,5807.4);
 });
