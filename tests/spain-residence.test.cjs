@@ -5,6 +5,11 @@ const path=require('node:path');
 const crypto=require('node:crypto');
 const root=path.join(__dirname,'..');
 const html=fs.readFileSync(path.join(root,'spain-student-family.html'),'utf8');
+test('NLV dedicated zone clarifies amounts, savings and minor accompaniment',()=>{
+ for(const id of ['nlv-money-at-a-glance','nlv-child-age'])assert(html.includes(`id="${id}"`),id);
+ for(const text of ['30秒读懂','€28,800','€36,000','€43,200','不是每年十几万欧元','父母都不去，只给孩子汇钱','足额存款＋同额被动收入'])assert(html.includes(text),text);
+ assert(html.includes('不是签证费、指定消费金额'));
+});
 test('published Spain report contains complete deep-link, evidence and source sections',()=>{
  for(const id of ['age12-residence-route','study-half-clock','residence-evidence','nlv-checklist','nlv-work-options','funds-timeline','passive-income'])assert(html.includes(`id="${id}"`),id);
  assert.equal((html.match(/<details class="law-proof"/g)||[]).length,6);
