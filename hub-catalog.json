@@ -160,7 +160,7 @@
       "reportLabel": "西班牙深查",
       "category": "planning",
       "categoryLabel": "家庭专项深度报告",
-      "keywords": "西班牙 Spain NLV 非盈利 非营利 随行 家庭清单 流程图 存款 被动收入 远程工作 ESO Bachillerato IPREM 长期居留 社区 12岁 17岁 PR 欧盟长期居留 学生停留 50% 折算 第176条 第183条 第190条 BOE 截图 连续居住 6个月 10个月 183天 毕业 工签 本科 硕士 断档",
+      "keywords": "西班牙 Spain NLV 非盈利 非营利 随行 家庭清单 流程图 存款 被动收入 远程工作 ESO Bachillerato IPREM 长期居留 社区 12岁 17岁 PR 欧盟长期居留 学生停留 50% 折算 第176条 第183条 第190条 第68.9条 家庭团聚 EX-11 BOE 截图 连续居住 6个月 10个月 183天 毕业 工签 本科 硕士 断档",
       "refs": [
         "deepspain-S1",
         "deepspain-S2",
@@ -192,7 +192,10 @@
         "deepspain-S28",
         "deepspain-S29",
         "deepspain-S30",
-        "deepspain-S31"
+        "deepspain-S31",
+        "deepspain-S32",
+        "deepspain-S33",
+        "deepspain-S34"
       ]
     },
     {
